@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_arszi_campfire_roast_campfire_off">
+		<text>Нельзя пользоваться незажженным костром</text>
+	</string>
+
+	<string id="st_arszi_campfire_roast_danger">
+		<text>Вы не можете использовать костер, пока враги находятся поблизости</text>
+	</string>
+
+	<string id="st_arszi_campfire_roast_surge">
+		<text>Вы не можете использовать костер во время выброса</text>
+	</string>
+
+	<string id="st_arszi_campfire_roast_psi_storm">
+		<text>Нельзя разводить костер во время пси-шторма</text>
+	</string>
+</string_table>

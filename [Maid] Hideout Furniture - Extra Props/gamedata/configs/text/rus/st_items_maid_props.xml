@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_prop_laptop_item">
+		<text>Ноутбук</text>
+	</string>
+	<string id="st_prop_laptop_item_descr">
+		<text>
+			Очень сложный и современный ноутбук, вы удивитесь его существованию.
+		</text>
+	</string>
+
+	<string id="st_prop_bed_1">
+		<text>Раскладная кровать</text>
+	</string>
+	<string id="st_prop_bed_1_descr">
+		<text>
+			Простой матрас и одеяло, легкие и портативные.
+		</text>
+	</string>
+
+	<string id="st_prop_bed_2">
+		<text>Металлическая кровать</text>
+	</string>
+	<string id="st_prop_bed_2_descr">
+		<text>
+			Старая ржавая металлическая кровать с основными вещами и одеялом лучше, чем спать в земле.
+		</text>
+	</string>
+
+	<string id="st_prop_bed_3">
+		<text>Деревянная кровать</text>
+	</string>
+	<string id="st_prop_bed_3_descr">
+		<text>
+			Крепкая деревянная кровать с более мягким и удобным матрасом поставляется с двойным комплектом одеял, чтобы согреться в холодные ночи.
+		</text>
+	</string>
+
+	<string id="st_prop_board_map">
+		<text>Карта зоны</text>
+	</string>
+	<string id="st_prop_board_map_descr">
+		<text>
+			Крепкая деревянная кровать с более мягким и удобным матрасом поставляется с двойным комплектом одеял, чтобы согреться в холодные ночи.
+		</text>
+	</string>
+
+	<string id="st_prop_cans_tuna">
+		<text>Банки с тунцом</text>
+	</string>
+	<string id="st_prop_cans_tuna_descr">
+		<text>
+			Деревянный ящик с кучей банок тунца, они не кажутся съедобными.
+		</text>
+	</string>
+
+	<string id="st_prop_couch_1">
+		<text>Старый диван</text>
+	</string>
+	<string id="st_prop_couch_1_descr">
+		<text>
+			Старый диван, он на удивление в хорошем состоянии и не весь в радиации.
+		</text>
+	</string>
+
+	<string id="st_prop_counter_1">
+		<text>Деревянная стойка</text>
+	</string>
+	<string id="st_prop_counter_1_descr">
+		<text>
+			Простая старая деревянная стойка, пережившая суровые условия, все еще в хорошем состоянии.
+		</text>
+	</string>
+
+	<string id="st_prop_poster_vertical_item">
+		<text>Плакат (вертикальный)</text>
+	</string>
+	<string id="st_prop_poster_vertical_item_descr">
+		<text>
+			Простой лист бумаги с изображением на нем (настраиваемое).
+		</text>
+	</string>
+
+	<string id="st_prop_table_1">
+		<text>Деревянный стол</text>
+	</string>
+	<string id="st_prop_table_1_descr">
+		<text>
+			Крепкий деревянный стол, все еще в хорошем состоянии.
+		</text>
+	</string>
+
+	<string id="st_prop_table_2">
+		<text>Деревянный стол</text>
+	</string>
+	<string id="st_prop_table_2_descr">
+		<text>
+			Средний деревянный стол, надежный и крепкий.
+		</text>
+	</string>
+
+</string_table>

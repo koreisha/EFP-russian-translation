@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_campfire_off">
+		<text>Нельзя сохраняться у незажженного костра</text>
+	</string>
+
+	<string id="st_campfire_danger">
+		<text>Нельзя сохраняться у костра, пока рядом находятся враги.</text>
+	</string>
+
+	<string id="st_campfire_surge">
+		<text>Нельзя сохраняться у костра во время выброса</text>
+	</string>
+
+	<string id="st_campfire_psi_storm">
+		<text>Нельзя сохраняться у костра во время пси-шторма</text>
+	</string>
+
+</string_table>

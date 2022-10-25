@@ -1,0 +1,16 @@
+<!-- 
+	MCM
+-->
+<string_table>
+
+	<string id="ui_mcm_fight_my_foes_title">
+		<text>Сражайся с моими врагами</text>
+	</string>
+    <string id="ui_mcm_menu_fight_my_foes">
+		<text>Сражайся с моими врагами</text>
+	</string>
+	<string id="ui_mcm_fight_my_foes_enable_fight_my_foes">
+		<text>Включить логику борьбы с моими врагами</text>
+	</string>
+	
+</string_table>

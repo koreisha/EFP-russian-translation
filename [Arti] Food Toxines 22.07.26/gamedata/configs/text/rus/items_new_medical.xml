@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="st_carbon">
+		<text>Активированный уголь в таблетках</text>
+	</string>
+	<string id="st_carbon_descr">
+		<text>Потребляемые таблетки активированного угля, изготовленные из кокосовой шелухи, используются для лечения проглоченных ядов и токсинов. Таблетка работает, механически улавливая потенциальные токсичные химические вещества или яды в микропоры, предотвращая всасывание  ядов организмом, а также улавливая любые непереваренные витамины, наркотики или алкоголь. Очень часто используется сталкерами для противодействия токсинам, которые часто встречаются в мясе мутантов и старой еде.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] антитоксин\n
+		%c[d_blue] • %c[ui_gray_2] легкий отрезвляющий эффект\n
+		</text>
+	</string>
+
+	<string id="st_emetic">
+		<text>Эметин флакон</text>
+	</string>
+	<string id="st_emetic_descr">
+		<text>Флакон с эметином, препаратом, полученным из корня ипекакуаны. Эметин часто используется для лечения амёбной дизентерии и для вызова рвоты при отравлениях. Поскольку он сам по себе является слабым ядом, принимать этот препарат в неодобренных дозах небезопасно. Многие сталкеры рассматривают это как крайнюю меру, если они съели что-то грязное или опасное и нуждаются в том, чтобы это выбрасывалось из организма, как действительно плохая еда. Для использования отойдите в дальний угол, выньте пипетку и закапайте три капли в заднюю часть горла.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] антитоксин\n
+		%c[d_blue] • %c[ui_gray_2] вызывает тошноту\n
+		%c[d_blue] • %c[ui_gray_2] сильный отрезвляющий эффект\n
+		</text>
+	</string>
+
+	<string id="st_decoction_dog">
+		<text>Дистиллят слепой собаки</text>
+	</string>
+	<string id="st_decoction_dog_descr">
+		<text>Пурпурная жидкость с неприятным запахом, приготовленная из сердец и печени слепых собак. Ласково известное сталкерами как «Собачья шерсть», это излюбленное народное средство от усталости и утомления. Он также придает некоторую естественную устойчивость слепой собаки к токсичности, однако сам напиток слегка токсичен. Вкус тоже не так уж ужасен - если представить, что пьешь стакан кваса, то вкус почти такой же.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] лекарство местного производства\n
+		</text>
+	</string>
+
+	<string id="decoction_boar">
+		<text>Настойка копыта кабана</text>
+	</string>
+	<string id="st_decoction_boar_descr">
+		<text>Грубая непрозрачная коричневая жидкость из измельченных копыт кабана. С любовью пробует грязь с детской площадки. Популярное народное средство от лучевой болезни, если вы решили, что диарея и усталость лучше, чем умереть от радиационного отравления.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] лекарство местного производства\n
+		</text>
+	</string>
+
+	<string id="st_decoction_flesh">
+		<text>Экстракт сыворотки плоти</text>
+	</string>
+	<string id="st_decoction_flesh_descr">
+		<text>Ядовитая фиолетовая жидкость, которая обжигает волосы в носу при обонянии. Эта отвратительная смесь готовится из сырого мяса и глаз мутировавших свиней. Ускоряет механизмы заживления тела неизвестным образом, и поэтому лучше всего подходит раненому сталкеру, восстанавливающемуся после полученных травм. Однако вкус заставляет желать пули.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] лекарство местного производства\n
+		</text>
+	</string>
+
+	<string id="st_decoction_krovoso">
+		<text>Отвар кровососа</text>
+	</string>
+	<string id="st_decoction_krovoso_descr">
+		<text>Непрозрачная маслянистая красная жидкость, напоминающая плазму крови, сделанная из сердца и щупалец страшного кровососа. Заставляет организм быстро вырабатывать эритроциты и тромбоциты, ускоряет естественную регенерацию ран, что делает его чрезвычайно эффективным при больших кровопотерях. Востребован среди членов «Долга» для зашивания ран, полученных при расчистке гнезд мутантов. Вкус тоже не плохой, но консистенция лекарства затрудняет проглатывание. \n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] лекарство местного производства\n
+		</text>
+	</string>
+
+	<string id="st_decoction_cat">
+		<text>Тоник 'Тигровый глаз'</text>
+	</string>
+	<string id="st_decoction_cat_descr">
+		<text>Газированная прозрачная жидкость с ароматом аммиака, приготовленная из ферментированного глаза кикиморы и кошачьей щитовидной железы. Мощная альтернатива более популярному «Собачьему напитку», этот напиток используется опытными охотниками, чтобы преследовать свою добычу на большие расстояния и сохранять умственную активность даже после нескольких дней в полевых условиях. Однако ловить кошек сложнее, чем собак, а кикиморы часто готовят еду из незадачливых сталкеров, так что это относительно необычная смесь.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] лекарство местного производства\n
+		</text>
+	</string>
+
+	<string id="st_decoction_chimera">
+		<text>'Хищник вершины'</text>
+	</string>
+	<string id="st_decoction_chimera_descr">
+		<text>Мутное, горькое лекарство, приготовленное из сердца и плоти химеры. Хранить в колбе, так как прямое воздействие света денатурирует активные ингредиенты. Кровь химеры содержит большое количество неизвестных органических молекул, внешне напоминающих стероиды, которые, по мнению ученых, наделяют монстра колоссальной силой, выносливостью и регенеративными способностями. Это лекарство позволяет сталкерам иметь небольшую часть способностей Химеры, но из-за сложности поиска ингредиентов оно встречается крайне редко. Препарат также высокотоксичен для крови, поэтому не рекомендуется длительное применение.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] лекарство местного производства\n
+		</text>
+	</string>
+
+	<string id="st_decoction_giant">
+		<text>Эликсир псевдогиганта</text>
+	</string>
+	<string id="st_decoction_giant_descr">
+		<text>Из рук и глаз Псевдогиганта сварено сильнодействующее лекарство. Если его не встряхивать, на дне собирается осадок, который гуще бетонной смеси. Легенды рассказывают о бойцах «Монолита», которые продолжали сражаться, несмотря на ранения в грудь или оторванные взрывчаткой конечности, целиком и полностью не чувствуя любой боли. Почитается как дар Зоны.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] лекарство местного производства\n
+		%c[d_blue] • %c[ui_gray_2] колоссальное сопротивление урону\n
+		</text>
+	</string>
+
+	<string id="st_breadmold">
+		<text>Черствый хлеб</text>
+	</string>
+	<string id="st_breadmold_descr">
+		<text>Старый кусок хлеба, частично покрытый плесенью. Не очень безопасно есть, но все же питательно.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] food\n
+		%c[d_red] • %c[ui_gray_2] low quality\n
+		</text>
+	</string>
+
+	<string id="st_nuts_new_descr">
+		<text>Пакет орехов ассорти торговой марки 'Dee's Nuts'. Содержит арахис, фундук, кешью и миндаль в приятной и популярной смеси. Пищевая ценность довольно высокая, довольно легко съесть в дороге. Особенно вкусно в сочетании с изюмом. Привезен из Южной Африки.\n \n
+		%c[ui_gray_3]PROPERTIES:\n
+		%c[d_blue] • %c[ui_gray_2] food\n
+		%c[d_blue] • %c[ui_gray_2] imported\n
+		%c[d_blue] • %c[ui_gray_2] high quality\n
+		%c[d_blue] • %c[ui_gray_2] clean nutrition source\n
+		</text>
+	</string>
+
+	<string id="st_poison_0">
+		<text>Я хорошо себя чувствую.</text>
+	</string>
+	<string id="st_poison_1">
+		<text>Я чувствую себя немного больным.</text>
+	</string>
+	<string id="st_poison_2">
+		<text>Я чувствую себя не хорошо.</text>
+	</string>
+	<string id="st_poison_3">
+		<text>Я плохо себя чувствую.</text>
+	</string>
+	<string id="st_poison_4">
+		<text>Я чувствую себя ужасно..</text>
+	</string>
+	<string id="st_poison_5">
+		<text>Я не выдержу...</text>
+	</string>
+
+
+	<string id="st_poison_add">
+		<text>токсичный</text>
+	</string>
+
+	<string id="st_poison_subtract">
+		<text>эффективно снижает токсичность</text>
+	</string>
+
+	<string id="st_dot">
+		<text>•</text>
+	</string>
+	<!-- 0-25 -->
+	<string id="st_poison_mag_0">
+		<text>немного</text>
+	</string>
+	<!-- 25-75 -->
+	<string id="st_poison_mag_1">
+		<text>умеренно</text>
+	</string>
+	<!-- 75-200 -->
+	<string id="st_poison_mag_2">
+		<text>умеренно</text>
+	</string>
+	<!-- 200+ -->
+	<string id="st_poison_mag_3">
+		<text>значительно</text>
+	</string>
+
+	<string id="st_poison_verbose">
+		<text>Уровень отравления: </text>
+	</string>
+	<string id="st_poison_verbose">
+		<text>Уровень отравления: </text>
+	</string>
+
+	<string id="ui_mcm_menu_poison">
+		<text>Яд</text>
+	</string>
+	<string id="ui_mcm_poison_title">
+		<text>Конфигурация пищевого отравления</text>
+	</string>
+	<string id="ui_mcm_poison_verbosity">
+		<text>Уровень детализации:</text>
+	</string>
+	
+	<string id="ui_mcm_poison_verbosity_desc">
+		<text>Off: No message indications of poisoning.\n \nApproximate: Rough estimates on poisoning level.\n \nExact: Gives exact poison level out of 1000.</text>
+	</string>
+	<string id="ui_mcm_lst_poison_off">
+		<text>Выкл.</text>
+	</string>
+	<string id="ui_mcm_lst_poison_approx">
+		<text>Приблизительно</text>
+	</string>
+	<string id="ui_mcm_lst_poison_full">
+		<text>Полный</text>
+	</string>
+	<string id="ui_mcm_poison_bar">
+		<text>Показать полосу токсичности</text>
+	</string>
+	<string id="ui_mcm_poison_bar_desc">
+		<text>Показывать полосу токсичности при потреблении предметов, которые дают или снимают отравление.</text>
+	</string>
+	<string id="ui_mcm_poison_doc">
+		<text>Уровень здравоохранения</text>
+	</string>
+	<string id="ui_mcm_poison_doc_desc">
+		<text>Определяет, полностью ли врачи удаляют отравление при лечении и каким образом.
+			\n \n America: Doctors don't cure poisoning.
+			\n \n [NOT WORKING] Canada: Doctors cure poisoning, but the cost scales with level.
+			\n \n Scandinavia: Doctors cure poisoning at no extra cost.
+		</text>
+	</string>
+	
+	<string id="ui_mcm_lst_america">
+		<text>Америка</text>
+	</string>
+	<string id="ui_mcm_lst_canada">
+		<text>Канада</text>
+	</string>
+	<string id="ui_mcm_lst_scandinavia">
+		<text>Скандинавия</text>
+	</string>
+	<string id="ui_mcm_poison_chance">
+		<text>Шанс выпадения таблетки</text>
+	</string>
+	<string id="ui_mcm_poison_chance_desc">
+		<text>Есть шанс, что из сталкеров выпадет активированный уголь.</text>
+	</string>
+	<string id="ui_mcm_poison_enabled">
+		<text>Включить отравление</text>
+	</string>
+	<string id="ui_mcm_poison_enabled_desc">
+		<text>Включает функции, предоставляемые этим модом - накопление токсинов при потреблении пищи и отваров, негативные эффекты статуса из-за уровня отравления и выпадение активированного угля.\n \nNote that this will purge your existing toxins. Don't cheat!</text>
+	</string>
+	<string id="ui_mcm_poison_dev">
+		<text>Режим разработки</text>
+	</string>
+	<string id="ui_mcm_poison_dev_desc">
+		<text>Включает консольную печать и позволяет использовать некоторые функции.</text>
+	</string>
+</string_table>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+<string id="ui_mcm_menu_ballistics">
+	<text>Баллистика</text>
+</string>
+<string id="ui_mcm_ballistics_title">
+	<text>Баллистическая структура</text>
+</string>
+
+<string id="ui_mcm_ballistics_debug">
+	<text>Ведение журнала разработчиков.</text>
+</string>
+<string id="ui_mcm_ballistics_impair">
+	<text>Пользовательские значения снижения качества</text>
+</string>
+<string id="ui_mcm_ballistics_impair_desc">
+	<text>Примените уровень повреждения в пользовательской конфигурации боеприпасов.</text>
+</string>
+<string id="ui_mcm_ballistics_cost">
+	<text>Пользовательские значения стоимости</text>
+</string>
+<string id="ui_mcm_ballistics_cost_desc">
+	<text>Use базовая стоимость, определенная в пользовательской конфигурации боеприпасов.</text>
+</string>
+<string id="ui_mcm_ballistics_mutant">
+	<text>Увеличение здоровья мутанта</text>
+</string>
+<string id="ui_mcm_ballistics_mutant_desc">
+	<text>Искусственно увеличивает здоровье выбранных мутантов (контроллеров, химер, кровососов) при использовании функции ballistics_utils.mutant_prot_values. Обратите внимание, что у зомби всегда есть 10x hp, чтобы воспроизвести расчет скрытого скрипта.</text>
+</string>
+<string id="ui_mcm_ballistics_burer">
+	<text>Варианты долговечности бюрера</text>
+</string>
+<string id="ui_mcm_ballistics_burer_desc">
+	<text>Изменяет танковое поведение бюреров. Возможны следующие варианты:
+\n \n Классика: как они сейчас (высокая броня, для поражения требуются винтовочные патроны)
+\n \n Мясистый: уменьшает их броню примерно до уровня Псевдособаки и утраивает их здоровье. Делает HP раунды более эффективными.
+\n \n Ситхи: их броня снижена примерно до уровня Псевдодога, и они пассивно отражают низкоскоростные снаряды.</text>
+</string>
+<string id="ui_mcm_lst_bclassic">
+	<text>Классический</text>
+</string>
+<string id="ui_mcm_lst_bmeaty">
+	<text>Мясистый</text>
+</string>
+<string id="ui_mcm_lst_bsith">
+	<text>Ситх</text>
+</string>
+<string id="ui_mcm_ballistics_rungun">
+	<text>Режим «Беги и стреляй»</text>
+</string>
+<string id="ui_mcm_ballistics_rungun_desc">
+	<text>Увеличивает количество выпадающих боеприпасов, немного уменьшает исходящий урон и снижает стоимость продажи боеприпасов.</text>
+</string>
+</string_table>
