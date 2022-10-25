@@ -1,0 +1,8 @@
+<string_table>
+	<string id="ui_inv_thirst">
+		<text>Жажда</text>
+	</string>
+	<string id="ui_inv_sleep">
+		<text>Cонливость</text>
+	</string>
+</string_table>

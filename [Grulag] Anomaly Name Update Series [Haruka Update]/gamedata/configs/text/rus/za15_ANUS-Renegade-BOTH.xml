@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="lname_renegade_0"> 
+	<text></text> <!-- Some trickery to give renegades an invisible last name -->
+	</string>
+
+
+	<string id="name_renegade_0">
+		<text>Мусор</text>
+	</string>
+	<string id="name_renegade_1">
+		<text>Мусорщик</text>
+	</string>
+	<string id="name_renegade_2">
+		<text>Вор</text>
+	</string>
+	<string id="name_renegade_3">
+		<text>Подлый</text>
+	</string>
+	<string id="name_renegade_4">
+		<text>Живодер</text>
+	</string>
+	<string id="name_renegade_5">
+		<text>Злодей</text>
+	</string>
+	<string id="name_renegade_6">
+		<text>Хулиган</text>
+	</string>
+	<string id="name_renegade_7">
+		<text>Хлам</text>
+	</string>
+	<string id="name_renegade_8">
+		<text>Накипь</text>
+	</string>
+	<string id="name_renegade_9">
+		<text>Подонок</text>
+	</string>
+	<string id="name_renegade_10">
+		<text>Грязь</text>
+	</string>
+	<string id="name_renegade_11">
+		<text>Гнилой</text>
+	</string>
+	<string id="name_renegade_12">
+		<text>Отчаянный</text>
+	</string>
+	<string id="name_renegade_13">
+		<text>Противный</text>
+	</string>
+	<string id="name_renegade_14">
+		<text>Дрянной</text>
+	</string>
+	<string id="name_renegade_15">
+		<text>Отвратительный</text>
+	</string>
+	<string id="name_renegade_16">
+		<text>Гончий</text>
+	</string>
+	<string id="name_renegade_17">
+		<text>Спекулянт</text>
+	</string>
+	<string id="name_renegade_18">
+		<text>Череполом</text>
+	</string>
+	<string id="name_renegade_19">
+		<text>Рыхлитель</text>
+	</string>
+	<string id="name_renegade_20">
+		<text>Сгусток</text>
+	</string>
+	<string id="name_renegade_21">
+		<text>Молотильщик</text>
+	</string>
+	<string id="name_renegade_22">
+		<text>Смельчак</text>
+	</string>
+	<string id="name_renegade_23">
+		<text>Кальмар</text>
+	</string>
+	<string id="name_renegade_24">
+		<text>Подлый</text>
+	</string>
+	<string id="name_renegade_25">
+		<text>Покер</text>
+	</string>
+	<string id="name_renegade_26">
+		<text>Наркоман</text>
+	</string>
+	<string id="name_renegade_27">
+		<text>Метамфетамин</text>
+	</string>
+	<string id="name_renegade_28">
+		<text>Сигара</text>
+	</string>
+	<string id="name_renegade_29">
+		<text>Убийца</text>
+	</string>
+	<string id="name_renegade_30">
+		<text>Рельс</text>
+	</string>
+	<string id="name_renegade_31">
+		<text>Размазня</text>
+	</string>
+	<string id="name_renegade_32">
+		<text>Боль</text>
+	</string>
+	<string id="name_renegade_33">
+		<text>Мешок</text>
+	</string>
+	<string id="name_renegade_34">
+		<text>Свинья</text>
+	</string>
+	<string id="name_renegade_35">
+		<text>Алчность</text>
+	</string>
+	<string id="name_renegade_36">
+		<text>Ошибка</text>
+	</string>
+	<string id="name_renegade_37">
+		<text>Трэш</text>
+	</string>
+	<string id="name_renegade_38">
+		<text>Сокрушитель</text>
+	</string>
+	<string id="name_renegade_39">
+		<text>Гашер</text>
+	</string>
+	<string id="name_renegade_40">
+		<text>Гиена</text>
+	</string>
+	<string id="name_renegade_41">
+		<text>Лукавый</text>
+	</string>
+	<string id="name_renegade_42">
+		<text>Ехидный</text>
+	</string>
+	<string id="name_renegade_43">
+		<text>Хитрый</text>
+	</string>
+	<string id="name_renegade_44">
+		<text>Вброс</text>
+	</string>
+	<string id="name_renegade_45">
+		<text>Запойный</text>
+	</string>
+	<string id="name_renegade_46">
+		<text>Святой</text>
+	</string>
+	<string id="name_renegade_47">
+		<text>Душный</text>
+	</string>
+	<string id="name_renegade_48">
+		<text>Опасность</text>
+	</string>
+	<string id="name_renegade_49">
+		<text>Ржавый</text>
+	</string>
+	<string id="name_renegade_50">
+		<text>Артерия</text>
+	</string>
+	<string id="name_renegade_51">
+		<text>Громила</text>
+	</string>
+	<string id="name_renegade_52">
+		<text>Колотушка</text>
+	</string>
+	<string id="name_renegade_53">
+		<text>Поезд</text>
+	</string>
+	<string id="name_renegade_54">
+		<text>Гниль</text>
+	</string>
+	<string id="name_renegade_55">
+		<text>Бумыч</text>
+	</string>
+	<string id="name_renegade_56">
+		<text>Хриплый</text>
+	</string>
+	<string id="name_renegade_57">
+		<text>Хряк</text>
+	</string>
+	<string id="name_renegade_58">
+		<text>Охотник</text>
+	</string>
+	<string id="name_renegade_59">
+		<text>Дымный</text>
+	</string>
+	<string id="name_renegade_60">
+		<text>Урод</text>
+	</string>
+	<string id="name_renegade_61">
+		<text>Среброзубый</text>
+	</string>
+	<string id="name_renegade_62">
+		<text>Клешня</text>
+	</string>
+	<string id="name_renegade_63">
+		<text>Азартный</text>
+	</string>
+	<string id="name_renegade_64">
+		<text>Риск</text>
+	</string>
+	<string id="name_renegade_65">
+		<text>Головорез</text>
+	</string>
+	<string id="name_renegade_66">
+		<text>Порочный</text>
+	</string>
+	<string id="name_renegade_67">
+		<text>Высокомерный</text>
+	</string>
+	<string id="name_renegade_68">
+		<text>Волдырь</text>
+	</string>
+	<string id="name_renegade_69">
+		<text>Бородавка</text>
+	</string>
+	<string id="name_renegade_70">
+		<text>Больной</text>
+	</string>
+	<string id="name_renegade_71">
+		<text>Рейдер</text>
+	</string>
+	<string id="name_renegade_72">
+		<text>Резчик</text>
+	</string>
+	<string id="name_renegade_73">
+		<text>Неудачник</text>
+	</string>
+	<string id="name_renegade_74">
+		<text>Болван</text>
+	</string>
+	<string id="name_renegade_75">
+		<text>Пепельница</text>
+	</string>
+	<string id="name_renegade_76">
+		<text>Алкоголик</text>
+	</string>
+	<string id="name_renegade_77">
+		<text>Висельник</text>
+	</string>
+	<string id="name_renegade_78">
+		<text>Чума</text>
+	</string>
+	<string id="name_renegade_79">
+		<text>Язва</text>
+	</string>
+	<string id="name_renegade_80">
+		<text>Зола</text>
+	</string>
+	<string id="name_renegade_81">
+		<text>Кочегар</text>
+	</string>
+	<string id="name_renegade_82">
+		<text>Виновный</text>
+	</string>
+	<string id="name_renegade_83">
+		<text>Похититель</text>
+	</string>
+	<string id="name_renegade_84">
+		<text>Плохой</text>
+	</string>
+	<string id="name_renegade_85">
+		<text>Крушитель</text>
+	</string>
+	<string id="name_renegade_86">
+		<text>Ловец</text>
+	</string>
+	<string id="name_renegade_87">
+		<text>Лжец</text>
+	</string>
+	<string id="name_renegade_88">
+		<text>Хромой</text>
+	</string>
+	<string id="name_renegade_89">
+		<text>Пират</text>
+	</string>
+	<string id="name_renegade_90">
+		<text>Рана</text>
+	</string>
+	<string id="name_renegade_91">
+		<text>Пыль</text>
+	</string>
+	<string id="name_renegade_92">
+		<text>Вампир</text>
+	</string>
+	<string id="name_renegade_93">
+		<text>Кровь</text>
+	</string>
+	<string id="name_renegade_94">
+		<text>Бестактный</text>
+	</string>
+	<string id="name_renegade_95">
+		<text>Свитч</text>
+	</string>
+	<string id="name_renegade_96">
+		<text>Живорез</text>
+	</string>
+	<string id="name_renegade_97">
+		<text>Кинжал</text>
+	</string>
+	<string id="name_renegade_98">
+		<text>Черное Сердце</text>
+	</string>
+	<string id="name_renegade_99">
+		<text>Черная Борода</text>
+	</string>
+	<string id="name_renegade_100">
+		<text>Серебряный язык</text>
+	</string>
+	<string id="name_renegade_101">
+		<text>Медноротый</text>
+	</string>
+	<string id="name_renegade_102">
+		<text>Алмазный глаз</text>
+	</string>
+	<string id="name_renegade_103">
+		<text>Странный</text>
+	</string>
+	<string id="name_renegade_104">
+		<text>Безнадежный</text>
+	</string>
+	<string id="name_renegade_105">
+		<text>Сбитый</text>
+	</string>
+	<string id="name_renegade_106">
+		<text>Стройный</text>
+	</string>
+	<string id="name_renegade_107">
+		<text>Зевака</text>
+	</string>
+	<string id="name_renegade_108">
+		<text>Рвота</text>
+	</string>
+	<string id="name_renegade_109">
+		<text>Гнилостный</text>
+	</string>
+	<string id="name_renegade_110">
+		<text>Изгнанный</text>
+	</string>
+	<string id="name_renegade_111">
+		<text>Черный</text>
+	</string>
+	<string id="name_renegade_112">
+		<text>Киллсалот</text>
+	</string>
+	<string id="name_renegade_113">
+		<text>Визг</text>
+	</string>
+	<string id="name_renegade_114">
+		<text>Нож</text>
+	</string>
+	<string id="name_renegade_115">
+		<text>Месть</text>
+	</string>
+	<string id="name_renegade_116">
+		<text>Вуду</text>
+	</string>
+	<string id="name_renegade_117">
+		<text>Сыпь</text>
+	</string>
+	<string id="name_renegade_118">
+		<text>Бешеный</text>
+	</string>
+	<string id="name_renegade_119">
+		<text>Обманщик</text>
+	</string>
+	<string id="name_renegade_120">
+		<text>Очкарик</text>
+	</string>
+	<string id="name_renegade_121">
+		<text>Стебель</text>
+	</string>
+	<string id="name_renegade_122">
+		<text>Мертвый</text>
+	</string>
+	<string id="name_renegade_123">
+		<text>Бледный</text>
+	</string>
+	<string id="name_renegade_124">
+		<text>Неправильный</text>
+	</string>
+	<string id="name_renegade_125">
+		<text>Глупый</text>
+	</string>
+	<string id="name_renegade_126">
+		<text>Че</text>
+	</string>
+	<string id="name_renegade_127">
+		<text>Судорга</text>
+	</string>
+	<string id="name_renegade_128">
+		<text>Обманщик</text>
+	</string>
+	<string id="name_renegade_129">
+		<text>Мертвый глаз</text>
+	</string>
+	<string id="name_renegade_130">
+		<text>Разрезатель</text>
+	</string>
+	<string id="name_renegade_131">
+		<text>Садист</text>
+	</string>
+	<string id="name_renegade_132">
+		<text>Несчастный</text>
+	</string>
+	<string id="name_renegade_133">
+		<text>Нимрод</text>
+	</string>
+	<string id="name_renegade_134">
+		<text>Грабитель</text>
+	</string>
+	<string id="name_renegade_135">
+		<text>Крест</text>
+	</string>
+	<string id="name_renegade_136">
+		<text>Тряпка</text>
+	</string>
+	<string id="name_renegade_137">
+		<text>Змея</text>
+	</string>
+	<string id="name_renegade_138">
+		<text>Яд</text>
+	</string>
+	<string id="name_renegade_139">
+		<text>Ужасный</text>
+	</string>
+	<string id="name_renegade_140">
+		<text>Предатель</text>
+	</string>
+	<string id="name_renegade_141">
+		<text>Измена</text>
+	</string>
+	<string id="name_renegade_142">
+		<text>Кровавый</text>
+	</string>
+	<string id="name_renegade_143">
+		<text>Вонючий</text>
+	</string>
+	<string id="name_renegade_144">
+		<text>Осведомитель</text>
+	</string>
+	<string id="name_renegade_145">
+		<text>Мышьяк</text>
+	</string>
+	<string id="name_renegade_146">
+		<text>Пытка</text>
+	</string>
+	<string id="name_renegade_147">
+		<text>Террор</text>
+	</string>
+	<string id="name_renegade_148">
+		<text>Разрушитель</text>
+	</string>
+	<string id="name_renegade_149">
+		<text>Убой</text>
+	</string>
+	<string id="name_renegade_150">
+		<text>Заключённый</text>
+	</string>
+	<string id="name_renegade_151">
+		<text>Осуждённый</text>
+	</string>
+	<string id="name_renegade_152">
+		<text>Правонарушитель</text>
+	</string>
+	<string id="name_renegade_153">
+		<text>Треков</text>
+	</string>
+	<string id="name_renegade_154">
+		<text>Мусорка</text>
+	</string>
+	<string id="name_renegade_155">
+		<text>Кладбище</text>
+	</string>
+	<string id="name_renegade_156">
+		<text>Надгробник</text>
+	</string>
+	<string id="name_renegade_157">
+		<text>Уродец</text>
+	</string>
+	<string id="name_renegade_158">
+		<text>Подделка</text>
+	</string>
+	<string id="name_renegade_159">
+		<text>Мошенник</text>
+	</string>
+	<string id="name_renegade_160">
+		<text>Маниакальный</text>
+	</string>
+	<string id="name_renegade_161">
+		<text>Безлюдный</text>
+	</string>
+	<string id="name_renegade_162">
+		<text>Фальшивомонетчик</text>
+	</string>
+	<string id="name_renegade_163">
+		<text>Выключатель</text>
+	</string>
+	<string id="name_renegade_164">
+		<text>Властный</text>
+	</string>
+	<string id="name_renegade_165">
+		<text>Враждебный</text>
+	</string>
+	<string id="name_renegade_166">
+		<text>Поджигатель</text>
+	</string>
+	<string id="name_renegade_167">
+		<text>Ужасный</text>
+	</string>
+	<string id="name_renegade_168">
+		<text>Топор</text>
+	</string>
+	<string id="name_renegade_169">
+		<text>Варвар</text>
+	</string>
+	<string id="name_renegade_170">
+		<text>Синдикат</text>
+	</string>
+	<string id="name_renegade_171">
+		<text>Мясник</text>
+	</string>
+	<string id="name_renegade_172">
+		<text>Коричневый</text>
+	</string>
+	<string id="name_renegade_173">
+		<text>Могильный</text>
+	</string>
+	<string id="name_renegade_174">
+		<text>Золотой</text>
+	</string>
+	<string id="name_renegade_175">
+		<text>Измельчитель</text>
+	</string>
+	<string id="name_renegade_176">
+		<text>Гроб</text>
+	</string>
+	<string id="name_renegade_177">
+		<text>Кома</text>
+	</string>
+	<string id="name_renegade_178">
+		<text>Коматозный</text>
+	</string>
+	<string id="name_renegade_179">
+		<text>Мошенник</text>
+	</string>
+	<string id="name_renegade_180">
+		<text>Сумасшедший</text>
+	</string>
+	<string id="name_renegade_181">
+		<text>Гнутый</text>
+	</string>
+	<string id="name_renegade_182">
+		<text>Лом</text>
+	</string>
+	<string id="name_renegade_183">
+		<text>Резак</text>
+	</string>
+	<string id="name_renegade_184">
+		<text>Бездельник</text>
+	</string>
+	<string id="name_renegade_185">
+		<text>Гангстер</text>
+	</string>
+	<string id="name_renegade_186">
+		<text>Бандит</text>
+	</string>
+	<string id="name_renegade_187">
+		<text>Гоблин</text>
+	</string>
+	<string id="name_renegade_188">
+		<text>Насекомое</text>
+	</string>
+	<string id="name_renegade_189">
+		<text>Вирус</text>
+	</string>
+	<string id="name_renegade_190">
+		<text>Троян</text>
+	</string>
+	<string id="name_renegade_191">
+		<text>Зависть</text>
+	</string>
+	<string id="name_renegade_192">
+		<text>Партизан</text>
+	</string>
+	<string id="name_renegade_193">
+		<text>Суровый</text>
+	</string>
+	<string id="name_renegade_194">
+		<text>Крюк</text>
+	</string>
+	<string id="name_renegade_195">
+		<text>Джокер</text>
+	</string>
+	<string id="name_renegade_196">
+		<text>Камикадзе</text>
+	</string>
+	<string id="name_renegade_197">
+		<text>Шарнир</text>
+	</string>
+	<string id="name_renegade_198">
+		<text>Ублюдок</text>
+	</string>
+	<string id="name_renegade_199">
+		<text>Личинка</text>
+	</string>
+	<string id="name_renegade_200">
+		<text>Маньяк</text>
+	</string>
+	<string id="name_renegade_201">
+		<text>Самогон</text>
+	</string>
+	<string id="name_renegade_202">
+		<text>Нарк</text>
+	</string>
+	<string id="name_renegade_203">
+		<text>Некро</text>
+	</string>
+	<string id="name_renegade_204">
+		<text>Параноидальный</text>
+	</string>
+	<string id="name_renegade_205">
+		<text>Пират</text>
+	</string>
+	<string id="name_renegade_206">
+		<text>Колоть</text>
+	</string>
+	<string id="name_renegade_207">
+		<text>Псих</text>
+	</string>
+	<string id="name_renegade_208">
+		<text>Панк</text>
+	</string>
+	<string id="name_renegade_209">
+		<text>Грабли</text>
+	</string>
+	<string id="name_renegade_210">
+		<text>Негодяй</text>
+	</string>
+	<string id="name_renegade_211">
+		<text>Слэшер</text>
+	</string>
+	<string id="name_renegade_212">
+		<text>Слизь</text>
+	</string>
+	<string id="name_renegade_213">
+		<text>Сопли</text>
+	</string>
+	<string id="name_renegade_214">
+		<text>Шип</text>
+	</string>
+	<string id="name_renegade_215">
+		<text>Душитель</text>
+	</string>
+	<string id="name_renegade_216">
+		<text>Жаба</text>
+	</string>
+	<string id="name_renegade_217">
+		<text>Вандал</text>
+	</string>
+	<string id="name_renegade_218">
+		<text>Гангрена</text>
+	</string>
+	<string id="name_renegade_219">
+		<text>Зародыш</text>
+	</string>
+	<string id="name_renegade_220">
+		<text>Попойка</text>
+	</string>
+	<string id="name_renegade_221">
+		<text>Вне закона</text>
+	</string>
+	<string id="name_renegade_222">
+		<text>Беззаконный</text>
+	</string>
+	<string id="name_renegade_223">
+		<text>Преступный</text>
+	</string>
+	<string id="name_renegade_224">
+		<text>Подземный</text>
+	</string>
+	<string id="name_renegade_225">
+		<text>Эксплуататор</text>
+	</string>
+	<string id="name_renegade_226">
+		<text>Обидчик</text>
+	</string>
+	<string id="name_renegade_227">
+		<text>Анархия</text>
+	</string>
+	<string id="name_renegade_228">
+		<text>Скрытый</text>
+	</string>
+	<string id="name_renegade_229">
+		<text>Незаконный</text>
+	</string>
+	<string id="name_renegade_230">
+		<text>Дилер</text>
+	</string>
+	<string id="name_renegade_231">
+		<text>Стоматолог</text>
+	</string>
+	<string id="name_renegade_232">
+		<text>Фейсбрейкер</text>
+	</string>
+	<string id="name_renegade_233">
+		<text>Череп</text>
+	</string>
+	<string id="name_renegade_234">
+		<text>Костолом</text>
+	</string>
+	<string id="name_renegade_235">
+		<text>Шипной</text>
+	</string>
+	<string id="name_renegade_236">
+		<text>Бурчала</text>
+	</string>
+	<string id="name_renegade_237">
+		<text>Кошечка</text>
+	</string>
+	<string id="name_renegade_238">
+		<text>Тина</text>
+	</string>
+	<string id="name_renegade_239">
+		<text>Козявка</text>
+	</string>
+	<string id="name_renegade_240">
+		<text>Гнида</text>
+	</string>
+	<string id="name_renegade_241">
+		<text>Орк</text>
+	</string>
+	<string id="name_renegade_242">
+		<text>Слизь</text>
+	</string>
+	<string id="name_renegade_243">
+		<text>Забытый</text>
+	</string>
+	<string id="name_renegade_244">
+		<text>Демон</text>
+	</string>
+	<string id="name_renegade_245">
+		<text>Голод</text>
+	</string>
+	<string id="name_renegade_246">
+		<text>Изувер</text>
+	</string>
+	<string id="name_renegade_247">
+		<text>Кровосток</text>
+	</string>
+	<string id="name_renegade_248">
+		<text>Хандра</text>
+	</string>
+	<string id="name_renegade_249">
+		<text>Кашель</text>
+	</string>
+	<string id="name_renegade_250">
+		<text>Распутин</text>
+	</string>
+	<string id="name_renegade_251">
+		<text>Черепный</text>
+	</string>
+	<string id="name_renegade_252">
+		<text>OG</text>
+	</string>
+	<string id="name_renegade_253">
+		<text>Бунтарь</text>
+	</string>
+	<string id="name_renegade_254">
+		<text>Мёртвый</text>
+	</string>
+	<string id="name_renegade_255">
+		<text>Чистка</text>
+	</string>
+	<string id="name_renegade_256">
+		<text>Безликий</text>
+	</string>
+	<string id="name_renegade_257">
+		<text>Крик</text>
+	</string>
+	<string id="name_renegade_258">
+		<text>Водосток</text>
+	</string>
+	<string id="name_renegade_259">
+		<text>Труба</text>
+	</string>
+	<string id="name_renegade_260">
+		<text>Негодяй</text>
+	</string>
+	<string id="name_renegade_261">
+		<text>Закон</text>
+	</string>
+	<string id="name_renegade_262">
+		<text>Яд</text>
+	</string>
+	<string id="name_renegade_263">
+		<text>Кислотный</text>
+	</string>
+	<string id="name_renegade_264">
+		<text>Пижон</text>
+	</string>
+	<string id="name_renegade_265">
+		<text>Фанатик</text>
+	</string>
+	<string id="name_renegade_266">
+		<text>Щитомордник</text>
+	</string>
+	<string id="name_renegade_267">
+		<text>Одноухий</text>
+	</string>
+	<string id="name_renegade_268">
+		<text>Одноглазый</text>
+	</string>
+	<string id="name_renegade_269">
+		<text>Хотрод</text>
+	</string>
+	<string id="name_renegade_270">
+		<text>Блоха</text>
+	</string>
+	<string id="name_renegade_271">
+		<text>Галочка</text>
+	</string>
+	<string id="name_renegade_272">
+		<text>Путешественник</text>
+	</string>
+	<string id="name_renegade_273">
+		<text>Наркоман</text>
+	</string>
+	<string id="name_renegade_274">
+		<text>Валовой</text>
+	</string>
+	<string id="name_renegade_275">
+		<text>Нечистый</text>
+	</string>
+	<string id="name_renegade_276">
+		<text>Вонь</text>
+	</string>
+	<string id="name_renegade_277">
+		<text>Угроза</text>
+	</string>
+	<string id="name_renegade_278">
+		<text>Беда</text>
+	</string>
+	<string id="name_renegade_279">
+		<text>Отрекшийся</text>
+	</string>
+	<string id="name_renegade_280">
+		<text>Кривонос</text>
+	</string>
+	<string id="name_renegade_281">
+		<text>Косоглазый</text>
+	</string>
+	<string id="name_renegade_282">
+		<text>Кровавая Борода</text>
+	</string>
+	<string id="name_renegade_283">
+		<text>Рвота</text>
+	</string>
+	<string id="name_renegade_284">
+		<text>Грубиян</text>
+	</string>
+	<string id="name_renegade_285">
+		<text>Мрак</text>
+	</string>
+	<string id="name_renegade_286">
+		<text>Анубис</text>
+	</string>
+	<string id="name_renegade_287">
+		<text>Отрава</text>
+	</string>
+	<string id="name_renegade_288">
+		<text>Фрик</text>
+	</string>
+	<string id="name_renegade_289">
+		<text>Скользкий</text>
+	</string>
+	<string id="name_renegade_290">
+		<text>Слизень</text>
+	</string>
+	<string id="name_renegade_291">
+		<text>Распад</text>
+	</string>
+	<string id="name_renegade_292">
+		<text>Перевязанный</text>
+	</string>
+	<string id="name_renegade_293">
+		<text>Бульдозер</text>
+	</string>
+	<string id="name_renegade_294">
+		<text>Дезертир</text>
+	</string>
+	<string id="name_renegade_295">
+		<text>Палач</text>
+	</string>
+	<string id="name_renegade_296">
+		<text>Могильщик</text>
+	</string>
+	<string id="name_renegade_297">
+		<text>Могильник</text>
+	</string>
+	<string id="name_renegade_298">
+		<text>Топорик</text>
+	</string>
+	<string id="name_renegade_299">
+		<text>Хитман</text>
+	</string>
+	<string id="name_renegade_300">
+		<text>Судья</text>
+	</string>
+	<string id="name_renegade_301">
+		<text>Увечье</text>
+	</string>
+	<string id="name_renegade_302">
+		<text>Монстр</text>
+	</string>
+	<string id="name_renegade_303">
+		<text>Изгой</text>
+	</string>
+	<string id="name_renegade_304">
+		<text>Дикарь</text>
+	</string>
+	<string id="name_renegade_305">
+		<text>Коса</text>
+	</string>
+	<string id="name_renegade_306">
+		<text>Терминатор</text>
+	</string>
+	<string id="name_renegade_307">
+		<text>Трашер</text>
+	</string>
+	<string id="name_renegade_308">
+		<text>Триггер</text>
+	</string>
+	<string id="name_renegade_309">
+		<text>Тиран</text>
+	</string>
+	<string id="name_renegade_310">
+		<text>Гробовщик</text>
+	</string>
+	<string id="name_renegade_311">
+		<text>THE END</text>
+	</string>
+	<string id="name_renegade_312">
+		<text>Мучение</text>
+	</string>
+	<string id="name_renegade_313">
+		<text>Страдающий</text>
+	</string>
+	<string id="name_renegade_314">
+		<text>МОРГ</text>
+	</string>
+	<string id="name_renegade_315">
+		<text>Трагедия</text>
+	</string>
+	<string id="name_renegade_316">
+		<text>Мучение</text>
+	</string>
+	<string id="name_renegade_317">
+		<text>Нищета</text>
+	</string>
+	<string id="name_renegade_318">
+		<text>Бедствие</text>
+	</string>
+	<string id="name_renegade_319">
+		<text>Мошенник</text>
+	</string>
+	<string id="name_renegade_320">
+		<text>Шреддер</text>
+	</string>
+	<string id="name_renegade_321">
+		<text>Присяжный</text>
+	</string>
+	<string id="name_renegade_322">
+		<text>Плавленый</text>
+	</string>
+	<string id="name_renegade_323">
+		<text>Лидер</text>
+	</string>
+	<string id="name_renegade_324">
+		<text>Жнец</text>
+	</string>
+	<string id="name_renegade_325">
+		<text>Мрачный</text>
+	</string>
+	<string id="name_renegade_326">
+		<text>Гранж</text>
+	</string>
+	<string id="name_renegade_327">
+		<text>Грязь</text>
+	</string>
+	<string id="name_renegade_328">
+		<text>Саботаж</text>
+	</string>
+	<string id="name_renegade_329">
+		<text>Маузер</text>
+	</string>
+	<string id="name_renegade_330">
+		<text>Чав</text>
+	</string>
+	<string id="name_renegade_331">
+		<text>Заноза</text>
+	</string>
+	<string id="name_renegade_332">
+		<text>Ярость</text>
+	</string>
+	<string id="name_renegade_333">
+		<text>Шухер</text>
+	</string>
+	<string id="name_renegade_334">
+		<text>Агония</text>
+	</string>
+	<string id="name_renegade_335">
+		<text>Призрак</text>
+	</string>
+	<string id="name_renegade_336">
+		<text>Банши</text>
+	</string>
+	<string id="name_renegade_337">
+		<text>Пентаграмма</text>
+	</string>
+	<string id="name_renegade_338">
+		<text>Коварный</text>
+	</string>
+	<string id="name_renegade_339">
+		<text>Глист</text>
+	</string>
+	<string id="name_renegade_340">
+		<text>Диабло</text>
+	</string>
+	<string id="name_renegade_341">
+		<text>Люцифер</text>
+	</string>
+	<string id="name_renegade_342">
+		<text>Знамение</text>
+	</string>
+	<string id="name_renegade_343">
+		<text>Сол</text>
+	</string>
+	<string id="name_renegade_344">
+		<text>Ножовка</text>
+	</string>
+	<string id="name_renegade_345">
+		<text>Бензопила</text>
+	</string>
+	<string id="name_renegade_346">
+		<text>Ахиллес</text>
+	</string>
+	<string id="name_renegade_347">
+		<text>Ужасный</text>
+	</string>
+	<string id="name_renegade_348">
+		<text>Страшила</text>
+	</string>
+	<string id="name_renegade_349">
+		<text>Бич</text>
+	</string>
+	<string id="name_renegade_350">
+		<text>Отрава</text>
+	</string>
+	<string id="name_renegade_351">
+		<text>Медуза</text>
+	</string>
+	<string id="name_renegade_352">
+		<text>Хедшот</text>
+	</string>
+	<string id="name_renegade_353">
+		<text>Морок</text>
+	</string>
+	<string id="name_renegade_354">
+		<text>Аркан</text>
+	</string>
+	<string id="name_renegade_355">
+		<text>Резня</text>
+	</string>
+	<string id="name_renegade_356">
+		<text>Фраггер</text>
+	</string>
+	<string id="name_renegade_357">
+		<text>Нарушитель</text>
+	</string>
+	<string id="name_renegade_358">
+		<text>Зубило</text>
+	</string>
+	<string id="name_renegade_359">
+		<text>Преступник</text>
+	</string>
+	<string id="name_renegade_360">
+		<text>Хог</text>
+	</string>
+	<string id="name_renegade_361">
+		<text>Рвотный</text>
+	</string>
+	<string id="name_renegade_362">
+		<text>Рычаг</text>
+	</string>
+	<string id="name_renegade_363">
+		<text>Чикатило</text>
+	</string>
+	<string id="name_renegade_364">
+		<text>Взятка</text>
+	</string>
+	<string id="name_renegade_365">
+		<text>Двойной</text>
+	</string>
+	<string id="name_renegade_366">
+		<text>бен Ладен</text>
+	</string>
+	<string id="name_renegade_367">
+		<text>Тюремщик</text>
+	</string>
+	<string id="name_renegade_368">
+		<text>Хвостовик</text>
+	</string>
+	<string id="name_renegade_369">
+		<text>Заточка</text>
+	</string>
+	<string id="name_renegade_370">
+		<text>Зубастый</text>
+	</string>
+	<string id="name_renegade_371">
+		<text>Нофеар</text>
+	</string>
+	<string id="name_renegade_372">
+		<text>Полк</text>
+	</string>
+	<string id="name_renegade_373">
+		<text>Капоне</text>
+	</string>
+	<string id="name_renegade_374">
+		<text>Просак</text>
+	</string>
+	<string id="name_renegade_375">
+		<text>Сеть</text>
+	</string>
+	<string id="name_renegade_376">
+		<text>Тащер</text>
+	</string>
+	<string id="name_renegade_377">
+		<text>Заторможенный</text>
+	</string>
+	<string id="name_renegade_378">
+		<text>Эскобар</text>
+	</string>
+	<string id="name_renegade_379">
+		<text>Неуловимый</text>
+	</string>
+	<string id="name_renegade_380">
+		<text>Дистония</text>
+	</string>
+	<string id="name_renegade_381">
+		<text>Банбан</text>
+	</string>
+	<string id="name_renegade_382">
+		<text>Рок</text>
+	</string>
+	<string id="name_renegade_383">
+		<text>Диллинджер</text>
+	</string>
+	<string id="name_renegade_384">
+		<text>Яремная вена</text>
+	</string>
+	<string id="name_renegade_385">
+		<text>Джаггернаут</text>
+	</string>
+	<string id="name_renegade_386">
+		<text>Каннибал</text>
+	</string>
+	<string id="name_renegade_387">
+		<text>Ганнибал</text>
+	</string>
+	<string id="name_renegade_388">
+		<text>Белый</text>
+	</string>
+	<string id="name_renegade_389">
+		<text>Токсин</text>
+	</string>
+	<string id="name_renegade_390">
+		<text>Крысолов</text>
+	</string>
+	<string id="name_renegade_391">
+		<text>Плохой день</text>
+	</string>
+	<string id="name_renegade_392">
+		<text>Понедельник</text>
+	</string>
+	<string id="name_renegade_393">
+		<text>Серый</text>
+	</string>
+	<string id="name_renegade_394">
+		<text>Чернорукий</text>
+	</string>
+	<string id="name_renegade_395">
+		<text>Отшельник</text>
+	</string>
+	<string id="name_renegade_396">
+		<text>Люк</text>
+	</string>
+	<string id="name_renegade_397">
+		<text>Паук</text>
+	</string>
+	<string id="name_renegade_398">
+		<text>Прион</text>
+	</string>
+	<string id="name_renegade_399">
+		<text>Крысяк</text>
+	</string>
+	<string id="name_renegade_400">
+		<text>Блудница</text>
+	</string>
+	<string id="name_renegade_401">
+		<text>Беззубый</text>
+	</string>
+	<string id="name_renegade_402">
+		<text>Пыльный</text>
+	</string>
+	<string id="name_renegade_403">
+		<text>Ржавый</text>
+	</string>
+	<string id="name_renegade_404">
+		<text>Столбняк</text>
+	</string>
+	<string id="name_renegade_405">
+		<text>Фарш</text>
+	</string>
+	<string id="name_renegade_406">
+		<text>Вена</text>
+	</string>
+	<string id="name_renegade_407">
+		<text>Опасный</text>
+	</string>
+	<string id="name_renegade_408">
+		<text>Клетка</text>
+	</string>
+	<string id="name_renegade_409">
+		<text>Ква</text>
+	</string>
+	<string id="name_renegade_410">
+		<text>Слюнявый</text>
+	</string>
+	<string id="name_renegade_411">
+		<text>Бревно</text>
+	</string>
+	<string id="name_renegade_412">
+		<text>Страх</text>
+	</string>
+	<string id="name_renegade_413">
+		<text>Печаль</text>
+	</string>
+	<string id="name_renegade_414">
+		<text>Маска</text>
+	</string>
+	<string id="name_renegade_415">
+		<text>Проныра</text>
+	</string>
+	<string id="name_renegade_416">
+		<text>Бумажный</text>
+	</string>
+	<string id="name_renegade_417">
+		<text>Лысый</text>
+	</string>
+	<string id="name_renegade_418">
+		<text>Тутэта</text>
+	</string>
+	<string id="name_renegade_419">
+		<text>Лазейка</text>
+	</string>
+	<string id="name_renegade_420">
+		<text>Проклятие</text>
+	</string>
+	<string id="name_renegade_421">
+		<text>Ведьма</text>
+	</string>
+	<string id="name_renegade_422">
+		<text>Спукер</text>
+	</string>
+	<string id="name_renegade_423">
+		<text>Шутник</text>
+	</string>
+	<string id="name_renegade_424">
+		<text>Ножницы</text>
+	</string>
+	<string id="name_renegade_425">
+		<text>Игрок</text>
+	</string>
+	<string id="name_renegade_426">
+		<text>Блэйд</text>
+	</string>
+	<string id="name_renegade_427">
+		<text>Жажда крови</text>
+	</string>
+	<string id="name_renegade_428">
+		<text>Террорист</text>
+	</string>
+	<string id="name_renegade_429">
+		<text>Упырь</text>
+	</string>
+	<string id="name_renegade_430">
+		<text>Гамбино</text>
+	</string>
+	<string id="name_renegade_431">
+		<text>Блэкджек</text>
+	</string>
+	<string id="name_renegade_432">
+		<text>Казино</text>
+	</string>
+	<string id="name_renegade_433">
+		<text>Рулетка</text>
+	</string>
+	<string id="name_renegade_434">
+		<text>Драко</text>
+	</string>
+	<string id="name_renegade_435">
+		<text>Скользяк</text>
+	</string>
+	<string id="name_renegade_436">
+		<text>Шелуха</text>
+	</string>
+	<string id="name_renegade_437">
+		<text>Джиперы</text>
+	</string>
+	<string id="name_renegade_438">
+		<text>Рептилия</text>
+	</string>
+	<string id="name_renegade_439">
+		<text>Лакер</text>
+	</string>
+	<string id="name_renegade_440">
+		<text>Хмурый</text>
+	</string>
+	<string id="name_renegade_441">
+		<text>Почтовый</text>
+	</string>
+	<string id="name_renegade_442">
+		<text>Полурукий</text>
+	</string>
+	<string id="name_renegade_443">
+		<text>Мизинец</text>
+	</string>
+	<string id="name_renegade_444">
+		<text>Пальцерез</text>
+	</string>
+	<string id="name_renegade_445">
+		<text>Лимб</text>
+	</string>
+	<string id="name_renegade_446">
+		<text>Чистильщик</text>
+	</string>
+	<string id="name_renegade_447">
+		<text>Грубый</text>
+	</string>
+	<string id="name_renegade_448">
+		<text>Добыча</text>
+	</string>
+	<string id="name_renegade_449">
+		<text>Несгибаемый</text>
+	</string>
+	<string id="name_renegade_450">
+		<text>Дурман</text>
+	</string>
+	<string id="name_renegade_451">
+		<text>Легавый</text>
+	</string>
+	<string id="name_renegade_452">
+		<text>Крестный отец</text>
+	</string>
+	<string id="name_renegade_453">
+		<text>Краб</text>
+	</string>
+	<string id="name_renegade_454">
+		<text>Рыба-меч</text>
+	</string>
+	<string id="name_renegade_455">
+		<text>Болторез</text>
+	</string>
+	<string id="name_renegade_456">
+		<text>Отмычка</text>
+	</string>
+	<string id="name_renegade_457">
+		<text>Разброс</text>
+	</string>
+	<string id="name_renegade_458">
+		<text>Локомотив</text>
+	</string>
+	<string id="name_renegade_459">
+		<text>Коммунист</text>
+	</string>
+	<string id="name_renegade_460">
+		<text>Серп</text>
+	</string>
+	<string id="name_renegade_461">
+		<text>Аборт</text>
+	</string>
+	<string id="name_renegade_462">
+		<text>Конфликт</text>
+	</string>
+	<string id="name_renegade_463">
+		<text>Сетевой</text>
+	</string>
+	<string id="name_renegade_464">
+		<text>Колючий</text>
+	</string>
+	<string id="name_renegade_465">
+		<text>Колючка</text>
+	</string>
+	<string id="name_renegade_466">
+		<text>Носок</text>
+	</string>
+	<string id="name_renegade_467">
+		<text>Нетхед</text>
+	</string>
+	<string id="name_renegade_468">
+		<text>Мудозвон</text>
+	</string>
+	<string id="name_renegade_469">
+		<text>Жгут</text>
+	</string>
+	<string id="name_renegade_470">
+		<text>Щипчики</text>
+	</string>
+	<string id="name_renegade_471">
+		<text>Капельница</text>
+	</string>
+	<string id="name_renegade_472">
+		<text>Измельчитель</text>
+	</string>
+	<string id="name_renegade_473">
+		<text>Губы</text>
+	</string>
+	<string id="name_renegade_474">
+		<text>Скула</text>
+	</string>
+	<string id="name_renegade_475">
+		<text>Синяк</text>
+	</string>
+	<string id="name_renegade_476">
+		<text>Дипфри</text>
+	</string>
+	<string id="name_renegade_477">
+		<text>Отрыжка</text>
+	</string>
+	<string id="name_renegade_478">
+		<text>Дурак</text>
+	</string>
+	<string id="name_renegade_479">
+		<text>Карга</text>
+	</string>
+	<string id="name_renegade_480">
+		<text>Торгаш</text>
+	</string>
+	<string id="name_renegade_481">
+		<text>Тревога</text>
+	</string>
+	<string id="name_renegade_482">
+		<text>Давитель</text>
+	</string>
+	<string id="name_renegade_483">
+		<text>Стигма</text>
+	</string>
+	<string id="name_renegade_484">
+		<text>Везунчик</text>
+	</string>
+	<string id="name_renegade_485">
+		<text>Возражение</text>
+	</string>
+	<string id="name_renegade_486">
+		<text>Асфальт</text>
+	</string>
+	<string id="name_renegade_487">
+		<text>Скиннер</text>
+	</string>
+	<string id="name_renegade_488">
+		<text>Фейн</text>
+	</string>
+	<string id="name_renegade_489">
+		<text>Сборщик</text>
+	</string>
+	<string id="name_renegade_490">
+		<text>Ростовщик</text>
+	</string>
+	<string id="name_renegade_491">
+		<text>Капитан</text>
+	</string>
+	<string id="name_renegade_492">
+		<text>Засранец</text>
+	</string>
+	<string id="name_renegade_493">
+		<text>Мех</text>
+	</string>
+	<string id="name_renegade_494">
+		<text>Лачуга</text>
+	</string>
+	<string id="name_renegade_495">
+		<text>Ракушка</text>
+	</string>
+	<string id="name_renegade_496">
+		<text>Халявщик</text>
+	</string>
+	<string id="name_renegade_497">
+		<text>Заминка</text>
+	</string>
+	<string id="name_renegade_498">
+		<text>Цепной</text>
+	</string>
+	<string id="name_renegade_499">
+		<text>Окунь</text>
+	</string>
+
+</string_table>
