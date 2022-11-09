@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="dit_no_consume_ctrl">
+		<text>%sЧтобы предотвратить случайную трату инструмента,\nпроцедура может быть продолжена только с удержанием левого Shift.%s</text>
+	</string>
+</string_table>

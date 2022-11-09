@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="windows-1251"?>
 <!-- 
 	MCM
 -->
@@ -10,7 +11,7 @@
 		<text>Сражайся с моими врагами</text>
 	</string>
 	<string id="ui_mcm_fight_my_foes_enable_fight_my_foes">
-		<text>Включить логику борьбы с моими врагами</text>
+		<text>Включить логику борьбы с врагами ГГ</text>
 	</string>
 	
 </string_table>

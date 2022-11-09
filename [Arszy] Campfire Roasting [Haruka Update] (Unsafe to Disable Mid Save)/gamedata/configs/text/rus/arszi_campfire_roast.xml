@@ -2,7 +2,7 @@
 <string_table>
 
 	<string id="st_arszi_campfire_roast_campfire_off">
-		<text>Нельзя пользоваться незажженным костром</text>
+		<text>Вы не можете готовить на потухшем костре</text>
 	</string>
 
 	<string id="st_arszi_campfire_roast_danger">

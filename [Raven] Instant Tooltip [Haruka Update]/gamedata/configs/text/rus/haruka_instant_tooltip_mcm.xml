@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	
+	<string id="ui_mcm_menu_faster_tooltip">
+		<text>Быстрые/медленные подсказки</text>
+	</string>
+
+	<string id="ui_mcm_faster_tooltip_delay">
+		<text>Задержка в милисекундах</text>
+	</string>
+
+</string_table>

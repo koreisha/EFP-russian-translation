@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_menu_bountysquads">
+		<text>Охотники за Головами</text>
+	</string>
+	<string id="ui_mcm_title_bountysquads">
+		<text>Охотники за Головами</text>
+	</string>
+
+	<string id="ui_mcm_bountysquads_delay">
+		<text>Задержка между потенциальными спаунами</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_desc">
+		<text>Это минимальное количество времени в игровых часах, которое должно пройти перед решением заспавнить отряд. Будет ли он заспавнен зависит от шанса каждой группировки на его спавн.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn">
+		<text>Время между обновлениями спауна</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_spawn_desc">
+		<text>Это количество времени в реальных секундах между проверками местоположения, группировки и репутации ГГ.Это время считается от загрузки игры, так что ГГ должен быть в рамках смежных локаций от противников ровно это время, чтобы у отряда появился шанс на спаун.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state">
+		<text>Время между обновлениями локации ГГ</text>
+	</string>
+	<string id="ui_mcm_bountysquads_delay_state_desc">
+		<text>Это количество времени в реальных секундах между проверками местоположения ГГ. Охотники за головами выдвинуться за ГГ после такого количества времени. Также - они отступят, если ГГ находится в безопасном месте с союзниками неподалеку.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance">
+		<text>Базовый шанс спауна</text>
+	</string>
+	<string id="ui_mcm_bountysquads_base_spawn_chance_desc">
+		<text>Базовый шанс: шанс на спаун отряда охотников за головами, пока ГГ не убил никого из их группировки. Рекомендуем держать значения низкими, потому что множитель сам сделает свое дело.</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment">
+		<text>Увеличение множителя за убийства</text>
+	</string>
+	<string id="ui_mcm_bountysquads_spawn_mult_attacked_increment_desc">
+		<text>Если актер особенно неравнодушен к какой-то группировке, они более охотно будут высылать за ним карательные отряды. С каждым убийством множитель будет увеличиваться на это значение. </text>
+	</string>
+
+
+</string_table>

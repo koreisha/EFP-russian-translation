@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+	<string id="ui_mcm_menu_SKIN_settings">
+		<text>Ш.К.У.Р.А</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_desc">
+		<text>
+			Ш.К.У.Р.А позволит вам освежевывать мутантов, не доставая нож, однако все остальные функции, типа прочности ножа, будут работать исправно.
+		</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_settings_enable">
+		<text>Включить Ш.К.У.Р.А</text>
+	</string>
+	
+	<string id="ui_mcm_SKIN_settings_space">
+		<text>Добавить к функции "Забрать все" нажатие Пробела, наряду с нажатием Enter</text>
+	</string>
+
+	<string id="ui_mcm_SKIN_settings_equipped">
+		<text>Требовать наличия ножа или топора в слоте?</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mcm_menu_dii_custom_layers_barry">
+		<text>Индикаторы Barry</text>
+	</string>
+	<string id="ui_mcm_dii_barry_cortex_show">
+		<text>Показывать прицел Cortex</text>
+	</string>
+</string_table>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id ="ui_mcm_menu_dii_custom_layers_maid">
+		<text>Maid Индикаторы</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_attachments_show">
+		<text>Включить ярлыки дополнений</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiorepair_show">
+		<text>Включить ярлыки ремонта</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_chevrontiers_show">
+		<text>Включить индикаторы шевронов</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiocontainers_show">
+		<text>Включить индикаторы контейнеров</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiocooking_show">
+		<text>Включить индикаторы готовки</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_repair_top_right_show">
+		<text>Включить ярлыки ремонта сверху справа</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aioexplosives_show">
+		<text>Включить индикаторы взрывчатки</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiomainquest_show">
+		<text>Включить индикаторы квестовых предметов</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiomanuals_show">
+		<text>Включить индикаторы рецептов</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiomap_show">
+		<text>Включить индикаторы карт</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aionotes_show">
+		<text>Включить индикаторы записок</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiopartsmisc_show">
+		<text>Включить индикаторы прочих предметов</text>
+	</string>
+	<string id ="ui_mcm_dii_maid_aiovaluable_show">
+		<text>Включить индикаторы ценных предметов</text>
+	</string>
+</string_table>

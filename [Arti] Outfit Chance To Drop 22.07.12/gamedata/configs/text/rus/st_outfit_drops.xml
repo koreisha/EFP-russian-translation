@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    
+	<string id="ui_mcm_outfitdrop_helmet_light_chance">
+		<text>Шанс выпадения легких масок</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_light_chance_desc">
+		<text>Шанс в процентах выпадения балаклав и легких масок.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_chance">
+		<text>Шанс выпадения шлемов</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_helmet_chance_desc">
+		<text>Шанс в процентах выпадения противогазов и шлемов.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance">
+		<text>Шанс выпадения легкой брони</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_light_chance_desc">
+		<text>Шанс в процентах выпадения легкой брони.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance">
+		<text>Шанс выпадения средней брони</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_medium_chance_desc">
+		<text>Шанс в процентах выпадения средней брони.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance">
+		<text>Шанс выпадения тяжелой брони</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_heavy_chance_desc">
+		<text>Шанс в процентах выпадения тяжелой брони.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance">
+		<text>Шанс выпадения экзоскелета</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_outfit_exo_chance_desc">
+		<text>Шанс в процентах выпадения экзоскелета.</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance">
+		<text>Шанс выпадения частей</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_chance_desc">
+		<text>Шанс в процентах выпадения запчасти, если нет костюма</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_debug">
+		<text>Вывод данных дебага в консоль</text>
+	</string>
+	<string id="ui_mcm_outfitdrop_parts_debug_desc">
+		<text>Ты знаешь, что это делает, я думаю.</text>
+	</string>
+	<string id="ui_mcm_menu_outfitdrop">
+		<text>Дроп костюмов</text>
+	</string>
+</string_table>

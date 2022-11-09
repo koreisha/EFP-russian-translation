@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mcm_menu_all_recipes_unlocked">
+		<text>Разблокировщик Рецептов</text>
+	</string>
+	<string id="ui_mcm_all_recipes_unlocked_show_all_recipes">
+		<text>Блокировать/разблокировать все рецепты.</text>
+	</string>
+</string_table>

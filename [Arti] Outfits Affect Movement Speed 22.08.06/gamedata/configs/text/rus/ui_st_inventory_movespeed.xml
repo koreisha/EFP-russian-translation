@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_inv_outfit_speed">
+		<text>Множитель скорости</text>
+	</string>
+	
+	<!-- MCM -->
+	
+	<string id="ui_mcm_menu_speed">
+		<text>Скорость и вес</text>
+	</string>
+	<string id="ui_mcm_menu_speed_title">
+		<text>Скорость и вес</text>
+	</string>
+	<string id="ui_mcm_speed_title">
+		<text>Скорость и вес</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance">
+		<text>Загруженность влияет на скорость</text>
+	</string>
+	<string id="ui_mcm_speed_encumbrance_desc">
+		<text>При путешествиях налегке - получаете бонус к скорости (<25% загруженности) и получаете штраф, если перегружены. (> 70%).\n \n при активации опции и путешествии налегке - будьте готовы к скорости болида Ф-1.</text>
+	</string>
+	<string id="ui_mcm_speed_weapon">
+		<text>Оружие влияет на скорость спринта</text>
+	</string>
+	<string id="ui_mcm_speed_weapon_desc">
+		<text>Если включено - тип оружия влияет на скорость спринта</text>
+	</string>
+	<string id="ui_mcm_speed_debug">
+		<text>(Дебаг) Дополнительные логи в консоль</text>
+	</string>
+	<string id="ui_mcm_speed_debug_desc">
+		<text>Выводит всякую полезную херню в консоль.</text>
+	</string>
+</string_table>

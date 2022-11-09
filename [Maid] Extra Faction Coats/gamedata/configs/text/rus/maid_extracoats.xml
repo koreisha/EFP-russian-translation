@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="militarycoat_outfit_name">
+		<text>Куртка военных</text>
+	</string>
+	<string id="merccoat_outfit_name">
+		<text>Куртка наемников</text>
+	</string>
+	<string id="monolithcoat_outfit_name">
+		<text>Куртка Монолита</text>
+	</string>
+
+</string_table>

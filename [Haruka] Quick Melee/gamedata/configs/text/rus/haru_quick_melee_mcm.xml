@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="ui_mcm_menu_haru_quick_melee">
+		<text>Быстрый удар ножом</text>
+	</string>
+	<string id="ui_mcm_haru_quick_melee_keybind_knife">
+		<text>Клавиша быстрого удара</text>
+	</string>
+    <string id="ui_mcm_haru_quick_melee_keybind_desc">
+		<text>Клавиша быстрого удара. По умолчанию - С.</text>
+	</string>
+    <string id="ui_mcm_haru_quick_melee_mcm">
+		<text>Обновите МСМ, чтобы увидеть функцию. По умолчанию - С</text>
+	</string>
+	<string id="ui_mcm_haru_quick_melee_use_only_fav">
+        <text>Использовать только "любимые" ножи</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_use_only_fav_desc">
+        <text>Делает так, что при использовании ножей из инвентаря, будут выбираться только те, что отмечены как "любимые".</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_work_from_inv">
+        <text>Исспользовать ножи из инвентаря</text>
+    </string>
+    <string id="ui_mcm_haru_quick_melee_work_from_inv_desc">
+        <text>Делает так, что если в слоте не оказалось ножа - будет просканирован рюкзак, и выбран нож оттуда.</text>
+    </string>
+</string_table>

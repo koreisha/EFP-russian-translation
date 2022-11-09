@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_medicine">
+        <text>Множитель опыта медицины</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_insanity">
+        <text>Множитель опыта безумия</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_tinkering">
+        <text>Множитель опыта ремонта</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_bartering">
+        <text>Множитель опыта бартера</text>
+    </string>
+	<string id="ui_mcm_ut_skill_system_exp_multiplier_reloading">
+        <text>Weapon Handling exp multiplier</text>
+    </string>
+	
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_magloading">
+        <text>Множитель опыта зарядки магазинов</text>
+    </string>
+    <string id="ui_mcm_ut_skill_system_exp_multiplier_lockpicking">
+        <text>Множитель опыта взлома замков</text>
+    </string>
+
+    <string id="ui_mcm_ut_skill_system_title">
+        <text>Skills Expansion Настройки</text>
+    </string>
+     <string id="ui_mcm_menu_ut_skill_system">
+        <text>Skills Expansion</text>
+    </string>
+</string_table>

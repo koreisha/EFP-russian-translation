@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+
+    <!-- Medicine -->
+	<string id="st_player_skills_hint_medicine">
+		<text>Grants a short burst of improved health and radiation restoration based on medical item used.\n \nLevels are gained by using medicine and drugs.\n \n</text>
+	</string>
+	<string id="st_skills_stats_restore_boost_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Restoration gained as boost: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_restore_boost_negative">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Restoration lost as boost: %c[d_red]$stat%</text>
+    </string>
+
+	<!-- Insanity -->
+	<string id="st_player_skills_hint_insanity">
+		<text>You lose your sanity... but gain psy regen and psy damage resistance.\nPsy regen bonus doubled when playing an instrument.\n \nLevels are gained by taking psy damage and by playing an instrument in combat.\n \n</text>
+	</string>
+    <string id="st_skills_stats_psy_regen_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Psy health regeneration increased by: %c[d_green]$stat%/sec</text>
+    </string>
+
+    <string id="st_skills_stats_psy_hit_resistance_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Psy damage taken reduced by: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_psy_hit_resistance_negative">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Psy damage taken increased by: %c[d_red]$stat%</text>
+    </string>
+	
+	<!-- Tinkering -->
+	<string id="st_player_skills_hint_tinkering">
+		<text>Grants a chance to not spend a use of your repair kit.\n \nLevels are gained by repairing gear using repair kits.\n \n</text>
+	</string>
+	<string id="st_skills_stats_refund_chance_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Repair kit free use chance: %c[d_green]$stat%</text>
+    </string>
+	
+	<!-- Bartering -->
+	<string id="st_player_skills_hint_bartering">
+		<text>Grants better prices when trading.\n \nLevels are gained by selling and buying items.\n \n</text>
+	</string>
+	<string id="st_skills_stats_discount_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Trader prices reduced by: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_discount_negative">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Trader prices increased by: %c[d_red]$stat%</text>
+    </string>
+	<string id="st_skills_stats_sell_bonus_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Selling value increased by: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_sell_bonus_negative">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Selling value reduced by: %c[d_red]$stat%</text>
+    </string>
+	
+	<!-- Magloading -->
+	<string id="st_player_skills_hint_magloading">
+		<text>Grants faster magazine loading and unloading speed.\n \nLevels are gained by loading and unloading magazines.\n(Maximum level is limited by your Strength and Endurance)\n \n</text>
+	</string>
+	<string id="st_skills_stats_loadspeed_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Mag loading speed increased by: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_loadspeed_negative">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Mag loading speed reduced by: %c[d_red]$stat%</text>
+    </string>
+	
+	<!-- Lockpicking -->
+	<string id="st_player_skills_hint_lockpicking">
+		<text>Grants: Lootboxes lock difficulty are reduced.\n \nLevels are gained by opening lootboxes.\n(Using Skeleton Key gives no experience)\n \n</text>
+	</string>
+	<string id="st_skills_stats_lockpick_diff_reduc_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Lootbox difficulty reduced by: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_lockpick_diff_reduc_negative">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Lootbox difficulty increased by: %c[d_red]$stat%</text>
+    </string>
+	
+	<!-- Reloading -->
+	<string id="st_player_skills_hint_reloading">
+		<text>Grants faster gun reloading and raise/holster speed.\n \nLevels are gained from general usage of guns.\n(Maximum level is limited by your Endurance and Survival)\n \n</text>
+	</string>
+	<string id="st_skills_stats_reload_speed_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Reload speed increased by: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_reload_speed_negative">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Reload speed reduced by: %c[d_red]$stat%</text>
+    </string>
+	
+	<string id="st_skills_stats_equip_speed_positive">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Raise/holster speed increased by: %c[d_green]$stat%</text>
+    </string>
+    <string id="st_skills_stats_equip_speed_negative">
+        <text>\n%c[255,138,43,226]•%c[ui_6] Raise/holster speed reduced by: %c[d_red]$stat%</text>
+    </string>
+	
+</string_table>

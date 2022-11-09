@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_menu_efp_ui">
+		<text>Simplified Vision</text>
+	</string>
+	<string id="ui_mcm_menu_faction_settings">
+		<text>Faction Colors</text>
+	</string>
+	<string id="ui_mcm_menu_main_settings">
+		<text>Main Settings</text>
+	</string>
+	<string id="ui_mcm_menu_modules_settings">
+		<text>Modules Settings</text>
+	</string>
+	<string id="ui_mcm_menu_dolg">
+		<text>Duty</text>
+	</string>
+	<string id="ui_mcm_menu_csky">
+		<text>Clear Sky</text>
+	</string>
+	<string id="ui_mcm_menu_monolith">
+		<text>Monolith</text>
+	</string>
+	<string id="ui_mcm_menu_ecolog">
+		<text>Ecologist</text>
+	</string>
+	<string id="ui_mcm_menu_bandit">
+		<text>Bandit</text>
+	</string>
+	<string id="ui_mcm_menu_stalker">
+		<text>Loner</text>
+	</string>
+	<string id="ui_mcm_menu_killer">
+		<text>Mercenary</text>
+	</string>
+	<string id="ui_mcm_menu_greh">
+		<text>Sin</text>
+	</string>
+	<string id="ui_mcm_menu_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="ui_mcm_menu_renegade">
+		<text>Renegade</text>
+	</string>
+	<string id="ui_mcm_menu_army">
+		<text>Military</text>
+	</string>
+	<string id="ui_mcm_menu_freedom">
+		<text>Freedom</text>
+	</string>
+	<string id="ui_mcm_desc_faction_banner_color">
+		<text>Faction overlay color</text>
+	</string>
+	<string id="ui_mcm_desc_faction_text_color">
+		<text>Faction overlay text color</text>
+	</string>
+	<string id="ui_mcm_efp_ui_red">
+		<text>Red</text>
+	</string>
+	<string id="ui_mcm_efp_ui_green">
+		<text>Green</text>
+	</string>
+	<string id="ui_mcm_efp_ui_blue">
+		<text>Blue</text>
+	</string>
+	<string id="ui_mcm_efp_ui_alpha">
+		<text>Alpha</text>
+	</string>
+	<string id="ui_mcm_menu_base_settings">
+		<text>Custom Colors</text>
+	</string>
+	<string id="ui_mcm_menu_slots">
+		<text>Equipment Slots</text>
+	</string>
+	<string id="ui_mcm_efp_ui_use_faction">
+		<text>Toggle Faction/Custom Colors</text>
+	</string>
+	<string id="ui_mcm_desc_cell_knife">
+		<text>Knife slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_pistol">
+		<text>Pistol slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_rifle">
+		<text>Rifle slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_grenade">
+		<text>Grenade slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_binoculars">
+		<text>Binoculars slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_bolt">
+		<text>Bolt slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_outfit">
+		<text>Outfit slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_pda">
+		<text>PDA slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_detector">
+		<text>Detector slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_torch">
+		<text>Headlamp slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_helmet">
+		<text>Helmet slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_backpack">
+		<text>Backpack slot</text>
+	</string>
+	<string id="ui_mcm_desc_cell_quick">
+		<text>Quick slots</text>
+	</string>
+	<string id="ui_mcm_desc_cell_belt">
+		<text>Belt slots</text>
+	</string>
+	<string id="ui_mcm_menu_stats">
+		<text>Stat Bars</text>
+	</string>
+	<string id="ui_mcm_desc_stat_acid">
+		<text>Chemical resistance bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_thirst">
+		<text>Thirst stat bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_power">
+		<text>Stamina stat bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_fire_wound">
+		<text>Ballistic resistance bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_shock">
+		<text>Electrical resistance bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_health">
+		<text>HP stat bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_psi">
+		<text>Psychic resistance bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_hunger">
+		<text>Hunger stat bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_fire">
+		<text>Burn resistance bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_radia">
+		<text>Radiation resistance bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_wound">
+		<text>Rupture resistance bar</text>
+	</string>
+	<string id="ui_mcm_desc_stat_sleep">
+		<text>Sleep stat bar</text>
+	</string>
+	<string id="ui_mcm_menu_faction_banner">
+		<text>Faction Overlay</text>
+	</string>
+	<string id="ui_mcm_efp_ui_use_alt_ranks">
+		<text>Switch to alternate styled ranks</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	
+    <string id="ui_mcm_menu_rax_cir">
+        <text>Доступ в инвентарь напарника</text>
+    </string>
+
+	<string id="ui_mcm_rax_cir_keybind">
+		<text>Клавиша для активации.</text>
+	</string>
+
+	<string id="ui_mcm_rax_cir_keybind_desc">
+		<text>Будет открывать инвентарь компаньонов, пока они находятся рядом с вами.</text>
+	</string>
+	<string id="ui_mcm_rax_cir_modifier">
+		<text>Клавиша-модификатор инвентаря следующего компаньона.</text>
+	</string>
+
+	<string id="ui_mcm_rax_cir_modifier_desc">
+		<text>Нажатие клавиши с этим модификатором откроет следующий инвентарь компаньона..</text>
+	</string>
+
+
+	<string id="ui_mcm_rax_cir_update_mcm">
+		<text>Обновите MCM, чтобы увидеть эту функцию. Клавиша по умолчанию - F8</text>
+	</string>
+
+
+
+
+</string_table>

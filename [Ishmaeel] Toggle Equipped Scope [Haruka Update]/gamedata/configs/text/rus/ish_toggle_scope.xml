@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="ui_mcm_menu_toggle_scope">
+		<text>Манипуляции с прицелами</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle">
+		<text>Переключить/сменить прицелы</text>
+	</string>
+	<string id="ui_mcm_toggle_scope_key_bind_toggle_desc">
+        <text>%c[d_green]•%c[DEFAULT] Одинарное нажатие: надеть/снять текущий прицел. 
+            \n\n%c[d_green]•%c[DEFAULT] Двойное нажатие: переключиться на следующий совместимый прицел.
+        </text>
+	</string>
+	<string id="ui_mcm_toggle_scope_keybind_toggle_scope">
+		<text>Клавиша для переключения/смены прицела</text>
+	</string>
+
+</string_table>

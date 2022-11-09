@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<string id="ui_mcm_menu_rax_rep_edit">
+	<text>Редактор репутации</text>
+</string>
+
+
+<string id="ui_mcm_rax_rep_edit_about">
+        <text>Информация</text>
+</string>
+
+<string id="ui_mcm_rax_rep_edit_about_text">
+        <text>Этот инструмент требует, чтобы игра была загружена, для работы. Вы должны щелкнуть из текстового поля (или нажимать Enter) перед сохранением. Далее поле становится оранжевым, когда будет готово к сохранению.</text>
+</string>
+
+<string id="ui_mcm_rax_rep_edit_good_will">
+        <text>Доброжелательность к игроку</text>
+</string>
+
+<string id="ui_mcm_rax_rep_edit_faction_faction">
+        <text>Фракция и отношение к фракции</text>
+</string>
+
+
+
+			<string id="ui_mcm_rax_rep_edit_stalker">
+				<text>Одиночки</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_bandit">
+				<text>Бандиты</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_csky">
+				<text>«Чистое небо»</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_army">
+				<text>Военные</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_freedom">
+				<text>«Свобода»</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_dolg">
+				<text>«Долг»</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_ecolog">
+				<text>Учёные</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_killer">
+				<text>Наёмники</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_monolith">
+				<text>«Монолит»</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_renegade">
+				<text>Ренегаты</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_greh">
+				<text>«Грех»</text>
+			</string>
+			<string id="ui_mcm_rax_rep_edit_isg">
+				<text>ИИГ</text>
+			</string>
+	
+
+</string_table>

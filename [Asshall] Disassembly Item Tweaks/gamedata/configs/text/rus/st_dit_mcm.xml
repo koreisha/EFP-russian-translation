@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+
+<string_table>
+	<string id="ui_mcm_menu_dit">
+		<text>Твики Разборки предметов</text>
+	</string>
+    <string id="ui_mcm_dit_slide">
+        <text>Твики инструментов для разборки</text>
+	</string>
+	<string id="ui_mcm_dit_outfit_knife">
+		<text>Костюм/шлем требуют для разборки хотя бы швейцарского ножа</text>
+	</string>
+    <string id="ui_mcm_dit_outfit_knife_desc">
+        <text>Набор для бритья больше не позволяет разбирать костюмы и шлема/маски</text>
+	</string>
+	<string id="ui_mcm_dit_consume_warning">
+		<text>Предупреждение о затрачивании предмета</text>
+	</string>
+    <string id="ui_mcm_dit_consume_warning_desc">
+        <text>Предупреждает вас о затрачивании предмета для разборки с сообщением</text>
+	</string>
+	<string id="ui_mcm_dit_leatherman_limit">
+		<text>Предупреждение о кондиции мультитула Leatherman</text>
+	</string>
+    <string id="ui_mcm_dit_leatherman_limit_desc">
+        <text>Состояние, при котором вы получаете предупреждение</text>
+	</string>
+	<string id="ui_mcm_dit_swiss_limit">
+		<text>Предупреждение о кондиции швейцарского ножа</text>
+	</string>
+	<string id="ui_mcm_dit_swiss_limit_desc">
+		<text>Состояние, при котором вы получаете предупреждение</text>
+	</string>
+    <string id="ui_mcm_dit_grooming_limit">
+		<text>Состояние о кондиции набора для бритья</text>
+	</string>
+    <string id="ui_mcm_dit_grooming_limit_desc">
+		<text>Состояние, при котором вы получаете предупреждение</text>
+	</string>
+    <string id="ui_mcm_dit_d_key">
+		<text>Модификатор против случайного разбора</text>
+	</string>
+    <string id="ui_mcm_dit_d_key_desc">
+		<text>Какая клавиша должна быть нажата для разборки</text>
+	</string>
+    <string id="ui_mcm_dit_b_key">
+		<text>Модификатор против случайного использования инструмента</text>
+	</string>
+    <string id="ui_mcm_dit_b_key_desc">
+		<text>Какая клавиша должна быть нажата для использования</text>
+	</string>
+</string_table>
+
+

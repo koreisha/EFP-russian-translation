@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_mcm_menu_fireModeCheck">
+		<text>Fire Mode Check</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_title">
+		<text>Fire Mode Check</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_userMode">
+		<text>Preferred firing mode checking method</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_userMode_desc">
+		<text>%c[d_green]•%c[DEFAULT] Basic: Firing mode switch buttons behavior is unchanged. New mode is displayed after switching.
+\n \n%c[d_green]•%c[DEFAULT] Dual key: "Previous Firing Mode" key displays the current mode without switching. "Next Firing Mode" key cycles between firing modes.
+\n \n%c[d_green]•%c[DEFAULT] Single key: Both hotkeys work in the same way: Single tap for displaying current mode, double tap for switching modes. Helps free up one keybinding.</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_displayMode">
+		<text>Display style</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_displayMode_desc">
+		<text>Fire Mode Check Indicator display style</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_hideGui">
+		<text>Hide vanilla firing mode indicator</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_hideGui_desc">
+		<text>Hide the on-screen firing mode indicator provided by the vanilla HUD.</text>
+	</string>
+	<string id="ui_mcm_lst_disabled">
+		<text>%c[ui_gray]Disabled</text>
+	</string>
+	<string id="ui_mcm_lst_basic">
+		<text>Basic</text>
+	</string>
+	<string id="ui_mcm_lst_dual_key">
+		<text>Dual Key</text>
+	</string>
+	<string id="ui_mcm_lst_single_key">
+		<text>Single Key (recommended)</text>
+	</string>
+	<string id="ui_mcm_lst_full">
+		<text>Full</text>
+	</string>
+	<string id="ui_mcm_lst_text_only">
+		<text>Text only</text>
+	</string>
+	<string id="ui_mcm_lst_image_only">
+		<text>Image only</text>
+	</string>
+	<string id="ui_mcm_fireModeCheck_keybind_check_firemode_key">
+		<text>Check/Switch firemode key</text>
+	</string>
+
+</string_table>

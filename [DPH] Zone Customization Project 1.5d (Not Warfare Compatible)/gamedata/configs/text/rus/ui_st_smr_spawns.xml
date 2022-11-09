@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mcm_menu_SMR">
+		<text>ZCP</text>
+	</string>
+	<string id="ui_mcm_menu_smr_spawns">
+		<text>Варианты спавна</text>
+  </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_desc">
+		  <text>Варианты спавна добавляют контроля к спауну мутантов, их видам, локациям и т.д.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_file">
+      <text>Файл варианта</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_file_desc">
+      <text>
+      Следующие файлы вариантов включают в себя:\n
+      - Стандартно: Примерно как в стандартной игре.\n
+      - Все: Все мутанты могут спавнится на всех локациях, но все еще разделены по уровням.\n
+      - Сбалансировано: Порт значений, используемых в TheMrDemonized's. "ZCP Kinda Balanced Spawns" моде для ZCP 1.4.\n
+      если вы добавите свой вавриант - он появится здесь, в списке, со всеми остальными.</text>
+    </string>
+     <string id="ui_mcm_SMR_smr_spawns_preset_apply_random">
+      <text>Применить к рандомным спавнам мутантов</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_apply_replaced">
+      <text>Применить к замененным выключенным мутантам</text>
+    </string>
+    <!-- WEEK 0 -->
+    <string id="ui_mcm_smr_spawns_preset_week0_title">
+      <text>Первая неделя</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier1">
+      <text>Шанс первого уровня</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier2">
+      <text>Шанс второго уровня</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week0_tier3">
+      <text>Шанс третьего уровня</text>
+    </string>
+    <!-- WEEK 1 -->
+    <string id="ui_mcm_smr_spawns_preset_week1_title">
+      <text>Вторая неделя</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier1">
+      <text>Шанс первого уровня</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier2">
+      <text>Шанс второго уровня</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week1_tier3">
+      <text>Шанс третьего уровня</text>
+    </string>
+    <!-- WEEK 2 -->
+    <string id="ui_mcm_smr_spawns_preset_week2_title">
+      <text>Третья неделя</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier1">
+      <text>Шанс первого уровня</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier2">
+      <text>Шанс второго уровня</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week2_tier3">
+      <text>Шанс третьего уровня</text>
+    </string>
+    <!-- WEEK 3 -->
+    <string id="ui_mcm_smr_spawns_preset_week3_title">
+      <text>Четвертая неделя и далее.</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier1">
+      <text>Шанс первого уровня</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier2">
+      <text>Шанс второго уровня</text>
+    </string>
+    <string id="ui_mcm_SMR_smr_spawns_preset_week3_tier3">
+      <text>Шанс третьего уровня</text>
+    </string>
+  </string_table>

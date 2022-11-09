@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+	<string id="ui_mcm_beef_nvg_enable_anim">
+		<text>Включить анимации ПНВ</text>
+	</string>	
+	<string id="ui_mcm_beef_nvg_keybind_brightness_adjust">
+		<text>Кнопка настройки цикличной яркости</text>
+	</string>	
+</string_table>

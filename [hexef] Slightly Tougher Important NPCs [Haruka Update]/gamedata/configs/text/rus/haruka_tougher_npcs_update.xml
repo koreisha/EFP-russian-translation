@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="ui_mcm_menu_tougher_npcs">
+		<text>Крепкие НПС</text>
+	</string>
+	
+	<string id="ui_mcm_tougher_npcs_important_dmg">
+		<text>Получаемый урон важными НПС от других НПС</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_player_important_dmg">
+		<text>Получаемый урон важными НПС от игрока</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_monster_important_dmg">
+		<text>Получаемый урон важными НПС от монстров</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_dmg">
+		<text>Напарник - лидер отряда получает урона от других НПС</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_squad_member_dmg">
+		<text>Напарник - член отряда получает урона от других НПС</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_player_companion_dmg">
+		<text>Напарник получает урона от игрока</text>
+	</string>
+	
+	<string id="ui_mcm_tougher_npcs_monster_companion_dmg">
+		<text>Напарник получает урона от монстров</text>
+	</string>
+
+	<string id="ui_mcm_tougher_npcs_companion_hit_dmg">
+		<text>Наносимый напарником урон</text>
+	</string>
+
+</string_table>

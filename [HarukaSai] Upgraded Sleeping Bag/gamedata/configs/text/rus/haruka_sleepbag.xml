@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mcm_menu_upgraded_sleep_bag">
+		<text>Улучшенный спальный мешок</text>
+	</string>
+	<string id="ui_mcm_upgraded_sleep_bag_enabled">
+		<text>Включить</text>
+	</string>
+</string_table>

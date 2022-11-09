@@ -33,7 +33,7 @@
 	
 	<string id="st_hobo_matchbox_descr">
 		<text>
-            Коробка опасных спичек. Весьма полезна для хранения таких спичек и поддержания порядка в рюкзаке. \n \n \n
+            Коробок опасных спичек. Весьма полезен для хранения таких спичек и поддержания порядка в рюкзаке. \n \n \n
 			
 			%c[ui_gray_3]СВОЙСТВА:  \n 
 			%c[d_blue] • %c[ui_gray_2] Контейнер хранения для спичек  \n 			
@@ -41,11 +41,11 @@
 	</string>	
 	
 	<string id="st_add_match">
-        <text>Спичка добавлена в контейнер</text>
+        <text>Спичка добавлена в коробок</text>
     </string>
 	
 	<string id="st_match_box">
-        <text>коробка спичек</text>
+        <text>коробок спичек</text>
     </string>
 	
 	<string id="st_match_bundle">
@@ -57,7 +57,7 @@
     </string>
 	
 	<string id="st_box_full">
-        <text>Коробка спичек заполнена полностью</text>
+        <text>Коробок спичек заполнен полностью</text>
     </string>
 	
 	<string id="st_number_of_uses">

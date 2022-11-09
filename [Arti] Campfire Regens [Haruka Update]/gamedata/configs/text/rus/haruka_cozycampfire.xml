@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mcm_menu_cozy_campfire">
+		<text>Реген у костра</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_health">
+		<text>Количество регена здоровья</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_rad">
+		<text>Количество удлаления радиации</text>
+	</string>
+	<string id="ui_mcm_cozy_campfire_psy">
+		<text>Количество регена ПСИ-здоровья</text>
+	</string>
+</string_table>

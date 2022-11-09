@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_mcm_menu_bas_lasers">
+		<text>BaS Лазеры</text>
+	</string>
+	<string id="ui_mcm_bas_lasers_keybind">
+		<text>Клавиша лазера</text>
+	</string>
+	<string id="ui_mcm_menu_torch_anim_toggle">
+		<text>Переключение анимации фонаря</text>
+	</string>
+	<string id="ui_mcm_torch_anim_toggle_torch_anim">
+		<text>Переключение анимации</text>
+	</string>
+</string_table>

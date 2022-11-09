@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	
+    <string id="ui_mcm_menu_rax_wwt">
+        <text>Клавиша наручных часов.</text>
+    </string>
+
+	<string id="ui_mcm_rax_wwt_keybind">
+		<text>Клавиша наручных часов. Нажмите кнопку, чтобы посмотреть время, если у вас в инвентаре есть наручные часы</text>
+	</string>
+
+	<string id="ui_mcm_rax_wwt_keybind_desc">
+		<text>Эта привязка клавиш может быть настроена так, чтобы требовать дополнительные ключи-модификаторы для смягчения конфликтов.</text>
+	</string>
+
+	<string id="ui_mcm_rax_wwk_update_mcm">
+		<text>Обновите MCM, чтобы увидеть эту функцию. Клавиша по умолчанию - F6.</text>
+	</string>
+
+
+</string_table>

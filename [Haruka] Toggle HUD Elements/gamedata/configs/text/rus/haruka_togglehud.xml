@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mm_title_hud_configurator">
+		<text>
+		Переключение элементов худа
+		</text>
+	</string>
+	<string id="ui_mcm_menu_hud_configurator">
+		<text>
+		Переключение элементов худа
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_health_bar">
+		<text>
+		Спрятать полосу здоровья
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_stamina_bar">
+		<text>
+		Спрятать полосу выносливости
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_psy_bar">
+		<text>
+		Спрятать полосу пси-здоровья
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_fire_mode">
+		<text>
+		Спрятать режим стрельбы
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_background">
+		<text>
+		Спрятать фон полос здоровья, выносливости и пси.
+		</text>
+	</string>
+	<string id="ui_mcm_hud_configurator_ammo_check_warn">
+		<text>
+		Найден МСМ, настройки худа боеприпасов пропущены, для редактирования секции боеприпасов см. Mags Redux.
+		</text>
+	</string>
+
+</string_table>

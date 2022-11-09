@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="ui_mcm_menu_haru_screamback">
+		<text>Насмешка</text>
+	</string>
+	<string id="ui_mcm_haru_screamback_keybind">
+		<text>Клавиша насмешки</text>
+	</string>
+    <string id="ui_mcm_haru_screamback_keybind_desc">
+		<text>Клавиша насмешки. По умолчанию - X.</text>
+	</string>
+    <string id="ui_mcm_haru_screamback_mcm">
+		<text>Обновите МСМ, чтобы увидеть функцию, по умолчанию - Х</text>
+	</string>
+</string_table>

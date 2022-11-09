@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="ui_mcm_menu_drop_item_key">
+		<text>Drop Item Key</text>
+	</string>
+    <string id="ui_mcm_svui_drop_item_key">
+		<text>Drop item key</text>
+	</string>
+</string_table>

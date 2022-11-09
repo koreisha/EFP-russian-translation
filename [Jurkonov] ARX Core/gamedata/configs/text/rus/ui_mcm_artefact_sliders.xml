@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	<string id="ui_mcm_menu_arx_options">
+		<text>ARX</text>
+	</string>
+	<string id="ui_mcm_arx_options_arti_s_timer">
+		<text>Задержка тика регенерации</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_restore_step">
+		<text>Количество регенерации</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_restore_point">
+		<text>Минимальное состояние для регенерации</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_light_burn_immunity">
+		<text>Уменьшение состояния от легкого огненного урона</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_burn_immunity">
+		<text>Уменьшение состояния от огненного урона</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_strike_immunity">
+		<text>Уменьшение состояния от ударного урона</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_shock_immunity">
+		<text>Уменьшение состояния от электрического урона</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_wound_immunity">
+		<text>Уменьшение состояния от рваного урона</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_radiation_immunity">
+		<text>Уменьшение состояния от радиационного урона</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_telepatic_immunity">
+		<text>Уменьшение состояния от психического урона</text>
+	</string>
+
+	<string id="ui_mcm_arx_options_imm_mul_chemical_burn_immunity">
+		<text>Уменьшение состояния от химического урона</text>
+	</string>
+	
+	<string id="ui_mcm_arx_options_imm_mul_explosion_immunity">
+		<text>Уменьшение состояния от взрывного урона</text>
+	</string>
+	
+	<string id="ui_mcm_arx_options_imm_mul_fire_wound_immunity">
+		<text>Уменьшение состояния от пулевого урона</text>
+	</string>
+</string_table>

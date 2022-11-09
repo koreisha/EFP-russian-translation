@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="ui_mcm_menu_haru_companion_tp">
+		<text>Телепорт спутников</text>
+	</string>
+	<string id="ui_mcm_haru_companion_tp_keybind">
+		<text>Клавиша телепорта</text>
+	</string>
+    <string id="ui_mcm_haru_companion_tp_keybind_desc">
+		<text>Клавиша телепорта. По умолчанию - {.</text>
+	</string>
+    <string id="ui_mcm_menu_haru_companion_tp_warn">
+		<text>Обновите МСМ, чтобы увидеть функцию. По умолчанию - {</text>
+	</string>
+</string_table>

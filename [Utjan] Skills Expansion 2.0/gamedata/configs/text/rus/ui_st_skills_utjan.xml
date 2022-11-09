@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_player_skills_medicine">
+		<text>Медицина</text>
+	</string>
+	<string id="st_new_level_medicine">
+		<text>$clr_red• $clr_whiteЭффективность медицинских предметов улучшена</text>
+	</string>
+	
+	<string id="st_player_skills_insanity">
+		<text>Безумие</text>
+	</string>
+	<string id="st_new_level_insanity">
+		<text>$clr_purple• $clr_whiteВы теряете ещё больше своего рассудка..\n$clr_purple• $clr_whiteРегенерация пси здоровья улучшена\n$clr_purple• $clr_whiteПси защита улучшена</text>
+	</string>
+	
+	<string id="st_player_skills_tinkering">
+		<text>Ремонт</text>
+	</string>
+	<string id="st_new_level_tinkering">
+		<text>$clr_cyan• $clr_whiteРем. наборы теперь более эффективные</text>
+	</string>
+	<string id="st_tinkering_refund">
+        <text>Вы почили предмет без использования ремкомплекта.</text>
+    </string>
+	
+	<string id="st_player_skills_bartering">
+		<text>Бартер</text>
+	</string>
+	<string id="st_new_level_bartering">
+		<text>$clr_yellowҐ $clr_whiteTrading prices improved</text>
+	</string>
+	
+	<string id="st_player_skills_magloading">
+		<text>Mag Loading</text>
+	</string>
+	<string id="st_new_level_magloading">
+		<text>$clr_whiteҐ $clr_whiteMagazine loading and unloading speed improved</text>
+	</string>
+	
+	<string id="st_player_skills_magloading">
+		<text>Зарядка магазинов</text>
+	</string>
+	<string id="st_new_level_magloading">
+		<text>$clr_white• $clr_whiteСкорость зарядки и разрядки магазинов улучшена</text>
+	</string>
+	
+	<string id="st_player_skills_lockpicking">
+		<text>Взлом замков</text>
+	</string>
+	<string id="st_new_level_lockpicking">
+		<text>$clr_white• $clr_whiteСложность замков лутбоксов снижена</text>
+	</string>
+	
+</string_table>

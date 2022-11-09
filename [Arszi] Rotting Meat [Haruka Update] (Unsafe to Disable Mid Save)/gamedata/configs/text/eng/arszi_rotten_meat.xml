@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+  <string id="st_rotten_meat">
+      <text>Rotten meat</text>
+    </string>
+  <string id="st_rotten_meat_raw_descr">
+		<text>Zone produced raw meat, which was not cooked in time. After two days have passed, this lump of stinky meat is beyond saving. Not even dogs would eat it anymore. Best course of action is to get rid of it as soon as possible, because the smell might attract some creatures, which might be not so picky...</text>
+	</string>
+  <string id="st_rotten_meat_cooked_descr">
+		<text>Zone produced meal, which was not consumed in time. After five days have passed, this bowl of stinky remains of food is beyond saving. What a terrible loss, indeed. Best course of action is to get rid of it as soon as possible, because the smell might attract some creatures, which might be not so picky...</text>
+	</string>
+  <string id="st_rotten_meat_snork_descr">
+    <text>A rotten hand of a snork, which was not cooked in time. It saw better times definitely. Since you have no more use of it, the best course of action is to throw it as far away as possible, so it won't be able to crawl back for sure...</text>
+  </string>
+  <string id="ui_mcm_menu_arszi_rotten_meat">
+    <text>Rotten Meat</text>
+  </string>
+  <string id="ui_mcm_arszi_rotten_meat_expiration_hours_cooked">
+    <text>Cooked meat hours to rot</text>
+  </string>
+  <string id="ui_mcm_arszi_rotten_meat_expiration_hours_raw">
+    <text>Raw meat hours to rot</text>
+  </string>
+</string_table>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+	
+	<string id="ui_mcm_advanced_stamina_system_title">
+		<text>Улучшенная система выносливости</text>
+	</string>
+	<string id="ui_mcm_menu_advanced_stamina_system">
+		<text>УСВ</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_satiety_limit">
+		<text>Включить лимит стамины от сытости</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_satiety_limit_modifier">
+		<text>Модификатор сытости</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_blood_loss_limit">
+		<text>Включить лимит здоровья от уровня крови</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_blood_loss_limit_desc">
+		<text>При кровотечении персонаж потеряет кровь, а вместе с ней - некий уровень здоровья. Для восполнения - плотно едим, закидываемся протеиновым батончиком или ужаливаемся глюкозой.</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_blood_loss_limit_modifier">
+		<text>Модификатор потери крови</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_thirst_drain">
+		<text>Включить увеличение и уменьшение стамины от жажды.</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_thirst_drain_desc">
+		<text>Без жажды вы получаете буст стамины, который линейно понижается с появлением жажды. Начиная с серой иконки - вы получаете штраф к выносливости.</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_thirst_drain_modifier">
+		<text>Модификатор эффекта</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_sleep_drain">
+		<text>Включить увеличение и уменьшение стамины от сонливости.</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_sleep_drain_desc">
+		<text>Без сонливости вы получаете буст стамины, который линейно понижается с появлением жажды. Начиная с серой иконки - вы получаете штраф к выносливости.</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_sleep_drain_modifier">
+		<text>Модификатор эффекта</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_uphill_drain">
+		<text>Включить увеличение и уменьшение стамины на подъемах/спусках</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_uphill_drain_modifier">
+		<text>Модификатор эффекта</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_uphill_speed_modifier">
+		<text>Включить модификатор скорости на подъемах и спусках</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_uphill_speed_modifier_modifier">
+		<text>Модификатор эффекта</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_material_drain">
+		<text>Включить увеличение и уменьшение стамины от материала, по которому идет ГГ</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_material_drain_modifier">
+		<text>Модификатор эффекта</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_stamina_speed_modifier">
+		<text>Включить модификатор скорости от стамины</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_enable_stamina_speed_modifier_desc">
+		<text>С уменьшением стамины ваша скорость также будет падать, начиная примерно с середины полоски.</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_stamina_speed_modifier_modifier">
+		<text>Модификатор эффекта</text>
+	</string>
+	<string id="ui_mcm_advanced_stamina_system_debug_mode">
+		<text>Дебаг режим</text>
+	</string>
+	
+</string_table>

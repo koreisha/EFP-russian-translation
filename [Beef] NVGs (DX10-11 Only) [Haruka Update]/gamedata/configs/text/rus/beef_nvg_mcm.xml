@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_beef_nvg_title">
+		<text>Beef's ПНВ</text>
+	</string>	
+	
+	<string id="ui_mcm_beef_nvg_title_2">
+		<text>Шейдерные ПНВ</text>
+	</string>	
+	
+	<string id="ui_mcm_menu_beef_nvg">
+		<text>Beef's ПНВ</text>
+	</string>
+
+
+	<string id="ui_mcm_beef_nvg_nvg_gain_max_mcm">
+		<text>Гейн прибора</text>
+	</string>
+	<string id="ui_mcm_beef_nvg_nvg_gain_max_mcm_desc">
+		<text>Регулировка уровня усиления входящего света прибором. Лучше всего настраивать в полночь при погоде cloudy_dark_2.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_min_mcm">
+		<text>Минимальный гейн прибора.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_min_mcm_desc">
+		<text>Низкие значения позволят вам уменьшать усиление прибора, экстримально низкие - позволят использовать прибор днем.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm">
+		<text>Сдвиг яркости мира.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gain_offset_mcm_desc">
+		<text>1.0 оставляет яркость мира "как есть", более высокие значения увеличивают яркость окружения, но не яркость источников света.</text>
+	</string>
+
+
+	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm">
+		<text>Уровень размытия света.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_washout_thresh_mcm_desc">
+		<text>Рекомендуем оставить 0.1, но значения выше могут уменьшить эффект размытия изображения в свете прибора. 
+		Это значение скалируется с гейном, так высокие значения увеличивают размытие, низкие - уменьшают.</text>
+	</string>
+	
+	
+	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm">
+		<text>Можно использовать ПНВ в прицеливании</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_view_through_scope_mcm_desc">
+		<text>Если галочка стоит - персонаж не будет выключать ПНВ при прицеливании из оружия.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm">
+		<text>ПНВ остается включенным при включении ПДА</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_stays_pda_mcm_desc">
+		<text>Если галочка не стоит - персонаж будет автоматически отключать ПНВ при просмотре ПДА.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm">
+		<text>Наcтройка трубок 1 поколения: (По умолчанию - одна трубка по центру)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_tubes_mcm_desc">
+		<text>Выберите количество трубок для приборов 1 поколения. (Моно, бинокль или аналог GPNVG)</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm">
+		<text>Наcтройка трубок 2 поколения: (По умолчанию - две трубки по центру)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen2_tubes_mcm_desc">
+		<text>Выберите количество трубок для приборов 2 поколения. (Моно, бинокль или аналог GPNVG)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm">
+		<text>Наcтройка трубок 3 поколения: (По умолчанию - две двойные трубки по центру)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_tubes_mcm_desc">
+		<text>Выберите количество трубок для приборов 2 поколения. (Моно, бинокль или аналог GPNVG)</text>
+	</string>
+
+	
+	<string id="ui_mcm_lst_single_centered">
+		<text>Одна трубка, по центру.</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_left">
+		<text>Одна трубка, слева.</text>
+	</string>
+	
+	<string id="ui_mcm_lst_single_right">
+		<text>Одна трубка, справа.</text>
+	</string>
+	
+	<string id="ui_mcm_lst_dual_centered">
+		<text>Две трубки, по центру.</text>
+	</string>
+	
+	<string id="ui_mcm_lst_quad_centered">
+		<text>Две двойных трубки, по центру.</text>
+	</string>
+	
+	
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm">
+		<text>Оверлей "задника" 1 поколения (по умолчанию - нет)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen1_mode_mcm_desc">
+		<text>Выберите, какой оверлей вам нужен.</text>
+	</string>
+
+	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm">
+		<text>Оверлей "задника" 2 поколения (по умолчанию - размытый оверлей)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen2_mode_mcm_desc">
+		<text>Выберите, какой оверлей вам нужен.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm">
+		<text>Оверлей "задника" 3 поколения (по умолчанию - размытый оверлей)</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_nvg_gen3_mode_mcm_desc">
+		<text>Выберите, какой оверлей вам нужен.</text>
+	</string>
+	
+	
+	<string id="ui_mcm_lst_blurred_background">
+		<text>Размытый оверлей</text>
+	</string>
+	
+	<string id="ui_mcm_lst_black_background">
+		<text>Черный оверлей</text>
+	</string>
+	
+	<string id="ui_mcm_lst_image_overlay">
+		<text>(Не внедрено) оверлей-картинка</text>
+	</string>
+	
+	<string id="ui_mcm_lst_clear_vision">
+		<text>Нет оверлея (чистое поле зрения)</text>
+	</string>
+	
+	
+	<string id="ui_mcm_beef_nvg_shader_scope_compat">
+		<text>Если у вас есть 2D-прицелы на шейдерах - поставьте галочку.</text>
+	</string>
+	
+	<string id="ui_mcm_beef_nvg_shader_scope_compat_desc">
+		<text>Из-за работы шейдеров, если у вас есть шейдерные прицелы - поставьте галочку. Если нет - не ставьте.</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_st_pumping_station">
+		<text>Насосная Станция (Болота)</text>
+	</string>
+	<string id="ui_st_train_hangar">
+		<text>ЖД Ангар(Свалка)</text>
+	</string>
+	<string id="ui_st_village_ruins">
+		<text>Руины деревни (Армейские Склады)</text>
+	</string>
+
+</string_table>

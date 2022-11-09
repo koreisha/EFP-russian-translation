@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="ui_mcm_menu_input_blocker">
+		<text>Блокирование управления</text>
+	</string>
+    <string id="ui_mcm_svui_input_blocker_kACCEL">
+		<text>Блокировать кнопку Ходьбы\Низкого присяда в инвентаре</text>
+	</string>
+    <string id="ui_mcm_svui_input_blocker_kCROUCH">
+		<text>Блокировать кнопку присяда в инвентаре</text>
+	</string>
+</string_table>

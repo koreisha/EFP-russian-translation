@@ -2,7 +2,7 @@
 <string_table>
 
 	<string id="st_campfire_off">
-		<text>Нельзя сохраняться у незажженного костра</text>
+		<text>Нельзя сохраняться у потухшего костра</text>
 	</string>
 
 	<string id="st_campfire_danger">

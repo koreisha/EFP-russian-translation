@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="ui_mcm_blyat_title">
+		<text>Худ спутников</text>
+	</string>
+	<string id="ui_mcm_menu_ui_blyat">
+		<text>Худ спутников</text>
+	</string>
+	<string id="ui_mcm_ui_blyat_enable_companion_ui">
+		<text>Включить худ спутников</text>
+	</string>
+</string_table>
