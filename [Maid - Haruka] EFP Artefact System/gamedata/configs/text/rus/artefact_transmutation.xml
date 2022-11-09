@@ -2,31 +2,31 @@
 
 <string_table>
     <string id="st_transmutation_no_recipe_found">
-        <text>%c[d_orange][SYS WARN]:%c[default] No recipe with suitable signature found in database.</text>
+        <text>%c[d_orange][SYS WARN]:%c[default] рецепт с подходящей сигнатурой в базе данных не найден.</text>
     </string>
 
     <string id="st_transmutation_success">
-        <text>%c[d_green][SYS NOTIF]:%c[default] Transmutation succesful. Result: %c[d_orange]$result%c[default].</text>
+        <text>%c[d_green][SYS NOTIF]:%c[default] Успешно трансмутировано. Результат: %c[d_orange]$result%c[default].</text>
     </string>
 
     <string id="st_transmutation_low_tier">
-        <text>%c[d_red][SYS ERROR]:%c[default] Device is not high enough tier for this transmutation.</text>
+        <text>%c[d_red][SYS ERROR]:%c[default] Прибор ниже уровнем, чем требуемый для трансмутации.</text>
     </string>
 
     <string id="st_transmutator_recipe_already_installed">
-        <text>%c[d_red][SYS ERROR]:%c[default] Recipe like this is already installed on device.</text>
+        <text>%c[d_red][SYS ERROR]:%c[default] Такой рецепт уже присутствует в базе данных прибора.</text>
     </string>
 
     <string id="st_transmutator_condition_failed">
-        <text>%c[d_red][SYS ERROR]:%c[default] Transmutation condition is not met.</text>
+        <text>%c[d_red][SYS ERROR]:%c[default] Требования к трансмутации не соблюдены.</text>
     </string>
 
     <string id="st_transmutator_recipe_installed">
-        <text>%c[d_green][SYS NOTIF]:%c[default] Recipe installed succesfully.</text>
+        <text>%c[d_green][SYS NOTIF]:%c[default] рецепт установлен успешно.</text>
     </string>
 
     <string id="st_transmutator_scan_result_success">
-        <text>%c[d_green][SYS NOTIF]:%c[default] Scan succesful: \n</text>
+        <text>%c[d_green][SYS NOTIF]:%c[default] Сканирование успешно: \n</text>
     </string>
 
     <string id="st_transmutator_scan_template">
@@ -34,424 +34,424 @@
     </string>
 
 	<string id="st_transmutator_scan_unknown">
-		<text>UNKNOWN</text>
+		<text>НЕИЗВЕСТНО</text>
 	</string>
 
     <string id="st_transmutation_scan_result_failed">
-        <text>%c[d_orange][SYS WARN]:%c[default] No anomaly was found nearby, aborting.</text>
+        <text>%c[d_orange][SYS WARN]:%c[default] Рядом не найдено аномалий, отмена операции.</text>
     </string>
 
     <string id="st_transmutator">
-        <text>Transmutation module</text>
+        <text>Модуль трансмутации</text>
     </string>
 
     <string id="st_transmutator_descr">
-        <text>Device that is installed on detectors and used for artefact fusion.</text>
+        <text>Устройство, устанавливающееся на детектор артефактов, для трансмутации артефактов.</text>
     </string>
 
     <string id="st_transmutator_installed">
-        <text>%c[d_green]Transmutation module installed. \n\n</text>
+        <text>%c[d_green]Модуль трансмутации установлен. \n\n</text>
     </string>
 
     <string id="st_transmutator_not_installed">
-        <text>%c[d_red]Transmutation module not installed. \n\n</text>
+        <text>%c[d_red]Модуль трансмутации не установлен. \n\n</text>
     </string>
 
     <string id="st_transmutation_installed_recipes">
-        <text>\n\nINSTALLED RECIPES:</text>
+        <text>\n\nУСТАНОВЛЕННЫЕ РЕЦЕПТЫ:</text>
     </string>
 
     <string id="st_recipe_hides_all">
-        <text>Hides recipe I</text>
+        <text>Рецепт шкур 1</text>
     </string>
     <string id="st_recipe_hides_all_descr">
-        <text>A worn out looking chip, contains many notes regarding mutant hide interactions with the anomalies found in the zone.
-		/nOn more careful and deeper inspection throughout the messy and unorganized notes, that these "recipes" have been written and collected by many stalkers, most of them being lucky and not so lucky interactions with the different mutant threats that roam around the zone when in proximity to elemental dangers.</text>
+        <text>Изношенный на вид чип содержит множество заметок, касающихся взаимодействия мутантной шкуры с аномалиями, обнаруженными в зоне.
+		/nПри более тщательном и глубоком изучении беспорядочных и неорганизованных заметок становится ясно, что эти "рецепты" были написаны и собраны многими сталкерами, большинству из которых повезло и не очень, взаимодействуя с различными угрозами-мутантами, которые бродят по зоне, когда находятся в непосредственной близости от стихийных опасностей.</text>
     </string>
 
     <string id="st_recipe_fire">
-        <text>Fire recipe I</text>
+        <text>Огненный рецепт 1</text>
     </string>
     <string id="st_recipe_fire_descr">
-        <text>A small sized chip, it's contents consist of vital properties and interactions of common Fire artefacts with the different enviromental changing risks found in the zone.
-		/nThroughout all the scientific annotations you find a series of patterns that can potentially bring artefacts to their maximun capabilities and suffer transmutation when in contact with other materials through the exposure of high density fire particles.</text>
+        <text>Чип небольшого размера, его содержимое состоит из жизненно важных свойств и взаимодействий обычных огненных артефактов с различными рисками изменения окружающей среды, обнаруженными в зоне.
+		/nВо всех научных аннотациях вы найдете серию паттернов, которые потенциально могут довести артефакты до их максимальных возможностей и подвергнуться трансмутации при контакте с другими материалами из-за воздействия огненных частиц высокой плотности.</text>
     </string>
 
     <string id="st_recipe_advanced_fire">
-        <text>Fire recipe II</text>
+        <text>Огненный рецепт II</text>
     </string>
     <string id="st_recipe_advanced_fire_descr">
-        <text>A small sized chip, it contains information about the detection of inner fusion of Fire artefacts that can be amplified with an specific reaction causing transformation and mutation.
-		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+        <text>Чип небольшого размера, он содержит информацию об обнаружении внутреннего слияния артефактов Огня, которые могут быть усилены с помощью специфической реакции, вызывающей трансформацию и мутацию.
+		/nНаучные файлы и содержимое этого чипа более продвинуты, и вам не хватает понимания многих терминов и ключевых слов, которые упоминаются в документе, хотя возможные комбинации и результаты экспериментов с артефактами легко определить, судя по акценту, использованному в них.</text>
     </string>
 
     <string id="st_recipe_expert_fire">
-        <text>Fire recipe III</text>
+        <text>Огненный рецепт 3</text>
     </string>
     <string id="st_recipe_expert_fire_descr">
-        <text>A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Fire artefacts.
-		/nThe scientific documents of this chip speak of the many failed attemps at activating said cores and the many more consequences these experiments have brought when forcing an artefact to alter it's natural state.
-		/nOn the good end of the experiments, it's mentioned how some of the positive properties of these man activated artefacts have bringed to the world outside of the zone.
-		/nIt is also mentioned that certain artefacts have acquired extra properties that aren't tied to their element, but you don't seem to find any sign of how to cause this effects.</text>
+        <text>Чип небольшого размера, состоящий из различных исследований, касающихся обнаружения внутреннего бездействующего ядра, процесса активации, а также положительного и отрицательного влияния, которое этот процесс оказывает на множество различных артефактов Огня.
+		/nНаучные документы этого чипа говорят о многих неудачных попытках активировать указанные ядра и о многих других последствиях, которые привели к этим экспериментам, когда артефакт был вынужден изменить свое естественное состояние.
+		/nВ конце экспериментов упоминается, как некоторые положительные свойства этих артефактов, активированных человеком, распространились на мир за пределами Зоны.
+		/nТакже упоминается, что некоторые артефакты приобрели дополнительные свойства, которые не привязаны к их элементу, но вы, похоже, не нашли никаких признаков того, как вызвать эти эффекты.</text>
     </string>
 
     <string id="st_recipe_electra">
-        <text>Electra recipe I</text>
+        <text>Электрический рецепт I</text>
     </string>
     <string id="st_recipe_electra_descr">
-        <text>A small sized chip, it's contents consist of vital properties and interactions of low tier Electra artefacts with the different enviromental changing risks found in the zone.
-		/nThroughout all the scientific annotations you find a series of patterns that can potentially bring artefacts to their maximun capabilities and suffer transmutation when in contact with other materials through the exposure of high density fire particles.</text>
+        <text>Чип небольшого размера, его содержимое состоит из жизненно важных свойств и взаимодействий низкоуровневых артефактов Electra с различными рисками изменения окружающей среды, обнаруженными в зоне.
+		/nВо всех научных аннотациях вы найдете серию паттернов, которые потенциально могут довести артефакты до их максимальных возможностей и подвергнуться трансмутации при контакте с другими материалами из-за воздействия огненных частиц высокой плотности.</text>
     </string>
 
     <string id="st_recipe_advanced_electra">
-        <text>Electra recipe II</text>
+        <text>Электрический рецепт II</text>
     </string>
     <string id="st_recipe_advanced_electra_descr">
         <text>A small sized chip, it contains information about the detection of inner fusion of Electra artefacts that can be amplified with an specific reaction causing transformation and mutation.
-		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+		/nНаучные файлы и содержимое этого чипа более продвинуты, и вам не хватает понимания многих терминов и ключевых слов, которые упоминаются в документе, хотя возможные комбинации и результаты экспериментов с артефактами легко определить, судя по используемым в них акцентам.</text>
     </string>
 
     <string id="st_recipe_expert_electra">
-        <text>Electra recipe III</text>
+        <text>Электрический рецепт III</text>
     </string>
     <string id="st_recipe_expert_electra_descr">
-        <text>A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Electra artefacts.
-		/nThe scientific documents of this chip speak of the many failed attemps at activating said cores and the many more consequences these experiments have brought when forcing an artefact to alter it's natural state.
-		/nOn the good end of the experiments, it's mentioned how some of the positive properties of these man activated artefacts have bringed to the world outside of the zone.
-		/nIt is also mentioned that certain artefacts have acquired extra properties that aren't tied to their element, but you don't seem to find any sign of how to cause this effects.</text>
+        <text>Чип небольшого размера, состоящий из различных исследований, касающихся обнаружения внутреннего бездействующего ядра, процесса активации, а также положительного и отрицательного влияния, которое этот процесс оказывает на множество различных артефактов Electra.
+		/nНаучные документы этого чипа говорят о многих неудачных попытках активировать указанные ядра и о многих других последствиях, которые привели к этим экспериментам, когда артефакт был вынужден изменить свое естественное состояние.
+		/nВ конце экспериментов упоминается, как некоторые положительные свойства этих артефактов, активированных человеком, распространились на мир за пределами Зоны.
+		/nТакже упоминается, что некоторые артефакты приобрели дополнительные свойства, которые не привязаны к их элементу, но вы, похоже, не нашли никаких признаков того, как вызвать эти эффекты.</text>
     </string>
 
     <string id="st_recipe_chemi">
-        <text>Chemical recipe I</text>
+        <text>Химический рецепт I</text>
     </string>
     <string id="st_recipe_chemi_descr">
         <text>A small sized chip, it's contents consist of vital properties and interactions of low tier Chemical artefacts with the different enviromental changing risks found in the zone.
-		/nThroughout all the scientific annotations you find a series of patterns that can potentially bring artefacts to their maximun capabilities and suffer transmutation when in contact with other materials through the exposure of high density fire particles.</text>
+		/nВо всех научных аннотациях вы найдете серию паттернов, которые потенциально могут довести артефакты до их максимальных возможностей и подвергнуться трансмутации при контакте с другими материалами из-за воздействия огненных частиц высокой плотности.</text>
     </string>
 
     <string id="st_recipe_advanced_chemi">
-        <text>Chemical recipe II</text>
+        <text>Химический рецепт II</text>
     </string>
     <string id="st_recipe_advanced_chemi_descr">
-        <text>A small sized chip, it contains information about the detection of inner fusion of Chemical artefacts that can be amplified with an specific reaction causing transformation and mutation.
-		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+        <text>Чип небольшого размера, он содержит информацию об обнаружении внутреннего слияния химических артефактов, которые могут быть усилены с помощью специфической реакции, вызывающей трансформацию и мутацию.
+		/nНаучные файлы и содержимое этого чипа более продвинуты, и вам не хватает понимания многих терминов и ключевых слов, которые упоминаются в документе, хотя возможные комбинации и результаты экспериментов с артефактами легко определить, судя по используемым в них акцентам.</text>
     </string>
 
     <string id="st_recipe_expert_chemi">
-        <text>Chemical recipe III</text>
+        <text>Химический рецепт III</text>
     </string>
     <string id="st_recipe_expert_chemi_descr">
-        <text>A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Chemical artefacts.
-		/nThe scientific documents of this chip speak of the many failed attemps at activating said cores and the many more consequences these experiments have brought when forcing an artefact to alter it's natural state.
-		/nOn the good end of the experiments, it's mentioned how some of the positive properties of these man activated artefacts have bringed to the world outside of the zone.
-		/nIt is also mentioned that certain artefacts have acquired extra properties that aren't tied to their element, but you don't seem to find any sign of how to cause this effects.</text>
+        <text>Чип небольшого размера, состоящий из различных исследований, касающихся обнаружения внутреннего бездействующего ядра, процесса активации, а также положительного и отрицательного влияния, которое этот процесс оказывает на множество различных химических артефактов.
+		/nНаучные документы этого чипа говорят о многих неудачных попытках активировать указанные ядра и о многих других последствиях, которые привели к этим экспериментам, когда артефакт был вынужден изменить свое естественное состояние.
+		/nВ конце экспериментов упоминается, как некоторые положительные свойства этих артефактов, активированных человеком, распространились на мир за пределами Зоны.
+		/nТакже упоминается, что некоторые артефакты приобрели дополнительные свойства, которые не привязаны к их элементу, но вы, похоже, не нашли никаких признаков того, как вызвать эти эффекты.</text>
     </string>
 
     <string id="st_recipe_gravi">
-        <text>Gravi recipe I</text>
+        <text>Гравитационный рецепт I</text>
     </string>
     <string id="st_recipe_gravi_descr">
-        <text>A small sized chip, it's contents consist of vital properties and interactions of low tier Gravitational artefacts with the different enviromental changing risks found in the zone.
-		/nThroughout all the scientific annotations you find a series of patterns that can potentially bring artefacts to their maximun capabilities and suffer transmutation when in contact with other materials through the exposure of high density fire particles.</text>
+        <text>Чип небольшого размера, его содержимое состоит из жизненно важных свойств и взаимодействий низкоуровневых гравитационных артефактов с различными рисками изменения окружающей среды, обнаруженными в зоне.
+		/nВо всех научных аннотациях вы найдете серию паттернов, которые потенциально могут довести артефакты до их максимальных возможностей и подвергнуться трансмутации при контакте с другими материалами из-за воздействия огненных частиц высокой плотности.</text>
     </string>
 
     <string id="st_recipe_advanced_gravi">
-        <text>Gravi recipe II</text>
+        <text>Гравитационный рецепт II</text>
     </string>
     <string id="st_recipe_advanced_gravi_descr">
-        <text>A small sized chip, it contains information about the detection of inner fusion of Gravitational artefacts that can be amplified with an specific reaction causing transformation and mutation.
-		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+        <text>Чип небольшого размера, он содержит информацию об обнаружении внутреннего слияния гравитационных артефактов, которые могут быть усилены с помощью специфической реакции, вызывающей трансформацию и мутацию.
+		/nНаучные файлы и содержимое этого чипа более продвинуты, и вам не хватает понимания многих терминов и ключевых слов, которые упоминаются в документе, хотя возможные комбинации и результаты экспериментов с артефактами легко определить, судя по используемым в них акцентам.</text>
     </string>
 
     <string id="st_recipe_expert_gravi">
-        <text>Gravi recipe III</text>
+        <text>Гравитационный рецепт III</text>
     </string>
     <string id="st_recipe_expert_gravi_descr">
         <text>
-		A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Gravitational artefacts.
-		/nThe scientific documents of this chip speak of the many failed attemps at activating said cores and the many more consequences these experiments have brought when forcing an artefact to alter it's natural state.
-		/nOn the good end of the experiments, it's mentioned how some of the positive properties of these man activated artefacts have bringed to the world outside of the zone.
-		/nIt is also mentioned that certain artefacts have acquired extra properties that aren't tied to their element, but you don't seem to find any sign of how to cause this effects.
+		Чип небольшого размера, состоящий из различных исследований, касающихся обнаружения внутреннего бездействующего ядра, процесса активации, а также положительного и отрицательного влияния, которое этот процесс оказывает на множество различных гравитационных артефактов.
+		/nНаучные документы этого чипа говорят о многих неудачных попытках активировать указанные ядра и о многих других последствиях, которые привели к этим экспериментам, когда артефакт был вынужден изменить свое естественное состояние.
+		/nВ конце экспериментов упоминается, как некоторые положительные свойства этих артефактов, активированных человеком, распространились на мир за пределами Зоны.
+		/nТакже упоминается, что некоторые артефакты приобрели дополнительные свойства, которые не привязаны к их элементу, но вы, похоже, не нашли никаких признаков того, как вызвать эти эффекты.
 		</text>
     </string>
 
     <string id="st_recipe_compass_guide">
         <text>
-			Mysterious Recipe
+			Странная инструкция
 		</text>
     </string>
     <string id="st_recipe_compass_guide_descr">
         <text>
-			A mysterious chip, it's contents are unknown but it matches the size and looks of any other transmutator chip.
+			Странный чип, содержимое неизвестно, но по размерам и внешнему виду смахивает на другие чипы для трансмутатора.
 		</text>
     </string>
 
     <string id="st_recipe_death_bound">
         <text>
-			Mysterious Recipe
+			Странная инструкция
 		</text>
     </string>
     <string id="st_recipe_death_bound_descr">
         <text>
-			A mysterious chip, it's contents are unknown but it matches the size and looks of any other transmutator chip.
+			Странный чип, содержимое неизвестно, но по размерам и внешнему виду смахивает на другие чипы для трансмутатора.
 		</text>
     </string>
 
     <string id="st_recipe_hope_heart">
         <text>
-			Mysterious Recipe
+			Странная инструкция
 		</text>
     </string>
     <string id="st_recipe_hope_heart_descr">
         <text>
-			A mysterious chip, it's contents are unknown but it matches the size and looks of any other transmutator chip.
+			Странный чип, содержимое неизвестно, но по размерам и внешнему виду смахивает на другие чипы для трансмутатора.
 		</text>
     </string>
 
     <string id="st_recipe_pain_train">
         <text>
-			Mysterious Recipe
+			Странная инструкция
 		</text>
     </string>
     <string id="st_recipe_pain_train_descr">
         <text>
-			A mysterious chip, it's contents are unknown but it matches the size and looks of any other transmutator chip.
+			Странный чип, содержимое неизвестно, но по размерам и внешнему виду смахивает на другие чипы для трансмутатора.
 		</text>
     </string>
 
     <string id="st_transmutation_no_recipes">
         <text>
-			%c[d_orange]No recipes on installed on this transmutator module.
+			%c[d_orange]На этом модуле трансмутатора нет установленных рецептов.
 		</text>
     </string>
 	
 	<string id="st_detach_transmutator">
 		<text>
-			remove transmutator
+			снять трансмутатор
 		</text>
 	</string>
 
 
 	<string id="encyclopedia__notes_recipe_transmutation_basic_fire_text">
 		<text>
-			%c[pda_white]Basic Fire Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nEarly scientific investigations on artefact properties, brought to light the possibility of forcing artefacts into reaching higher levels of efficiency while exposing them to a similar element to their natural states.\n
-			\nThe exposure to high heat temperatures and pressure can potentially mutate artefacts into a much stronger, enhanced variation of it.\n
-			\nAfter many attemps and recalibrations, what we consider "low tier" artefacts are now easier to handle, with a very low change of catastrophic desaster.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Eye (Mama's Beads + Dog heart)
-			\n• Fireball (Crystal + Flesh meat)
+			%c[pda_white]Базовая трансмутация огня
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Ранние научные исследования свойств артефактов выявили возможность заставить артефакты достигать более высоких уровней эффективности, подвергая их воздействию элемента, аналогичного их естественному состоянию.\n
+ \n Воздействие высоких температур и давления потенциально может мутировать артефакты в гораздо более сильную, улучшенную их разновидность. \n
+ \n После многих попыток и повторных калибровок то, что мы считаем артефактами "низкого уровня", теперь легче обрабатывать, с очень низким изменением катастрофического разрушения.\n
+\n%c[pda_blue] Потенциальные преобразования%c[ui_gray_1]\n
+ \n• Глаз (мамины бусы + Собачье сердце)
+ \n• Огненный шар (кристалл + Мясо плоти)
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_advanced_fire_text">
 		<text>
-			%c[pda_white]Advanced Fire Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nFurther artefact experimenting, lead to the possibility of fusing artefacts of similar properties to expand their capabilities.\n
-			\nThe familiarity of said artefacts is important to be capable to reach a smooth fusion between them, using artefacts of different elements can result on a completely different one or the destruction of everything around it.\n
-			\nThe infrastructure in the scientific laboratories are safe enough to be able to perform these experiements, but we recommend against any other enviroment for your own sake.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Flame (Eye + Bloodsucker heart + Dog heart)
-			\n• Pin (Fireball + Lurker tail + Flesh meat)
+			%c[pda_white]Усовершенствованная трансмутация огня
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Дальнейшие эксперименты с артефактами приводят к возможности сплавления артефактов с аналогичными свойствами для расширения их возможностей. \n
+ \n Знакомство с указанными артефактами важно для того, чтобы иметь возможность достичь плавного слияния между ними, использование артефактов из разных элементов может привести к совершенно другому элементу или разрушению всего вокруг него. \n
+ \n Инфраструктура в научных лабораториях достаточно безопасна, чтобы иметь возможность проводить эти эксперименты, но мы не рекомендуем использовать любую другую среду для вашего же блага.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Пламя (Глаз + сердце кровососа + Собачье сердце)
+ \n• Булавка (Огненный шар + хвост Луркера + Мясо плоти)
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_expert_fire_text">
 		<text>
-			%c[pda_white]Expert Fire Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nThe last scientific experiments lead ot the discovery of a dormant core found sinde the artefact's nucleus, this core upon activation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
-			\nThe process which we define as "Transmutation" is highly recommended to be performed on a safe carefully isolated enviroment, forcing this evolution on the artefacts is highly dangerous.\n
-			\nSome scientist confirm to have performed this procedure on enviroments with elements that are familiar to the artefact, this a theory yet to be confirmed.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Dragon's eye (Flame + Chimera heart + Bloodsucker heart + Dog heart)
-			\n• Itcher (Pin + Psysucker hand + Lurker tail + Flesh meat)
-			\n• Sun (Lamp + Pseudogiant hide + Chimera Hide + Boar Hide)
+			%c[pda_white]Экспертная трансмутация огня
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Последние научные эксперименты привели к открытию бездействующего ядра, найденного в ядре артефакта, это ядро при активации испускает огромное количество излучения, с возможностью дестабилизации и разрушения артефакта. \n
+ \Ппроцесс, который мы определяем как "Трансмутация", настоятельно рекомендуется выполнять в безопасной, тщательно изолированной среде, принуждение к такой эволюции артефактов крайне опасно. \п
+ \n Некоторые ученые подтверждают, что выполняли эту процедуру в средах с элементами, знакомыми артефакту, эта теория еще не подтверждена.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Глаз дракона (Пламя + сердце Химеры + сердце кровососа + Собачье сердце)
+ \n• Зуд (Булавка + рука Пси-сосыча + хвост Луркера + Плотское мясо)
+ \n• Солнце (Лампа + шкура Псевдогиганта + Шкура Химеры + Шкура кабана)
 		</text>
 	</string>
 
 	<string id="encyclopedia__notes_recipe_transmutation_basic_electra_text">
 		<text>
-			%c[pda_white]Basic Electra Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nEarly scientific investigations on artefact properties, brought to light the possibility of forcing artefacts into reaching higher levels of efficiency while exposing them to a similar element to their natural states.\n
-			\nThe exposure to high voltage and pressure can potentially mutate artefacts into a much stronger, enhanced variation of it.\n
-			\nAfter many attemps and recalibrations, what we consider "low tier" artefacts are now easier to handle, with a very low change of catastrophic desaster.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Cell (Cocoon + Flesh Hide)
-			\n• Sparkler (Tapeworm + Flesh meat)
-			\n• Snowflake (Medal + Chimera claw)
-			\n• Jellyfish (Moss + Flesh eye)
+			%c[pda_white]Базовая трансмутация Электры
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \ Почти научные исследования свойств артефактов выявили возможность заставить артефакты достигать более высоких уровней эффективности, подвергая их воздействию элемента, аналогичного их естественному состоянию.\n
+ \n Воздействие высокого напряжения и давления потенциально может мутировать артефакты в гораздо более сильную, улучшенную их разновидность. \n
+ \n После многих попыток и повторных калибровок то, что мы считаем артефактами "низкого уровня", теперь легче обрабатывать, с очень низким изменением катастрофического разрушения.\n
+\n%c[pda_blue] Потенциальные преобразования%c[ui_gray_1]\n
+ \n• Клетка (Кокон + Плотская шкура)
+ \n• Бенгальский огонь (Солитер + мясо плоти)
+ \n• Снежинка (медаль + коготь химеры)
+ \n• Медуза (Мох + глаз плоти)
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_advanced_electra_text">
 		<text>
-			%c[pda_white]Advanced Electra Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nFurther artefact experimenting, lead to the possibility of fusing artefacts of similar properties to expand their capabilities.\n
-			\nThe familiarity of said artefacts is important to be capable to reach a smooth fusion between them, using artefacts of different elements can result on a completely different one or the destruction of everything around it.\n
-			\nThe infrastructure in the scientific laboratories are safe enough to be able to perform these experiements, but we recommend against any other enviroment for your own sake.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Battery (Wrenched + Bloodsucker meat + Psysucker hand)
-			\n• Moonlight (Moon + Burer Skin + Burer hand)
-			\n• Electron (Snowflake + Chimera horn + Chimera claw)
-			\n• Lamp (Gravi + Chimera Hide + Boar Hide)
-			\n• Firefly (Kolobok + Bloodsucker heart + Dog heart)
-			\n• Ring (Sparkler + Lurker tail + Flesh meat)
+			%c[pda_white]Усовершенствованная трансмутация Электры
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Дальнейшие эксперименты с артефактами приводят к возможности сплавления артефактов с аналогичными свойствами для расширения их возможностей. \n
+ \n Знакомство с указанными артефактами важно для того, чтобы иметь возможность достичь плавного слияния между ними, использование артефактов из разных элементов может привести к совершенно другому элементу или разрушению всего вокруг него. \n
+ \n Инфраструктура в научных лабораториях достаточно безопасна, чтобы иметь возможность проводить эти эксперименты, но мы не рекомендуем использовать любую другую среду для вашего же блага.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \ n • Батарея (вывернутая + мясо кровососа + рука психопата)
+ \n• Лунный свет (Луна + Кожа Бюрера + рука Бюрера)
+ \n• Электрон (Снежинка + рог химеры + коготь химеры)
+ \n• Лампа (Грави + Шкура Химеры + Шкура кабана)
+ \n• Светлячок (Колобок + сердце кровососа + Собачье сердце)
+ \n• Кольцо (Бенгальский огонь + хвост Луркера + мясо плоти)
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_expert_electra_text">
 		<text>
-			%c[pda_white]Expert Electra Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nThe last scientific experiments lead ot the discovery of a dormant core found sinde the artefact's nucleus, this core upon activation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
-			\nThe process which we define as "Transmutation" is highly recommended to be performed on a safe carefully isolated enviroment, forcing this evolution on the artefacts is highly dangerous.\n
-			\nSome scientist confirm to have performed this procedure on enviroments with elements that are familiar to the artefact, this a theory yet to be confirmed.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Ball (Stone Flower + Burer brain + Controller hand + Burer hand)
-			\n• Flash (Ring + Psysucker hand + Lurker tail + Flesh meat)
-			\n• Seraphim (Electron + Chimera heart + Chimera horn + Chimera claw)
-			\n• Soul (Firefly + Chimera heart + Bloodsucker heart + Dog heart)
+			%c[pda_white]Экспертная трансмутация Электры
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Последние научные эксперименты привели к открытию бездействующего ядра, найденного в ядре артефакта, это ядро при активации испускает огромное количество излучения, с возможностью дестабилизации и разрушения артефакта. \n
+ \Ппроцесс, который мы определяем как "Трансмутация", настоятельно рекомендуется выполнять в безопасной, тщательно изолированной среде, принуждение к такой эволюции артефактов крайне опасно. \п
+ \n Некоторые ученые подтверждают, что выполняли эту процедуру в средах с элементами, знакомыми артефакту, эта теория еще не подтверждена.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \ n • Мяч (Каменный цветок + мозг Бюрера + рука контролера + рука бюрера)
+ \n• Вспышка (кольцо + рука Псайкера + хвост Луркера + Плоть от плоти)
+ \n• Серафим (Электрон + сердце Химеры + рог химеры + коготь химеры)
+ \n• Душа (Светлячок + сердце химеры + сердце кровососа + хвост собаки)
 		</text>
 	</string>
 
 	<string id="encyclopedia__notes_recipe_transmutation_basic_chemi_text">
 		<text>
-			%c[pda_white]Basic Chemical Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nEarly scientific investigations on artefact properties, brought to light the possibility of forcing artefacts into reaching higher levels of efficiency while exposing them to a similar element to their natural states.\n
-			\nThe exposure to chemical substances and radiation can potentially mutate artefacts into a much stronger, enhanced variation of it.\n
-			\nAfter many attemps and recalibrations, what we consider "low tier" artefacts are now easier to handle, with a very low change of catastrophic desaster.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Stone Blood (Knot + Boar Hide)
-			\n• Kolobok (Heart + Dog heart)
-			\n• Sandstone (Bracelet + Flesh eye)
+			%c[pda_white]Основная химическая трансмутация
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \ Почти научные исследования свойств артефактов выявили возможность заставить артефакты достигать более высоких уровней эффективности, подвергая их воздействию элемента, аналогичного их естественному состоянию.\n
+ \n Воздействие химических веществ и радиации потенциально может мутировать артефакты в гораздо более сильную, усовершенствованную их разновидность. \n
+ \n После многих попыток и повторных калибровок то, что мы считаем артефактами "низкого уровня", теперь легче обрабатывать, с очень низким изменением катастрофического разрушения.\n
+\n%c[pda_blue] Потенциальные преобразования%c[ui_gray_1]\n
+ \n• Каменная кровь (Узел + Шкура кабана)
+ \n• Колобок (Сердце + Собачье сердце)
+ \n• Песчаник (Браслет + глаз Плоти)
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_advanced_chemi_text">
 		<text>
-			%c[pda_white]Advanced Chemical Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nFurther artefact experimenting, lead to the possibility of fusing artefacts of similar properties to expand their capabilities.\n
-			\nThe familiarity of said artefacts is important to be capable to reach a smooth fusion between them, using artefacts of different elements can result on a completely different one or the destruction of everything around it.\n
-			\nThe infrastructure in the scientific laboratories are safe enough to be able to perform these experiements, but we recommend against any other enviroment for your own sake.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Stone Flower (Claw + Controller hand + Burer hand)
-			\n• Sourpuss (Sandstone + Flesh Hide + Flesh eye)
-			\n• Meat Chunk (Stone Blood + Chimera Hide + Boar Hide)
+			%c[pda_white]Усовершенствованная химическая трансмутация
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Дальнейшие эксперименты с артефактами приводят к возможности сплавления артефактов с аналогичными свойствами для расширения их возможностей. \n
+ \n Знакомство с указанными артефактами важно для того, чтобы иметь возможность достичь плавного слияния между ними, использование артефактов из разных элементов может привести к совершенно другому элементу или разрушению всего вокруг него. \n
+ \n Инфраструктура в научных лабораториях достаточно безопасна, чтобы иметь возможность проводить эти эксперименты, но мы не рекомендуем использовать любую другую среду для вашего же блага.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \ n • Каменный цветок (коготь + рука контролера + рука бюрера)
+ \n• Кислая морда (Песчаник + Шкура из плоти + Глаз из плоти)
+ \n• Кусок мяса (Каменная кровь + Шкура Химеры + Шкура кабана)
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_expert_chemi_text">
 		<text>
-			%c[pda_white]Expert Chemical Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nThe last scientific experiments lead ot the discovery of a dormant core found sinde the artefact's nucleus, this core upon activation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
-			\nThe process which we define as "Transmutation" is highly recommended to be performed on a safe carefully isolated enviroment, forcing this evolution on the artefacts is highly dangerous.\n
-			\nSome scientist confirm to have performed this procedure on enviroments with elements that are familiar to the artefact, this a theory yet to be confirmed.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Bubble (Thistle + Flesh Hide (Transmutated) + Flesh meat + Flesh eye)
-			\n• Goldfish (Fountain + Pseudogiant eye + Boar Hide + Boar chop)
-			\n• Lobster Eyes (Sourpuss + Flesh meat + Flesh Hide + Flesh eye)
-			\n• Sponge (Meat Chunk + Pseudogiant Hide + Chimera Hide + Boar Hide)
+			%c[pda_white]Эксперт по химической трансмутации
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Последние научные эксперименты привели к открытию бездействующего ядра, найденного в ядре артефакта, это ядро при активации испускает огромное количество излучения, с возможностью дестабилизации и разрушения артефакта. \n
+ \Ппроцесс, который мы определяем как "Трансмутация", настоятельно рекомендуется выполнять в безопасной, тщательно изолированной среде, принуждение к такой эволюции артефактов крайне опасно. \п
+ \n Некоторые ученые подтверждают, что выполняли эту процедуру в средах с элементами, знакомыми артефакту, эта теория еще не подтверждена.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Пузырь (Чертополох + Шкура из плоти (преобразованная) + Плотское мясо + Глаз из плоти)
+ \n • Золотая рыбка (Фонтан + Псевдогигантский глаз + Шкура кабана + Отбивная из кабана)
+ \n• Глаза омара (Кислинка + Мякоть + Шкура из плоти + Глаз из плоти)
+ \n• Бисквит (кусок мяса + Псевдогигантская шкура + Шкура химеры + Шкура кабана)
 		</text>
 	</string>
 
 	<string id="encyclopedia__notes_recipe_transmutation_basic_gravi_text">
 		<text>
-			%c[pda_white]Basic Gravitational Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nEarly scientific investigations on artefact properties, brought to light the possibility of forcing artefacts into reaching higher levels of efficiency while exposing them to a similar element to their natural states.\n
-			\nThe exposure to high gravity pressure can potentially mutate artefacts into a much stronger, enhanced variation of it.\n
-			\nAfter many attemps and recalibrations, what we consider "low tier" artefacts are now easier to handle, with a very low change of catastrophic desaster.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Black Spray (Spike + Flesh Hide)
-			\n• Gravi (Generator + Boar Hide)
-			\n• Claw (Grapes + Burer hand)
-			\n• Beacon (Chain + Boar chop)
-			\n• Moon (Scar + Burer hand)
-			\n• Wrenched (Signet + Psysucker hand)
+			%c[pda_white]Базовая гравитационная трансмутация
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \ Почти научные исследования свойств артефактов выявили возможность заставить артефакты достигать более высоких уровней эффективности, подвергая их воздействию элемента, аналогичного их естественному состоянию.\n
+ \n Воздействие высокого гравитационного давления потенциально может мутировать артефакты в гораздо более сильную, улучшенную его разновидность. \n
+ \n После многих попыток и повторных калибровок то, что мы считаем артефактами "низкого уровня", теперь легче обрабатывать, с очень низким изменением катастрофического разрушения.\n
+\n%c[pda_blue] Потенциальные преобразования%c[ui_gray_1]\n
+ \ n • Черный спрей (Шип + Плотная шкура)
+ \n• Грави (Генератор + Шкура кабана)
+ \n• Коготь (виноград + рука бюрера)
+ \n• Маяк (цепь + отбивная из кабана)
+ \n• Луна (шрам + рука бюрера)
+ \n• Вывернутая (печатка + рука Псих-сосунка)
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_advanced_gravi_text">
 		<text>
-			%c[pda_white]Advanced Gravitational Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nFurther artefact experimenting, lead to the possibility of fusing artefacts of similar properties to expand their capabilities.\n
-			\nThe familiarity of said artefacts is important to be capable to reach a smooth fusion between them, using artefacts of different elements can result on a completely different one or the destruction of everything around it.\n
-			\nThe infrastructure in the scientific laboratories are safe enough to be able to perform these experiements, but we recommend against any other enviroment for your own sake.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Atom (Cell + Boar Hide + Flesh Hide)
-			\n• Fountain (Beacon + Boar Hide + Boar chop)
-			\n• Nightstar (Black Spray + Boar Hide + Flesh Hide)
-			\n• Thistle (Jellyfish + Flesh meat + Flesh eye)
+			%c[pda_white]Усовершенствованная гравитационная трансмутация
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Дальнейшие эксперименты с артефактами приводят к возможности сплавления артефактов с аналогичными свойствами для расширения их возможностей. \n
+ \n Знакомство с указанными артефактами важно для того, чтобы иметь возможность достичь плавного слияния между ними, использование артефактов из разных элементов может привести к совершенно другому элементу или разрушению всего вокруг него. \n
+ \n Инфраструктура в научных лабораториях достаточно безопасна, чтобы иметь возможность проводить эти эксперименты, но мы не рекомендуем использовать любую другую среду для вашего же блага.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Атом (Клетка + Шкура кабана + Шкура плоти)
+ \n• Фонтан (Маяк + Шкура кабана + Отбивная из кабана)
+ \n• Ночная звезда (Черный спрей + Шкура кабана + Шкура плоти)
+ \n• Чертополох (Медуза + Мякоть + глаз из плоти)
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_expert_gravi_text">
 		<text>
-			%c[pda_white]Expert Gravitational Transmutation
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nThe last scientific experiments lead ot the discovery of a dormant core found sinde the artefact's nucleus, this core upon activation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
-			\nThe process which we define as "Transmutation" is highly recommended to be performed on a safe carefully isolated enviroment, forcing this evolution on the artefacts is highly dangerous.\n
-			\nSome scientist confirm to have performed this procedure on enviroments with elements that are familiar to the artefact, this a theory yet to be confirmed.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Black Angel (Battery + Pseudogiant hand + Bloodsucker meat + Psysucker hand)
-			\n• Shell (Atom + Pseudogiant hand + Boar Hide + Flesh Hide)
-			\n• Miser's skull (Moonlight + Burer brain + Burer Skin + Burer hand)
-			\n• Phantom star (Nightstar + Pseudogiant hand + Boar Hide + Flesh Hide)
+			%c[pda_white]Экспертная гравитационная трансмутация
+ \n%c[pda_green]Информация%c[ui_gray_1]
+ \n Последние научные эксперименты привели к открытию бездействующего ядра, найденного в ядре артефакта, это ядро при активации испускает огромное количество излучения, с возможностью дестабилизации и разрушения артефакта. \n
+ \nПроцесс, который мы определяем как "Трансмутация", настоятельно рекомендуется выполнять в безопасной, тщательно изолированной среде, принуждение к такой эволюции артефактов крайне опасно. \п
+ \n Некоторые ученые подтверждают, что выполняли эту процедуру в средах с элементами, знакомыми артефакту, эта теория еще не подтверждена.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Черный Ангел (Батарейка + Псевдогигантская рука + Мясо кровососа + рука Псикровососа)
+ \n• Оболочка (Атом + Псевдогигантская рука + Шкура кабана + Шкура плоти)
+ \n• Череп скряги (Лунный свет + мозг Бюрера + Кожа бюрера + рука бюрера)
+ \n• Призрачная звезда (Ночная звезда + рука псевдогиганта + шкура кабана + шкура плоти)
 		</text>
 	</string>
 
 	<string id="encyclopedia__notes_recipe_transmutation_compass_guide_text">
 		<text>
-			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
-			\nJudging by the materials used by the recipe it could yield a powerful artefact.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Volat Emerald + Chimera heart
+			Рецепт трансмутации неизвестной процедуры, не имеет особого объяснения ни конечного результата.\n
+\n Судя по материалам, используемым в рецепте, это может привести к мощному артефакту.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Изумруд Волат + сердце химеры
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_hope_heart_text">
 		<text>
-			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
-			\nJudging by the materials used by the recipe it could yield a powerful artefact.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Heart + Grapes + Dog heart + Medal
+			Рецепт трансмутации неизвестной процедуры, не имеет особого объяснения ни конечного результата.\n
+\n Судя по материалам, используемым в рецепте, это может привести к мощному артефакту.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Сердце + Виноград + Собачье сердце + Медаль
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_pain_train_text">
 		<text>
-			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
-			\nJudging by the materials used by the recipe it could yield a powerful artefact.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Pseudogiant Hide + Burer Skin + Psysucker Skin + Nightstar
-			\n• Pseudogiant Hide + Burer Skin + Empty + Phantom star
+			Рецепт трансмутации неизвестной процедуры, не имеет особого объяснения ни конечного результата.\n
+\n Судя по материалам, используемым в рецепте, это может привести к мощному артефакту.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Псевдогигантская шкура + Шкура Бюрера + Шкура Псососа + Ночная звезда
+ \ n• Псевдогигантская шкура + Шкура Бюрера + Пустая + Призрачная звезда
 		</text>
 	</string>
 	<string id="encyclopedia__notes_recipe_transmutation_death_bound_text">
 		<text>
-			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
-			\nJudging by the materials used by the recipe it could yield a powerful artefact.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Empty + Pseudogiant Hide + Burer Skin + Psysucker Skin
-			\n• Bloodsucker Heart + Heart of the Oasis
+			Рецепт трансмутации неизвестной процедуры, не имеет особого объяснения ни конечного результата.\n
+\n Судя по материалам, используемым в рецепте, это может привести к мощному артефакту.\n
+\n%c[pda_blue] Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Пусто + Псевдогигантская шкура + Шкура Бюрера + Шкура Псайкера
+ \n• Сердце кровососа + Сердце Оазиса
 		</text>
 	</string>
 
 	<string id="encyclopedia__notes_recipe_transmutation_hides_all_text">
 		<text>
-			The many different tests by what you assume different stalkers have been grouped and slapped together in no particular order.\n
-			\nYou're able to separate the important recipes from all the content between the notes.\n
-			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
-			\n• Bloodsucker Skin (Transmutated) - (Bloodsucker Skin + Signet)
-			\n• Boar Hide (Transmutated) - (Boar Hide + Crystal + Generator)
-			\n• Burer Skin (Transmutated) - (Burer Skin + Scar)
-			\n• Chimera Hide (Transmutated) - (Chimera Hide + Medal + Tapeworm)
-			\n• Controller Scalp (Transmutated) - (Controller Scalp + Scar + Grapes)
-			\n• Flesh Hide (Transmutated) - (Flesh Hide + Tapeworm)
-			\n• Lurker Hide (Transmutated) - (Lurker Hide + Signet)
-			\n• Pseudodog Fur (Transmutated) - (Pseudodog Fur + Mama's Beads)
-			\n• Pseudogiant Hide (Transmutated) - (Pseudogiant Hide + Spike, Signet)
-			\n• Psy-dog Fur (Transmutated) - (Psy-dog Fur + Spike)
-			\n• Psysucker Skin (Transmutated) - (Psysucker Skin, Signet)
+			Множество различных тестов, проведенных, как вы предполагаете, разными сталкерами, были сгруппированы и сопоставлены друг с другом в произвольном порядке.\n
+ \n Вы можете отделить важные рецепты от всего содержимого между заметками.\n
+ \n%c[pda_blue]Потенциальные трансмутации%c[ui_gray_1]\n
+ \n• Кожа кровососа (преобразованная) - (Кожа Кровососа + Печатка)
+ \n• Шкура кабана (преобразованная) - (Шкура кабана + Кристалл + Генератор)
+ \n• Кожа Бюрера (преобразованная) - (Кожа Бюрера + шрам)
+ \n• Шкура химеры (преобразованная) - (Шкура химеры + Медаль + Солитер)
+ \n• Скальп контроллера (преобразованный) - (Скальп контроллера + Шрам + Виноград)
+ \n• Плотская шкура (преобразованная) - (Плотская шкура + Солитер)
+ \n• Скрытие Луркера (преобразованное) - (Скрытие Луркера + Печатка)
+ \n• Мех псевдодога (преобразованный) - (Мех Псевдодога + мамины бусы)
+ \n• Псевдогигантская шкура (преобразованная) - (Псевдогигантская шкура + Шип, Печатка)
+ \n• Мех Пси-собаки (преобразованный) - (Мех Пси-собаки + Шип)
+ \n• Кожа Псих-сосунка (преобразованная) - (Кожа Псих-сосунка, Печатка)
 		</text>
 	</string>
 
@@ -466,20 +466,21 @@
     </string>
 
     <string id="encyclopedia__notes_transmutator">
-        <text>Artefact Transmutation</text>
+        <text>Трансмутация артефактов</text>
     </string>
     <string id="encyclopedia__notes_transmutator_text">
         <text>
-			%c[pda_white]Transmutation user guide\n
-			\n%c[pda_green]Information%c[ui_gray_1]
-			\nThe Artefact Transmutator a result of many experiments with artefacts, created to facilitate the alteration of their properties through exposure to particles of similar elements.\n
-			\nThe technological advacements during the experimentation with artefact properties and internal structure allowed to create this compact protorype which can be attached to your regular artefact detectors.\n
-			\n%c[pda_blue]Functionality%c[ui_gray_1]\n
-			\nThe transmutator device database can be updated to cover more transmutations with the recipes you acquire, it can be attached and removed to your detector for such reason.\n
-			\n• Scanning - analyzes and displays the artefacts an anomaly can potentially create.
-			\n• Transmutating - allows your detector to emit a pulse of particles that activates the artefacts internal properties, to mutate and enhance it's capabilities.\n
-			\nKeep in mind that these functionalities depend on the artefacts discovered and the detector's capabilities.
-			\nIn most cases for a succesful transmutation you need to first scan an anomaly, then the list of artefacts will be displayed, those would be artefacts that you can transmute in that anomaly if you have the recipe. Some recipes are special and require different conditions.
+			%c[pda_white]Руководство пользователя по трансмутации\n
+\n%c[pda_green]Информация%c[ui_gray_1]
+Преобразователь артефактов - результат многих экспериментов с артефактами, созданный для облегчения изменения их свойств путем воздействия частиц аналогичных элементов.\n
+\n Технологические достижения, достигнутые в ходе экспериментов со свойствами артефактов и внутренней структурой, позволили создать этот компактный прототип, который может быть присоединен к вашим обычным детекторам артефактов. \n
+\n%c[pda_blue]Функциональность%c[ui_gray_1]\n
+\n База данных устройства transmutator может быть обновлена, чтобы охватить больше трансмутаций по приобретенным вами рецептам, по этой причине ее можно прикреплять и удалять к вашему детектору.\n
+\n • Сканирование - анализирует и отображает артефакты, которые потенциально может создать аномалия.
+\n • Трансмутация - позволяет вашему детектору излучать импульс частиц, который активирует внутренние свойства артефакта, видоизменяя и расширяя его возможности.\n
+\n Имейте в виду, что эти функциональные возможности зависят от обнаруженных артефактов и возможностей детектора.
+\n В большинстве случаев для успешной трансмутации вам нужно сначала просканировать аномалию, затем отобразится список артефактов, это будут артефакты, которые вы можете преобразовать в эту аномалию, если у вас есть рецепт. Некоторые рецепты являются особенными и требуют других условий.
 		</text>
     </string>
+	
 </string_table>

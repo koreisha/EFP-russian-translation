@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+    <string id="st_no_helm">
+        <text>Helmet not compatible with outfit.</text>
+    </string>
+    <string id="st_no_helmkit">
+        <text>You require a helmet repair kit to replace the helmet.</text>
+    </string>
+    <string id="st_helm_success">
+        <text>Helmet swapped successfully.</text>
+    </string>
+    <string id="ui_inv_max_condition">
+        <text>Max condition</text>
+    </string>
+    <string id="st_part_repaired">
+        <text>%s has been repaired to %s% condition.</text>
+    </string>
+    <string id="st_dot">
+        <text>•</text>
+    </string>
+    <string id="st_ui_repair_new">
+        <text>New</text>
+    </string>
+    
+    
+    <string id="st_total_repair">
+        <text>total condition restored to suit parts:</text>
+    </string>
+
+    <string id="st_can_repair">
+        <text>can repair following components of suit:</text>
+    </string>
+    <string id="st_type_2">
+        <text>fabrics</text>
+    </string>
+    <string id="st_type_4">
+        <text>ballistics</text>
+    </string>
+    <string id="st_type_3">
+        <text>retardants</text>
+    </string>
+    <string id="st_type_5">
+        <text>exoskeleton frames</text>
+    </string>
+    <string id="st_type_1">
+        <text>helmet</text>
+    </string>
+
+    <string id="st_tier_base">
+        <text>suited to repair </text>
+    </string>
+    <string id="st_tier_1">
+        <text>light armors and respirators</text>
+    </string>
+    <string id="st_tier_2">
+        <text>medium armors and armored helmets/respirators</text>
+    </string>
+    <string id="st_tier_3">
+        <text>heavy armor, exoskeletons and heavily armored helmets</text>
+    </string>
+
+    
+    <string id="st_type_integrity">
+        <text>integrity:</text>
+    </string>
+     
+    
+	<string id="ui_mcm_outfit_title">
+		<text>Outfit Parts Overhaul</text>
+	</string>
+	<string id="ui_mcm_menu_outfit">
+		<text>OPO</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_1">
+		<text>Part damage multiplier (Light outfits)</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_1_desc">
+		<text>Multiplier on how much damage parts of light outfits (novice jackets, light LCS suits) take.</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_2">
+		<text>Part damage multiplier (Medium outfits)</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_2_desc">
+		<text>Multiplier on how much damage parts of medium outfits (Sunrise suits, PS5 suits, light plate carriers) take.</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_3">
+		<text>Part damage multiplier (Heavy outfits)</text>
+	</string>
+	<string id="ui_mcm_outfit_damage_3_desc">
+		<text>Multiplier on how much damage parts of heavy outfits (SKAT-9 armor, exosuits, exoskeletons) take. Be mindful that heavy outfits take less condition damage overall so it is more balanced to keep this coefficient relatively high.</text>
+	</string>
+	<string id="ui_mcm_outfit_debug">
+		<text>Debug logging</text>
+	</string>
+	<string id="ui_mcm_outfit_debug_desc">
+		<text>Debug logging</text>
+	</string>
+	<string id="ui_mcm_outfit_round">
+		<text>Reduce scratch damage taken</text>
+	</string>
+	<string id="ui_mcm_outfit_round_desc">
+		<text>Check this option to make it so very small amounts of damage do not accrue on the suit components. This will also tidy up display by making it so long floats aren't printed in item stats.</text>
+	</string>
+    
+	<string id="ui_mcm_outfit_ui">
+		<text>Show Part Repair Window</text>
+	</string>
+	<string id="ui_mcm_outfit_ui_desc">
+		<text>Opens a window in repair interface that shows part restoration for outfits.</text>
+	</string>
+
+
+    
+    <string id="article_opo">
+        <text>Outfit Maintenance</text>
+    </string>
+    <string id="article_opo_text">
+        <text>
+            Outfit Parts Overhaul changes how maintenance works, placing greater emphasis on using the right tools and parts to maintain your equipment.\n \n
+			%c[pda_green]I. Parts and Maintenance%c[ui_gray_1]\n
+            \n• Outfits have a maximum condition. This is determined by the average condition of their parts.
+            \n• Outfit repair items work from 0%, however, they can only restore up to the max condition.
+            \n• Heavier armors need stronger repair items.
+            \n• Technicians will restore all parts to 100%.
+            \n• Damage taken by the suit over time degrades max condition. Different parts degrade at different speeds.
+            \n \n
+			%c[pda_green]II. Repair and workshop changes%c[ui_gray_1]\n
+            \n• Certain repair items (sewing kits and repair kits) repair the parts in the suit. This in turn restores max condition.
+            \n• Basic sewing kits can fix fabrics. Advanced and heavy sewing kits can fix retardants and fabrics. Repair kits fix everything but helmets.
+            \n• Each kit restores a set amount of condition distributed equally to all parts of the outfit.
+            \n• Outfit components may be used in the repair. If used, they will directly increase the part that they match with. If not, they apply condition to parts in their category at 25% of their effectiveness.
+            \n• Workshop replacement of parts does not restore max condition. To compensate, it is free and doesn't consume charges of repair kit.
+			\n \n
+            %c[pda_green]III. Armor Crafter%c[ui_gray_1]\n
+            \n• You can disassemble outfit parts to get base components!
+            \n• To disassemble, use an appropriate tool or drag-drop a tool onto a part.
+            \n• Condition affects amount of components you get.
+            \n• Outfit part components are used to assemble other outfit parts. The recipes are distributed amongst Mechanics Manuals.
+        </text>
+    </string>
+
+</string_table>

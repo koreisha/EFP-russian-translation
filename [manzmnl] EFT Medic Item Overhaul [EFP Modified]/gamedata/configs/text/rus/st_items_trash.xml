@@ -490,7 +490,67 @@
 		%c[d_blue] • %c[ui_gray_2] повсеместное применение\n
 		</text>
 	</string>
+<string id="st_hand_rolex">
+		<text>Rolex</text>
+	</string>
+	<string id="st_hand_rolex_descr">
+		<text>
+		Классические часы Rolex, которые все еще находятся в хорошем состоянии. Неудивительно, что многие сталкеры предпочитают механические часы КПК для обычной проверки времени. Учитывая тот факт, что эти часы надежны и долговечны даже в самых неблагоприятных ситуациях, они пригодятся там, где КПК выходят из строя из-за сильных электромагнитных волн, исходящих от выбросов или близлежащих аномальных полей. Однако этот предмет попал в Зону через очень богатого сталкера.\n \n
+		%c[ui_gray_3]ХАРАКТЕРИСТИКИ:\n
+		%c[d_cyan] • %c[ui_gray_2] личная вещь\n
+		%c[d_blue] • %c[ui_gray_2] технологический предмет\n
+		%c[d_purple] • %c[ui_gray_2] extremly valuable\n
+		</text>
+	</string>	
+	<string id="st_bitcoin">
+		<text>Биткоин</text>
+	</string>
+	<string id="st_bitcoin_descr">
+		<text>
+		Флешка с биткоином на ней.\n \n
+		%c[ui_gray_3]ХАРАКТЕРИСТИКИ:\n
+		%c[d_cyan] • %c[ui_gray_2] trade item\n
+		%c[d_blue] • %c[ui_gray_2] технологический предмет\n
+		%c[d_purple] • %c[ui_gray_2] very valuable\n
+		</text>
+	</string>	
 
+	<string id="st_us_passport">
+		<text>Паспорт США</text>
+	</string>
+	<string id="st_us_passport_descr">
+		<text>
+		Паспорта Соединенных Штатов - это паспорта, выданные гражданам Соединенных Штатов Америки. Они выдаются исключительно Государственным департаментом США. Гражданам США и негражданам запрещено въезжать в Соединенные Штаты или выезжать из них без действительного паспорта США.\n \n
+		%c[ui_gray_3]ХАРАКТЕРИСТИКИ:\n
+		%c[d_cyan] • %c[ui_gray_2] личная вещь\n
+		%c[d_blue] • %c[ui_gray_2] ежедневное использование\n
+		</text>
+	</string>	
+
+	<string id="st_russian_passport">
+		<text>Загранпаспорт РФ</text>
+	</string>
+	<string id="st_russian_passport_descr">
+		<text>
+		Российский заграничный паспорт - это документ, выдаваемая Министерством внутренних дел гражданам России для международных поездок.\n \n
+		%c[ui_gray_3]ХАРАКТЕРИСТИКИ:\n
+		%c[d_cyan] • %c[ui_gray_2] личная вещь\n
+		%c[d_blue] • %c[ui_gray_2] ежедневное использование\n
+		</text>
+	</string>	
+
+	<string id="st_passport">
+		<text>Личный паспорт</text>
+	</string>
+	<string id="st_passport_descr">
+		<text>
+		Мои личные документы, удостоверяющие личность, или сокращенно: Мой паспорт. Я должен быть осторожен с этим документом, потому что, если я его потеряю, у меня останется не так много вариантов вернуться домой без паспорта.\n \n
+		%c[ui_gray_3]ХАРАКТЕРИСТИКИ:\n
+		%c[d_cyan] • %c[ui_gray_2] личная вещь\n
+		%c[d_blue] • %c[ui_gray_2] ежедневное использование\n
+		%c[d_red] • %c[ui_gray_2] не для продажи\n
+		</text>
+	</string>	
 	
 <!-- unused -->
 	<string id="ammo12x70_base_name">
@@ -671,7 +731,7 @@
 	</string>
 	<string id="servomotor_descr">
 		<text>A servo taken from an exoskeleton. Looks like it could be replaced with a repair kit.\n \n%c[ui_gray_2]ХАРАКТЕРИСТИКИ:\n \n
-		%c[d_cyan] • %c[ui_gray_2] высокоtechnological item\n
+		%c[d_cyan] • %c[ui_gray_2] высокотехнологический предмет\n
 		</text>
 	</string>
 	<string id="plastic_pieces_name">

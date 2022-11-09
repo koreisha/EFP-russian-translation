@@ -29,19 +29,40 @@
     <string id="st_can_repair">
         <text>может отремонтировать следующие компоненты:</text>
     </string>
-    <string id="st_type_prt_o_fabrics">
+    <string id="st_type_2">
         <text>ткани</text>
     </string>
-    <string id="st_type_prt_o_ballistic">
+    <string id="st_type_4">
         <text>баллистические пластины</text>
     </string>
-    <string id="st_type_prt_o_retardant">
+    <string id="st_type_3">
         <text>обработанные ткани</text>
     </string>
-    <string id="st_type_prt_o_support">
+    <string id="st_type_5">
         <text>рамки экзоскелета</text>
     </string>
+    <string id="st_type_1">
+        <text>шлем</text>
+    </string>
+	
+	<string id="st_tier_base">
+        <text>подходит для ремонта </text>
+    </string>
+    <string id="st_tier_1">
+        <text>легкие бронежилеты и респираторы</text>
+    </string>
+    <string id="st_tier_2">
+        <text>средние бронежилеты и армированные шлема/респираторы</text>
+    </string>
+    <string id="st_tier_3">
+        <text>тяжелые бронежилеты, экзоскелеты и тяжелобронированные шлема</text>
+    </string>
+
     
+    <string id="st_type_integrity">
+        <text>прочность:</text>
+    </string>
+	
     <string id="ui_mcm_outfit_title">
 		<text>Outfit Parts Overhaul</text>
 	</string>

@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_ignite_fire">
+		<text>Зажечь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_ignite_wait">
+		<text>Надо подождать перед очередной попыткой...</text>
+	</string>
+	<string id="st_ignite_far">
+		<text>Я слишком далеко от костра...</text>
+	</string>
+	<string id="st_extinguish_fire">
+		<text>Затушить ($$ACTION_USE$$)</text>
+	</string>
+	<string id="actor_inventory_box_use">
+		<text>Открыть персональный ящик ($$ACTION_USE$$)</text>
+	</string>
+	<string id="cant_walk">
+		<text>Я слишком устал...</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>Нужно что-то скинуть...</text>
+	</string>
+	<string id="car_character_use">
+		<text>Открыть дверь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_use_action_sit">
+		<text>Сесть ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Говорить ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Обыскать ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Обыскать ($$ACTION_USE$$)\nТащить тело (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>Задание выполнено:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Задание провалено:</text>
+	</string>
+	<string id="general_in_item">
+		<text>Получен предмет:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Получены деньгм:</text>
+	</string>
+	<string id="general_new_task">
+		<text>Новое задание:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Потерян предмет:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Потеряны деньги:</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>Задание отменено:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Задание обновлено:</text>
+	</string>
+	<string id="gun_jammed">
+		<text>Заклинило!</text>
+	</string>
+	<string id="st_item_taken">
+		<text>%s</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>Обыскать ящик ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Поднять предмет ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b10_ufo_searching_tips">
+		<text>Обыскать самолет ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b1_bar_door">
+		<text>Дверь не поддается...</text>
+	</string>
+	<string id="jup_b1_door_is_closed">
+		<text>Похоже, дверь забарикадирована изнутри...</text>
+	</string>
+	<string id="jup_b202_treasures_closed">
+		<text>Сейф заперт</text>
+	</string>
+	<string id="jup_b205_tip_door_closed">
+		<text>Мне нужен код...</text>
+	</string>
+	<string id="jup_b205_tip_door_decode">
+		<text>Ввести код ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b206_use_plant">
+		<text>Взять растение ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_place_tips">
+		<text>Установить сканер ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_remove_tips">
+		<text>Взять сканер ($$ACTION_USE$$)</text>
+	</string>
+	<string id="lx8_raduga">
+		<text>Подавитель агрессии "Радуга"\nмодель комплекса внешних выбросов\nмасштаб 1:20</text>
+	</string>
+	<string id="pas_b400_tip_switcher">
+		<text>Дернуть переключатель ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a18_use_idol">
+		<text>Осмотреть прибор ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a25_blow_up_enter_door">
+		<text>Установить взрывчатку ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>Восстановить ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>Элеватор обесточен</text>
+	</string>
+	<string id="pri_b306_generator_use">
+		<text>Активировать генератор ($$ACTION_USE$$)</text>
+	</string>
+	<string id="sleep_ok_button">
+		<text>Спать</text>
+	</string>
+	<string id="sleep_warning_all_pleasures">
+		<text>Я не могу спать, пока облучен и истекаю кровью...</text>
+	</string>
+	<string id="sleep_warning_bleeding">
+		<text>Я не могу спать, пока истекаю кровью...</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>Не могу спать, пока задница светится...</text>
+	</string>
+	<string id="sleep_zone_tip">
+		<text>Спать ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_autosave">
+		<text>Автосохранение...</text>
+	</string>
+	<string id="st_can_use_weapon_now">
+		<text>Думаю, что уже могу достать оружие...</text>
+	</string>
+	<string id="st_codelock">
+		<text>Кодовый замок ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_detective_news">
+		<text>Медикаменты были добавлены в личный ящик на Скадовске за помощь с расследованием пропавших сталкеров.</text>
+	</string>
+	<string id="st_duty_first_reward_news">
+		<text>Костюм ПС5-М был добавлен в ваш личный ящик на Янове за помощь "Долгу".</text>
+	</string>
+	<string id="st_duty_second_reward_news">
+		<text>Костюм ПСЗ9-Д был добавлен в ваш личный ящик на Янове за помощь "Долгу".</text>
+	</string>
+	<string id="st_freedom_first_reward_news">
+		<text>Костюм "Ветер Свободы" был добавлен в ваш личный ящик на Янове за помощь "Свободе".</text>
+	</string>
+	<string id="st_freedom_second_reward_news">
+		<text>Костюм "Страж Свободы" был добавлен в ваш личный ящик на Янове за помощь "Свободе".</text>
+	</string>
+	<string id="st_freeplay_text_ok">
+		<text>Ты не смог добраться до вертолета и команда эвакуации улетела без тебя...</text>
+	</string>
+	<string id="st_freeplay_text_yes_no">
+		<text>Покимнуть Зону? Пути обратно не будет...</text>
+	</string>
+	<string id="st_game_over">
+		<text>Зона забрала тебя</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Переживи свои воспоминания заново</text>
+	</string>
+	<string id="st_game_paused">
+		<text>ПАУЗА</text>
+	</string>
+	<string id="st_game_saved">
+		<text>Прогресс сохранен</text>
+	</string>
+	<string id="st_herald_of_justice_news">
+		<text>Артефакт был помещен в ващ личный ящик на Скадовске за помощь с разоблачением Сыча. </text>
+	</string>
+	<string id="st_jup_b41_door_locked">
+		<text>Надо подождать, пока шлюз загерметизируется...</text>
+	</string>
+	<string id="st_lx8_button_press_true">
+		<text>Доступ получен</text>
+	</string>
+	<string id="st_lx8_lift_button">
+		<text>Подняться на лифте вверх ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_pri_b306_go_down">
+		<text>Спуститься на лифте вниз ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Мысли становятся нечеткими... Видимо, уровень пси-излучения растет...</text>
+	</string>
+	<string id="st_helmet_countdown">
+		<text>Защита отклбчена</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Голова кружится... Уровень радиации здесь зашкаливает...</text>
+	</string>
+	<string id="st_search_helicopter">
+		<text>Осмотреть вертолет ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>Обыскать тайник ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sleep_hours">
+		<text>ч</text>
+	</string>
+	<string id="st_tip">
+		<text>Сообщение</text>
+	</string>
+	<string id="tip_door_blocked">
+		<text>Дверь заклинила. Ну, конечно...</text>
+	</string>
+	<string id="tip_door_close">
+		<text>Закрыть дверь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_closed_base_alarm">
+		<text>Дверь заперта - спалили...</text>
+	</string>
+	<string id="tip_door_closed_hide_weapon">
+		<text>С пушкой наперевес Борода меня не впустит...</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>Эта дверь заперта... Каждый раз, блин.</text>
+	</string>
+	<string id="tip_door_no_electricity">
+		<text>Видимо, двери нужно питание... Так, а где рубильник?</text>
+	</string>
+	<string id="tip_door_open">
+		<text>Открыть дверь ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>Ворота заблокированы... Бля.</text>
+	</string>
+	<string id="tip_need_access_card">
+		<text>Использовать карту доступа ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_no_access_card">
+		<text>Нужна карта доступа</text>
+	</string>
+	<string id="tip_open_another_site">
+		<text>С этой стороны не войти...</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+	<string id="ui_st_mp_create">
+		<text>Создать</text>
+	</string>
+	<string id="zat_b12_conteiner_full_locked">
+		<text>Этот контейнер надо открывать двумя ключами...</text>
+	</string>
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>Использовать ключ ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>Использовать ключи ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_locked">
+		<text>Теперь мне нужен еще один...</text>
+	</string>
+	<string id="zat_b12_conteiner_open">
+		<text>Открыть контейнер ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b14_door_locked_hint">
+		<text>Кто бы ни был по ту сторону - меня он не пускает...</text>
+	</string>
+	<string id="zat_b57_balon_use_hint">
+		<text>Подключить газовый баллон ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b57_gas_warning">
+		<text>Как это держать, чтобы меня не сожгло?</text>
+	</string>
+	<string id="zat_b57_vintil_press">
+		<text>Повернуть кран ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b33_car_searching_tip">
+		<text>Обыскать машину ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_resupply_ready">
+		<text>Вы можете получить медикаменты и патроны у Лейтенанта Роговца и Лейтенанта Кириллова.</text>
+	</string>
+	<string id="st_surge_while_asleep">
+		<text>В Зоне недавно был выброс.</text>
+	</string>
+	<string id="st_mutant_hunter_news">
+		<text>Патроны были добавлены в ящик на Янове за отстрел мутантов.</text>
+	</string>
+	<string id="st_found_old_treasure">
+		<text>Получены координаты схрона, который уже был найден.</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>Нашел тайник.</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Я получил новые координаты тайника. Надо глянуть...</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>Время вернуться в Зону...</text>
+	</string>
+	<string id="tips_labx16switcher_press">
+		<text>Отключить установку ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tips_rad_switcher_press">
+		<text>Отключить Выжигатель ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_down_red_forest_tips">
+		<text>Опустить мост ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_stop_red_forest_tips">
+		<text>Остановить мост ($$ACTION_USE$$)</text>
+	</string>
+	<string id="bridge_up_red_forest_tips">
+		<text>Поднять мост ($$ACTION_USE$$)</text>
+	</string>
+	<string id="drx_sl_tips_rad_switcher_press">
+		<text>Включить Выжигатель ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_make_a_wish">
+		<text>ЗАГАДАТЬ ЖЕЛАНИЕ ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_lx18_pda">
+		<text>Прослушать запись в ПДА</text>
+	</string>
+	<string id="dar_poltergeist_hold_the_door">
+		<text>Эту дверь кто-то держит?</text>
+	</string>
+	<string id="st_labx18_pass_to_1st_door">
+		<text>Отлично, коллега. Я рад, что вы получили доступ второго уровня. Наконец-то вы узнаете, чем занимается наша лаборатория. Ваш код доступа 1243. Начальник лаборатории X18, Петр Ильич Калугин.</text>
+	</string>
+	<string id="st_labx18_pass_to_2nd_door">
+		<text>Уважаемый коллега, позвольте мне напомнить вам, что с завтрашнего дня вы будете ухаживать за контейнером в центральной лабораторной комнате. Вы должны проверять контейнеры каждые два часа. Докладывайте обо всем непосредственно мне. Код центрального лабораторного помещения - 9524. Начальник лаборатории Х18, Петр Ильич Калугин.</text>
+	</string>
+	<string id="st_yan_saharov_message">
+		<text>Молодой человек, вы все-таки сделали это. Чрезвычайно важно, чтобы мы изучили установку в лаборатории. Попробуйте выключить ее, чтобы мы могли взглянуть на нее.</text>
+	</string>
+	<string id="st_yan_saharov_message_2">
+		<text>Послушайте, этот прототип ненадолго защитит вас от мощных выбросов. Я ожидал этого, поэтому каждый раз, когда обнаруживается излучение, активируется таймер. Когда время закончится, прототип больше не будет защищать вас, так что будьте осторожны и следите за временем.</text>
+	</string>
+	<string id="st_yan_saharov_message_3">
+		<text>Отличная работа. Излучение было отключено, и вы все еще живы. Да, и, кстати, заглядывайте время от времени в наш бункер, хорошо?</text>
+	</string>
+	<string id="tips_warlab_switcher_press">
+		<text>Выключить Генераторы ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_coded">
+		<text>Дверь заперта кодовым замком</text>
+	</string>
+	<string id="tip_door_decode">
+		<text>Нажмите ($$ACTION_USE$$) чтобы раскодировать дверь</text>
+	</string>
+	<string id="tip_door_decoding">
+		<text>Декодирование в процессе</text>
+	</string>
+	<string id="bar_arena_actor_afraid">
+		<text>Бой окончен! Претендент зассал и даже не вышел на бой!</text>
+	</string>
+	<string id="bar_arena_fight_10">
+		<text>10 секунд прошло!</text>
+	</string>
+	<string id="bar_arena_fight_20">
+		<text>20 секунд прошло!</text>
+	</string>
+	<string id="bar_arena_fight_30">
+		<text>30 секунд прошло!</text>
+	</string>
+	<string id="bar_arena_fight_40">
+		<text>40 секунд прошло!</text>
+	</string>
+	<string id="bar_arena_fight_50">
+		<text>50 секунд прошло!</text>
+	</string>
+	<string id="bar_arena_fight_60">
+		<text>1 минута прошла!</text>
+	</string>
+	<string id="bar_arena_fight_70">
+		<text>1 минута и 10 секунд прошло!</text>
+	</string>
+	<string id="bar_arena_fight_80">
+		<text>1 минута и 20 секунд прошло!</text>
+	</string>
+	<string id="bar_arena_fight_90">
+		<text>1 минута и 30 секунд прошло!</text>
+	</string>
+	<string id="bar_arena_fight_begin">
+		<text>Бой начался!</text>
+	</string>
+	<string id="bar_arena_fight_bloodsucker">
+		<text>Внимание! Внимание! На арене вот-вот начнется новый бой! В левом углу - самый страшный кошмар Зоны, вечно голодный Кровосос! И в правом углу... Человек? Да, это человек! Ваши аплодисменты, пожалуйста, сталкеру!</text>
+	</string>
+	<string id="bar_arena_fight_burer">
+		<text>Внимание! Внимание! На арене вот-вот начнется новый бой! В левом углу - сам мастер кунг-фу, сгибающий ложки силой мысли, - бюрер! А в правом углу - сталкер, постоянно настороже!</text>
+	</string>
+	<string id="bar_arena_fight_dead">
+		<text>Итак, претендент был убит! Какой сюрприз!</text>
+	</string>
+	<string id="bar_arena_fight_lose">
+		<text>Что ж, претендент убил своего противника, но он не сделал этого вовремя. Он проигрывает бой!</text>
+	</string>
+	<string id="bar_arena_fight_pseudodog">
+		<text>Внимание! Внимание! На арене вот-вот начнется новый бой. В левом углу - он белый, пушистый и чертовски зол... Псевдопес! А в правом углу - он появился из ниоткуда, и именно туда он и направляется.</text>
+	</string>
+	<string id="bar_arena_fight_savage">
+		<text>Внимание! Внимание! На арене вот-вот начнется новый бой. В левом углу - вы знаете его, вы любите его, и он ненавидит вас в ответ! Это Зверь! А в правом углу - живой и бодрый, по крайней мере на данный момент - наш сталкер!</text>
+	</string>
+	<string id="bar_arena_fight_snork">
+		<text>Внимание! Внимание! На арене вот-вот начнется новый бой! В левом углу - гуру боевых искусств и специалист по здоровью - снорк! А в правом углу - человек без прошлого и без будущего.</text>
+	</string>
+	<string id="bar_arena_fight_timeout">
+		<text>Время вышло! Претендент проиграл, но он все еще борется за свою жизнь!</text>
+	</string>
+	<string id="bar_arena_fight_victory">
+		<text>Хо! Претендент вовремя убил своего противника! Он побеждает!</text>
+	</string>
+	<string id="st_death_count">
+		<text>Вы умерли %s раз.</text>
+	</string>
+	<string id="st_msg_unlocked_routes">
+		<text>Отметил новый переход на карте...</text>
+	</string>
+	<string id="st_zone_disappeared">
+		<text>ЖЕЛАНИЕ ИСПОЛНЕНО! </text>
+	</string>
+	
+	<string id="st_screen_kick">
+		<text>Пнуть</text>
+	</string>
+	<string id="st_screen_field_dress">
+		<text>Извлечь части</text>
+	</string>
+	<string id="st_nobody_left_to_replace">
+		<text>Нечем заменить.</text>
+	</string>
+	<string id="st_nothing_useful">
+		<text>Ничего полезного</text>
+	</string>
+	<string id="st_ui_heli">
+		<text>Вертолет</text>
+	</string>
+
+	<!-- AWR -->
+	<string id="st_tiski_no_info">
+		<text>...</text>
+	</string>
+	<string id="st_tiski">
+		<text>Использовать тиски ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_awr_tiski">
+		<text>Ремонтировать ($$ACTION_USE$$)</text>
+	</string>
+	
+	<!-- Lost to the Zone -->
+	<string id="st_impending_doom">
+		<text>Выброс неизбежен</text>
+	</string>
+	
+	<!-- Ironman -->
+	<string id="st_ironman_new_life">
+		<text>НОВАЯ ЖИЗНЬ! Вы умерли %s раз. Жизней осталось: %s</text>
+	</string>
+	
+	<!-- Toggle Animations -->
+	<string id="st_toggle_animation_on">
+		<text>Анимации предметов включены</text>
+	</string>
+	<string id="st_toggle_animation_off">
+		<text>Анимации предметов отключены</text>
+	</string>
+	
+	<!-- Disguise -->
+	<string id="ui_st_disguse_disabled">
+		<text>Система маскировки отключена</text>
+	</string>
+	<string id="ui_st_disguse_back_to_default">
+		<text>Сняв это, я буду идентифицирован как член %s снова...</text>
+	</string>
+	<string id="ui_st_disguse_blacklisted_faction">
+		<text>Я не могу замаскироваться под члена групировки %s ...</text>
+	</string>
+	<string id="ui_st_disguse_someone_saw">
+		<text>Они видели, как я менял костюм - они знают, что я член %s...</text>
+	</string>
+	<string id="ui_st_disguse_someone_remember">
+		<text>Меня недавно видели - они знают, что я член %s ...</text>
+	</string>
+	<string id="ui_st_disguse_naked">
+		<text>У меня нет маскировки, сталкеры знают, что я член группировки %s...</text>
+	</string>
+	<string id="ui_st_disguse_patch_torn">
+		<text>С оторванной нашивкой на этом костюме сталкеры узнают, что я член группировки %s...</text>
+	</string>
+	<string id="ui_st_disguse_patch_torn_now">
+		<text>Я оторвал %s на этом костюме, я не могу использовать его для маскировки...</text>
+	</string>
+	<string id="ui_st_disguse_patch_attach_now">
+		<text>Я прикрепил % s к этому наряду, теперь я могу использовать его для маскировки...</text>
+	</string>
+	<string id="ui_st_disguse_on">
+		<text>С этим снаряжением большинство сталкеров подумают, что я часть групировки %s. Если это сработает...</text>
+	</string>
+	<string id="st_disguse_actor_exposed">
+		<text>Они знают! Они знают, что я переодетый участник %s!</text>
+	</string>
+	
+	<string id="st_news_disguse_enemy_expose_1">
+		<text>НАРУШИТЕЛЬ!!!</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_2">
+		<text>ШПИОН!! ЗАСТРЕЛИТЬ ЕГО.</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_3">
+		<text>ШПИОН!! БЫСТРЕЕ! СТРЕЛЯЙТЕ.</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_4">
+		<text>ОН ВРАГ!!! СТРЕЛЯЙТЕ.</text>
+	</string>
+	<string id="st_news_disguse_enemy_expose_5">
+		<text>СТОЯТЬ, ПРЕСТУПНЫЙ ОТБРОС! Заплати суду штраф или отбывай наказание, украденные товары теперь конфискованы.</text>
+	</string>
+	
+	<string id="st_news_disguse_natural_expose_1">
+		<text>Ты за кем-то шпионил?! Кто тебя послал?</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_2">
+		<text>Под прикрытием? Ты думаешь, это смешно?</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_3">
+		<text>Ты никого не обманешь, тупица.</text>
+	</string>
+	<string id="st_news_disguse_natural_expose_4">
+		<text>Свали.</text>
+	</string>
+	
+<!-- DoctorX Questlines -->
+    <string id="st_drx_questlines_and_this_one">
+        <text>И этот...</text>
+    </string>
+    <string id="st_drx_questlines_joined">
+        <text>Вы присоединились к</text>
+    </string>
+    <string id="st_drx_questlines_faction">
+        <text> групировке.</text>
+    </string>
+	
+<!-- Bribe -->
+	<string id="st_bribe_expired">
+		<text>Я думаю, что перемирие с %s больше не действует...</text>
+	</string>
+	<string id="st_bribe_broke">
+		<text>Я нарушил правила - сделка с %s отменяется...</text>
+	</string>
+	
+<!-- Goodwill -->
+	<string id="st_news_goodwill_update_title">
+		<text>Изменение репутации</text>
+	</string>
+	<string id="st_news_goodwill_intro_1">
+		<text>Они запомнят меня за то, что я сделал для них сегодня...</text>
+	</string>
+	<string id="st_news_goodwill_intro_lose_1">
+		<text>Это не останется незамеченным...</text>
+	</string>
+	<string id="st_news_goodwill_main_1">
+		<text>Я завоевал больше доверия среди %s.</text>
+	</string>
+	<string id="st_news_goodwill_main_lose_1">
+		<text>Я потерял доверие %s.</text>
+	</string>
+	<string id="st_news_goodwill_enemy_1">
+		<text>%s восприняли это не очень хорошо.</text>
+	</string>
+	
+	
+<!-- Bad turn -->
+	<string id="st_bad_turn_into_bandit">
+		<text>Вы исключены из группы!</text>
+	</string>
+	<string id="st_bad_turn_into_bandit_news">
+		<text>%c[0,255,0,0]Вы исключены из группы!</text>
+	</string>
+	<string id="st_bad_turn_into_zombie">
+		<text>Уровень пси-излучения критичен, и вы были зомбированы!</text>
+	</string>
+	<string id="st_bad_turn_into_zombie_news">
+		<text>%c[0,255,64,0]Уровень пси-излучения критичен, и вы были зомбированы!</text>
+	</string>
+	<string id="st_bad_turn_dezombification">
+		<text>Dezombification finished successfully!</text>
+	</string>
+	<string id="st_bad_turn_dezombification_news">
+		<text>%c[0,255,64,0]Дезомбификация успешно завершена!</text>
+	</string>
+	
+<!-- Travel -->
+	<string id="st_travel_event">
+		<text>Вокруг все еще есть враги...</text>
+	</string>
+	<string id="st_travel_overloaded">
+		<text>Чтобы такого выбросить?</text>
+	</string>
+	<string id="st_travel_already_here">
+		<text>О... погоди-ка, я уже здесь?</text>
+	</string>
+	<string id="bp_to">
+		<text>Двигаться</text>
+	</string>
+	<string id="bp_open">
+		<text>Открыть рюкзак</text>
+	</string>
+	
+<!-- Stash placement -->
+	<string id="st_stash_created">
+		<text>Схрон создан.</text>
+	</string>
+	<string id="st_stash_placed">
+		<text>Я уже где-то спрятал заначку.</text>
+	</string>
+	<string id="st_stash_unsafe">
+		<text>Я не могу разместить здесь тайник...</text>
+	</string>
+	<string id="st_itm_stash">
+		<text>схрон</text>
+	</string>
+	<string id="st_itm_stash_of_character">
+		<text>Схрон сталкера %s</text>
+	</string>
+	
+<!-- Sleep -->
+	<string id="st_sleep_awake">
+		<text>Не думаю, что мне сейчас нужен отдых...</text>
+	</string>
+	<string id="st_sleep_awake_wired">
+		<text>Слишком передознулся кафеином, чтобы сейчас отдыхать...</text>
+	</string>
+	<string id="st_sleep_bleeding">
+		<text>Я не могу лечь, не позаботившись сначала о своем кровотечении...</text>
+	</string>
+	<string id="st_sleep_bleeding_irradiated">
+		<text>Я не могу спать, пока по моим венам текут радиоактивные изотопы. Кровотечение тоже не помогает...</text>
+	</string>
+	<string id="st_sleep_deprived">
+		<text>А? Где я? Почему здесь так темно?</text>
+	</string>
+	<string id="st_sleep_event">
+		<text>Я еще не настолько сумасшедший, чтобы проспать все это!</text>
+	</string>
+	<string id="st_sleep_exhausted">
+		<text>Мне бы подремать...</text>
+	</string>
+	<string id="st_sleep_exhausted_final">
+		<text>Мое тело больше не может этого выносить. Мне нужно найти место, где можно выспаться...</text>
+	</string>
+	<string id="st_sleep_irradiated">
+		<text>не могу спать, пока моя задница светится...</text>
+	</string>
+	<string id="st_cant_sleep_find_shelter_mlr">
+		<text>Мне нужно поискать более безопасное место, это неподходящее...</text> 
+	</string>
+	<string id="st_cant_sleep_outside_tent_mlr">
+		<text>Я не могу отдыхать на открытом месте...</text> 
+	</string>
+	
+<!-- Skinning -->
+	<string id="st_body_decayed">
+		<text>Слишком разложилось...</text>
+	</string>
+	<string id="st_body_useless">
+		<text>Ничего полезного не осталось...</text>
+	</string>
+	<string id="st_body_knife_needed">
+		<text>Для этого мне нужен нож...</text>
+	</string>
+	<string id="st_body_knife_bad">
+		<text>Этот тупой нож ни хрена не порежет...</text>
+	</string>
+	<string id="st_body_knife_weak">
+		<text>Мне нужно лезвие поострее для этой толстой суки...</text>
+	</string>
+	
+<!-- Campfire -->
+	<string id="st_only_campfire_save">
+		<text>Ручное сохранение отключено (только у костров)</text>
+	</string>
+	<string id="st_only_campfire_load">
+		<text>Перезагрузка во время жизни отключена</text>
+	</string>
+	<string id="st_only_campfire_quit">
+		<text>Выход из игры при жизни отключен</text>
+	</string>
+	<string id="st_swsh">
+		<text>Мне нужно что-нибудь острое, чтобы открыть банку - может быть, швейцарский нож?</text>
+	</string>
+	<string id="st_camp_m">
+		<text>Мне нужна зажигалка, чтобы разжечь огонь - даже спички хватит...</text>
+	</string>
+	<string id="st_camp_help">
+		<text>Здесь нет проблем с мастерством...</text>
+	</string>
+	<string id="st_fail">
+		<text>Бля...</text>
+	</string>
+	<string id="st_ui_no_save_campfire">
+		<text>Вы можете %s только возле костров.</text>
+	</string>
+	<string id="st_ui_campfire_prereq">
+		<text>Мне нужно несколько спичек, чтобы разжечь этот костер. Набор для розжига тоже пойдет...</text>
+	</string>
+	
+<!-- Items -->
+	<string id="st_imm_smoke_fail">
+		<text>Спички кончились...</text>
+	</string>
+	<string id="st_imm_smoke_already_used">
+		<text>Мне нужно подождать, прежде чем пробовать еще раз...</text>
+	</string>
+	<string id="st_imm_befor_swiss">
+		<text>Мне нужно что-нибудь острое, чтобы открыть эту банку...</text>
+	</string>
+	<string id="st_imm_need_swiss">
+		<text>Мне нужен швейцарский нож, чтобы открыть эту банку...</text>
+	</string>
+	<string id="st_imm_swiss_broken">
+		<text>Черт, эта штука сломалась...</text>
+	</string>
+	<string id="st_stash_no_backpack_found">
+		<text>У меня нет рюкзака за спиной..</text>
+	</string>
+	
+	<string id="st_itm_manager_greater_effect">
+		<text>Я не могу проглотить столько сразу...</text>
+	</string>
+	<string id="st_itm_manager_missing_requirements">
+		<text>Мне нужен %s для этого!</text>
+	</string>
+	
+<!-- Notes -->
+	<string id="st_recipe_is_known">
+		<text>Я изучал это раньше...</text>
+	</string>
+	<string id="st_letter_is_known">
+		<text>Я читал это раньше...</text>
+	</string>
+	
+<!-- Hardcore Saving -->
+	<string id="st_ui_no_save_timer">
+		<text>Таймер активен, вы еще не можете %s.</text>
+	</string>
+	
+	<string id="st_ui_no_save_combat">
+		<text>Вы не можете %s во время боя.</text>
+	</string>
+	<string id="st_ui_no_save_surge">
+		<text>Вы не можете %s во время выброса или пси-шторма.</text>
+	</string>
+	<string id="st_ui_no_save_bleed">
+		<text>Вы не можете %s во время кровотечения.</text>
+	</string>
+	<string id="st_ui_no_save_radiation">
+		<text>Вы не можете %s во время облучения.</text>
+	</string>
+	<string id="st_ui_no_save_bleed_radiation">
+		<text>Вы не можете %s во время кровотечения или облучения.</text>
+	</string>
+	<string id="st_ui_no_save_injury_1">
+		<text>Вы не можете %s, страдая от травм средней тяжести.</text>
+	</string>
+	<string id="st_ui_no_save_injury_2">
+		<text>Вы не можете %s, страдая от серьезных травм.</text>
+	</string>
+	<string id="st_ui_no_save_injury_3">
+		<text>Вы не можете %s, страдая от серьезных травм.</text>
+	</string>
+	<string id="st_ui_no_save_injury_4">
+		<text>Вы не можете %s, страдая от критических травм.</text>
+	</string>
+
+	<string id="st_pri_special_trader_mlr_message2">
+		<text>Микер: \nТвой заказ прибыл, сталкер. Подходи, забирай...</text>
+	</string>
+	<string id="st_pri_special_trader_mlr_message">
+		<text>Гриффин: \nСталкер, ты находишся на территории Синдиката. На тебя не нападут, но мы ожидаем от тебя надлежащего поведения. Если ты ищешь работу, у меня может быть для тебя кое-что.</text>
+	</string>
+
+<!-- EXO PSU Messages 
+	<string id="st_kb_power_no_exo">
+		<text>Экзоскелет не подключен</text>
+	</string>
+
+	<string id="st_kb_power_no_psu">
+		<text>Блок питания не подключен. Подключите блок питания для перемещения с нормальной скоростью</text>
+	</string>
+
+	<string id="st_kb_power_level_high">
+		<text>Высокий уровень мощности экзоскелета:</text>
+	</string>
+
+	<string id="st_kb_power_level_normal">
+		<text>Уровень мощности Экзо нормальный:</text>
+	</string>
+
+	<string id="st_kb_power_level_low">
+		<text>Низкий уровень мощности Экзо:</text>
+	</string>
+
+	<string id="st_kb_power_level_critical">
+		<text>Критический уровень мощности Экзо:</text>
+	</string>
+
+	<string id="st_kb_power_level_empty">
+		<text>Блок питания израсходован. Работает от вспомогательного источника питания</text>
+	</string>-->
+	
+<!-- Ammo_Check Messages -->
+	<string id="st_ac_full">
+		<text>Полный</text>
+	</string>
+	<string id="st_ac_nearly_full">
+		<text>Почти полон</text>
+	</string>
+	<string id="st_ac_more_half">
+		<text>Больше половины</text>
+	</string>
+
+	<string id="st_ac_about_half">
+		<text>Примерно половина</text>
+	</string>
+	<string id="st_ac_less_half">
+		<text>Меньше половины</text>
+	</string>
+	<string id="st_ac_near_empty">
+		<text>Почти пуст</text>
+	</string>
+	<string id="st_ac_empty">
+		<text>Пустой</text>
+	</string>
+	<string id="st_ac_jammed">
+		<text>Заклинило!</text>
+	</string>
+	<string id="st_ac_noMag">
+		<text>Магазин отсоединен</text>
+	</string>
+	<string id="st_ac_ammoLeft">
+		<text>осталось</text>
+	</string>
+	
+<!-- Lost to the Zone -->
+	<string id="st_lttz_eidolon_strelok_message">
+		<text>Разведывательный отряд - всё.... Пришло время начать последнюю атаку на центр Припяти.</text>
+	</string>
+	<string id="st_lttz_pri_eidolon_message">
+		<text>Я могу воспринимать тебя. Я вижу тебя, я слышу тебя. Куда бы ты ни пошел. Ты не пройдешь.</text>
+	</string>
+	<string id="st_lttz_stancia_strelok_message">
+		<text>Дальше - Саркофаг. Отдышись, прежде чем мы двинемся дальше. Это будет непросто.</text>
+	</string>
+	<string id="st_lttz_mon_strelok_message">
+		<text>Осколок надежно защищен. Мы должны убить всех охранников.</text>
+	</string>
+	<string id="st_lttz_limansk_rogue_message">
+		<text>Эй, крутой парень. У нас здесь, в Лиманске, ситуация. Мне понадобится твоя помощь. Вот мои координаты.</text>
+	</string>
+	<string id="st_lttz_kat_rogue_message">
+		<text>Это не будет прогулкой в парке. Медленно двигаем. Следим за дверьми и углами.</text>
+	</string>
+	<string id="st_lttz_gen_stitch_message">
+		<text>Эй, чувак, это ты? Иди сюда, быстро!</text>
+	</string>
+	<string id="st_lttz_war_stitch_message">
+		<text>Черт, конечно же, дверь заперта. Вот что, код от черного входа был 26041986, может быть, здесь то же самое. Пробуй.</text>
+	</string>
+	<string id="st_lttz_intercepted_transmission_message">
+		<text>...пока разбили лагерь в заброшенных мастерских подстанции. Мы обнаружили вражеское подразделение спецназа и готовимся к...</text>
+	</string>
+	<string id="st_lttz_yanov_invitation_message">
+		<text>Я вижу, что ты находишься в этом районе. Как насчет того, чтобы ты притопал на станцию Янов, чтобы мы могли поговорить?</text>
+	</string>
+	<string id="st_lttz_yanov_invitation2_message">
+		<text>Привет, сталкер. Как насчет того, чтобы ты пришел ко мне, чтобы мы могли поговорить?</text>
+	</string>
+	<string id="st_lttz_pripyat_strelok_message">
+		<text>Я вступаю в бой с силами Монолита возле заброшенного госпиталя. Буду признателен за любую помощь.</text>
+	</string>
+	<string id="st_lttz_pripyat_rogue_message">
+		<text>П-помогите... мне... Кто-нибудь... С-спасите...</text>
+	</string>
+	<string id="st_lttz_pripyat_stitch_message">
+		<text>Бляха, черт, дерьмо! Мне бы здесь не помешала помощь! Кто-нибудь?!</text>
+	</string>
+	<string id="st_lttz_pripyat_degtyarev_message">
+		<text>Это полковник Александр Александрович Дегтярев из СБУ. Мы знаем, что ты с группой там, Стрелок, и ты знаешь, почему мы здесь. Уберите свое оружие и выходите медленно, по одному. Мы можем разобраться, не прибегая к насилию, если вы подчинитесь.</text>
+	</string>
+	<string id="st_lttz_pripyat_strelok_message2">
+		<text>Вы никогда не сможете покинуть Зону, полковник, независимо от того, совершаете ли вы налет на электростанцию или прячетесь на другой стороне планеты. Пока она существует, она угрожает всему миру. Это не то, что ваше начальство может просто замять под ковер. Боюсь, я к вам не присоединюсь.</text>
+	</string>
+	<string id="st_lttz_pripyat_unisg_message">
+		<text>Это последний раз, когда вы вмешиваетесь в нашу работу, полковник. Время молиться.</text>
+	</string>
+	<string id="st_lttz_oa_army_degtyarev_jup_meet_msg">
+		<text>%s, это %s. Встретимся на Юпитере, я хочу кое-что с тобой обсудить.</text>
+	</string>
+	<string id="st_oa_transmission_decryption">
+		<text>Расшифровка передачи</text>
+	</string>
+	<string id="st_lttz_mil_radogost_message">
+		<text>Я чувствую твое присутствие, сталкер. Иди ко мне, нам нужно поговорить.</text>
+	</string>
+	<string id="st_lttz_x18_stitch_message">
+		<text>Почемуууу тыыыы... не... помооооог мнееее?</text>
+	</string>
+	<string id="st_lttz_x18_rogue_message">
+		<text>Умри, враг Монолита!</text>
+	</string>
+	<string id="st_lttz_x18_degtyarev_message">
+		<text>Ты не кто иной, как чертов предатель.</text>
+	</string>
+	<string id="st_lttz_x18_strelok_message">
+		<text>Ты предал меня.</text>
+	</string>
+	<string id="st_lttz_x18_eidolon_message">
+		<text>О, могучий Монолит. Даже после смерти я служу. Вечно.</text>
+	</string>
+	<string id="st_lttz_x18_chernobog_message">
+		<text>Даже из загробного мира я буду проливать свет Вирая... на этот грешный мир.</text>
+	</string>
+	<string id="st_lttz_x18_dark_presence_message">
+		<text>СДОХНИ!</text>
+	</string>
+</string_table>
