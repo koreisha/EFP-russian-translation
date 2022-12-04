@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+    <string id="st_transmutation_no_recipe_found">
+        <text>%c[d_orange][SYS WARN]:%c[default] No recipe with suitable signature found in database.</text>
+    </string>
+
+    <string id="st_transmutation_success">
+        <text>%c[d_green][SYS NOTIF]:%c[default] Transmutation succesful. Result: %c[d_orange]$result%c[default].</text>
+    </string>
+
+    <string id="st_transmutation_low_tier">
+        <text>%c[d_red][SYS ERROR]:%c[default] Device is not high enough tier for this transmutation.</text>
+    </string>
+
+    <string id="st_transmutator_recipe_already_installed">
+        <text>%c[d_red][SYS ERROR]:%c[default] Recipe like this is already installed on device.</text>
+    </string>
+
+    <string id="st_transmutator_condition_failed">
+        <text>%c[d_red][SYS ERROR]:%c[default] Transmutation condition is not met.</text>
+    </string>
+
+    <string id="st_transmutator_recipe_installed">
+        <text>%c[d_green][SYS NOTIF]:%c[default] Recipe installed succesfully.</text>
+    </string>
+
+    <string id="st_transmutator_scan_result_success">
+        <text>%c[d_green][SYS NOTIF]:%c[default] Scan succesful: \n</text>
+    </string>
+
+    <string id="st_transmutator_scan_template">
+        <text>• %s \n</text>
+    </string>
+
+	<string id="st_transmutator_scan_unknown">
+		<text>UNKNOWN</text>
+	</string>
+
+    <string id="st_transmutation_scan_result_failed">
+        <text>%c[d_orange][SYS WARN]:%c[default] No anomaly was found nearby, aborting.</text>
+    </string>
+
+    <string id="st_transmutator">
+        <text>Transmutation module</text>
+    </string>
+
+    <string id="st_transmutator_descr">
+        <text>Device that is installed on detectors and used for artefact fusion.</text>
+    </string>
+
+    <string id="st_transmutator_installed">
+        <text>%c[d_green]Transmutation module installed. \n\n</text>
+    </string>
+
+    <string id="st_transmutator_not_installed">
+        <text>%c[d_red]Transmutation module not installed. \n\n</text>
+    </string>
+
+    <string id="st_transmutation_installed_recipes">
+        <text>\n\nINSTALLED RECIPES:</text>
+    </string>
+
+    <string id="st_recipe_hides_all">
+        <text>Hides recipe I</text>
+    </string>
+    <string id="st_recipe_hides_all_descr">
+        <text>A worn out looking chip, contains many notes regarding mutant hide interactions with the anomalies found in the zone.
+		/nOn more careful and deeper inspection throughout the messy and unorganized notes, that these "recipes" have been written and collected by many stalkers, most of them being lucky and not so lucky interactions with the different mutant threats that roam around the zone when in proximity to elemental dangers.</text>
+    </string>
+
+    <string id="st_recipe_fire">
+        <text>Fire recipe I</text>
+    </string>
+    <string id="st_recipe_fire_descr">
+        <text>A small sized chip, it's contents consist of vital properties and interactions of common Fire artefacts with the different enviromental changing risks found in the zone.
+		/nThroughout all the scientific annotations you find a series of patterns that can potentially bring artefacts to their maximun capabilities and suffer transmutation when in contact with other materials through the exposure of high density fire particles.</text>
+    </string>
+
+    <string id="st_recipe_advanced_fire">
+        <text>Fire recipe II</text>
+    </string>
+    <string id="st_recipe_advanced_fire_descr">
+        <text>A small sized chip, it contains information about the detection of inner fusion of Fire artefacts that can be amplified with an specific reaction causing transformation and mutation.
+		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+    </string>
+
+    <string id="st_recipe_expert_fire">
+        <text>Fire recipe III</text>
+    </string>
+    <string id="st_recipe_expert_fire_descr">
+        <text>A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Fire artefacts.
+		/nThe scientific documents of this chip speak of the many failed attemps at activating said cores and the many more consequences these experiments have brought when forcing an artefact to alter it's natural state.
+		/nOn the good end of the experiments, it's mentioned how some of the positive properties of these man activated artefacts have bringed to the world outside of the zone.
+		/nIt is also mentioned that certain artefacts have acquired extra properties that aren't tied to their element, but you don't seem to find any sign of how to cause this effects.</text>
+    </string>
+
+    <string id="st_recipe_electra">
+        <text>Electra recipe I</text>
+    </string>
+    <string id="st_recipe_electra_descr">
+        <text>A small sized chip, it's contents consist of vital properties and interactions of low tier Electra artefacts with the different enviromental changing risks found in the zone.
+		/nThroughout all the scientific annotations you find a series of patterns that can potentially bring artefacts to their maximun capabilities and suffer transmutation when in contact with other materials through the exposure of high density fire particles.</text>
+    </string>
+
+    <string id="st_recipe_advanced_electra">
+        <text>Electra recipe II</text>
+    </string>
+    <string id="st_recipe_advanced_electra_descr">
+        <text>A small sized chip, it contains information about the detection of inner fusion of Electra artefacts that can be amplified with an specific reaction causing transformation and mutation.
+		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+    </string>
+
+    <string id="st_recipe_expert_electra">
+        <text>Electra recipe III</text>
+    </string>
+    <string id="st_recipe_expert_electra_descr">
+        <text>A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Electra artefacts.
+		/nThe scientific documents of this chip speak of the many failed attemps at activating said cores and the many more consequences these experiments have brought when forcing an artefact to alter it's natural state.
+		/nOn the good end of the experiments, it's mentioned how some of the positive properties of these man activated artefacts have bringed to the world outside of the zone.
+		/nIt is also mentioned that certain artefacts have acquired extra properties that aren't tied to their element, but you don't seem to find any sign of how to cause this effects.</text>
+    </string>
+
+    <string id="st_recipe_chemi">
+        <text>Chemical recipe I</text>
+    </string>
+    <string id="st_recipe_chemi_descr">
+        <text>A small sized chip, it's contents consist of vital properties and interactions of low tier Chemical artefacts with the different enviromental changing risks found in the zone.
+		/nThroughout all the scientific annotations you find a series of patterns that can potentially bring artefacts to their maximun capabilities and suffer transmutation when in contact with other materials through the exposure of high density fire particles.</text>
+    </string>
+
+    <string id="st_recipe_advanced_chemi">
+        <text>Chemical recipe II</text>
+    </string>
+    <string id="st_recipe_advanced_chemi_descr">
+        <text>A small sized chip, it contains information about the detection of inner fusion of Chemical artefacts that can be amplified with an specific reaction causing transformation and mutation.
+		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+    </string>
+
+    <string id="st_recipe_expert_chemi">
+        <text>Chemical recipe III</text>
+    </string>
+    <string id="st_recipe_expert_chemi_descr">
+        <text>A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Chemical artefacts.
+		/nThe scientific documents of this chip speak of the many failed attemps at activating said cores and the many more consequences these experiments have brought when forcing an artefact to alter it's natural state.
+		/nOn the good end of the experiments, it's mentioned how some of the positive properties of these man activated artefacts have bringed to the world outside of the zone.
+		/nIt is also mentioned that certain artefacts have acquired extra properties that aren't tied to their element, but you don't seem to find any sign of how to cause this effects.</text>
+    </string>
+
+    <string id="st_recipe_gravi">
+        <text>Gravi recipe I</text>
+    </string>
+    <string id="st_recipe_gravi_descr">
+        <text>A small sized chip, it's contents consist of vital properties and interactions of low tier Gravitational artefacts with the different enviromental changing risks found in the zone.
+		/nThroughout all the scientific annotations you find a series of patterns that can potentially bring artefacts to their maximun capabilities and suffer transmutation when in contact with other materials through the exposure of high density fire particles.</text>
+    </string>
+
+    <string id="st_recipe_advanced_gravi">
+        <text>Gravi recipe II</text>
+    </string>
+    <string id="st_recipe_advanced_gravi_descr">
+        <text>A small sized chip, it contains information about the detection of inner fusion of Gravitational artefacts that can be amplified with an specific reaction causing transformation and mutation.
+		/nThe scientific files and contents of this chip are more advanced and you lack the understanding of a lot of terms and keywords that are mentioned in the document, altho, the possible combinations and results of the artefacts experiments are easy to tell judging by the emphazis used on them.</text>
+    </string>
+
+    <string id="st_recipe_expert_gravi">
+        <text>Gravi recipe III</text>
+    </string>
+    <string id="st_recipe_expert_gravi_descr">
+        <text>
+		A small sized chip, consists of various researches regarding the discovery of an inner dormant core, the process of activation as well as the positive and negative impact that the process has on the many different Gravitational artefacts.
+		/nThe scientific documents of this chip speak of the many failed attemps at activating said cores and the many more consequences these experiments have brought when forcing an artefact to alter it's natural state.
+		/nOn the good end of the experiments, it's mentioned how some of the positive properties of these man activated artefacts have bringed to the world outside of the zone.
+		/nIt is also mentioned that certain artefacts have acquired extra properties that aren't tied to their element, but you don't seem to find any sign of how to cause this effects.
+		</text>
+    </string>
+
+    <string id="st_recipe_compass_guide">
+        <text>
+			Mysterious Recipe
+		</text>
+    </string>
+    <string id="st_recipe_compass_guide_descr">
+        <text>
+			A mysterious chip, it's contents are unknown but it matches the size and looks of any other transmutator chip.
+		</text>
+    </string>
+
+    <string id="st_recipe_death_bound">
+        <text>
+			Mysterious Recipe
+		</text>
+    </string>
+    <string id="st_recipe_death_bound_descr">
+        <text>
+			A mysterious chip, it's contents are unknown but it matches the size and looks of any other transmutator chip.
+		</text>
+    </string>
+
+    <string id="st_recipe_hope_heart">
+        <text>
+			Mysterious Recipe
+		</text>
+    </string>
+    <string id="st_recipe_hope_heart_descr">
+        <text>
+			A mysterious chip, it's contents are unknown but it matches the size and looks of any other transmutator chip.
+		</text>
+    </string>
+
+    <string id="st_recipe_pain_train">
+        <text>
+			Mysterious Recipe
+		</text>
+    </string>
+    <string id="st_recipe_pain_train_descr">
+        <text>
+			A mysterious chip, it's contents are unknown but it matches the size and looks of any other transmutator chip.
+		</text>
+    </string>
+
+    <string id="st_transmutation_no_recipes">
+        <text>
+			%c[d_orange]No recipes on installed on this transmutator module.
+		</text>
+    </string>
+	
+	<string id="st_detach_transmutator">
+		<text>
+			remove transmutator
+		</text>
+	</string>
+
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_fire_text">
+		<text>
+			%c[pda_white]Basic Fire Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nEarly scientific investigations on artefact properties, brought to light the possibility of forcing artefacts into reaching higher levels of efficiency while exposing them to a similar element to their natural states.\n
+			\nThe exposure to high heat temperatures and pressure can potentially mutate artefacts into a much stronger, enhanced variation of it.\n
+			\nAfter many attemps and recalibrations, what we consider "low tier" artefacts are now easier to handle, with a very low change of catastrophic desaster.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Eye (Mama's Beads + Dog heart)
+			\n• Fireball (Crystal + Flesh meat)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_fire_text">
+		<text>
+			%c[pda_white]Advanced Fire Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nFurther artefact experimenting, lead to the possibility of fusing artefacts of similar properties to expand their capabilities.\n
+			\nThe familiarity of said artefacts is important to be capable to reach a smooth fusion between them, using artefacts of different elements can result on a completely different one or the destruction of everything around it.\n
+			\nThe infrastructure in the scientific laboratories are safe enough to be able to perform these experiements, but we recommend against any other enviroment for your own sake.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Flame (Eye + Bloodsucker heart + Dog heart)
+			\n• Pin (Fireball + Lurker tail + Flesh meat)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_fire_text">
+		<text>
+			%c[pda_white]Expert Fire Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nThe last scientific experiments lead ot the discovery of a dormant core found sinde the artefact's nucleus, this core upon activation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
+			\nThe process which we define as "Transmutation" is highly recommended to be performed on a safe carefully isolated enviroment, forcing this evolution on the artefacts is highly dangerous.\n
+			\nSome scientist confirm to have performed this procedure on enviroments with elements that are familiar to the artefact, this a theory yet to be confirmed.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Dragon's eye (Flame + Chimera heart + Bloodsucker heart + Dog heart)
+			\n• Itcher (Pin + Psysucker hand + Lurker tail + Flesh meat)
+			\n• Sun (Lamp + Pseudogiant hide + Chimera Hide + Boar Hide)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_electra_text">
+		<text>
+			%c[pda_white]Basic Electra Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nEarly scientific investigations on artefact properties, brought to light the possibility of forcing artefacts into reaching higher levels of efficiency while exposing them to a similar element to their natural states.\n
+			\nThe exposure to high voltage and pressure can potentially mutate artefacts into a much stronger, enhanced variation of it.\n
+			\nAfter many attemps and recalibrations, what we consider "low tier" artefacts are now easier to handle, with a very low change of catastrophic desaster.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Cell (Cocoon + Flesh Hide)
+			\n• Sparkler (Tapeworm + Flesh meat)
+			\n• Snowflake (Medal + Chimera claw)
+			\n• Jellyfish (Moss + Flesh eye)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_electra_text">
+		<text>
+			%c[pda_white]Advanced Electra Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nFurther artefact experimenting, lead to the possibility of fusing artefacts of similar properties to expand their capabilities.\n
+			\nThe familiarity of said artefacts is important to be capable to reach a smooth fusion between them, using artefacts of different elements can result on a completely different one or the destruction of everything around it.\n
+			\nThe infrastructure in the scientific laboratories are safe enough to be able to perform these experiements, but we recommend against any other enviroment for your own sake.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Battery (Wrenched + Bloodsucker meat + Psysucker hand)
+			\n• Moonlight (Moon + Burer Skin + Burer hand)
+			\n• Electron (Snowflake + Chimera horn + Chimera claw)
+			\n• Lamp (Gravi + Chimera Hide + Boar Hide)
+			\n• Firefly (Kolobok + Bloodsucker heart + Dog heart)
+			\n• Ring (Sparkler + Lurker tail + Flesh meat)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_electra_text">
+		<text>
+			%c[pda_white]Expert Electra Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nThe last scientific experiments lead ot the discovery of a dormant core found sinde the artefact's nucleus, this core upon activation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
+			\nThe process which we define as "Transmutation" is highly recommended to be performed on a safe carefully isolated enviroment, forcing this evolution on the artefacts is highly dangerous.\n
+			\nSome scientist confirm to have performed this procedure on enviroments with elements that are familiar to the artefact, this a theory yet to be confirmed.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Ball (Stone Flower + Burer brain + Controller hand + Burer hand)
+			\n• Flash (Ring + Psysucker hand + Lurker tail + Flesh meat)
+			\n• Seraphim (Electron + Chimera heart + Chimera horn + Chimera claw)
+			\n• Soul (Firefly + Chimera heart + Bloodsucker heart + Dog heart)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_chemi_text">
+		<text>
+			%c[pda_white]Basic Chemical Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nEarly scientific investigations on artefact properties, brought to light the possibility of forcing artefacts into reaching higher levels of efficiency while exposing them to a similar element to their natural states.\n
+			\nThe exposure to chemical substances and radiation can potentially mutate artefacts into a much stronger, enhanced variation of it.\n
+			\nAfter many attemps and recalibrations, what we consider "low tier" artefacts are now easier to handle, with a very low change of catastrophic desaster.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Stone Blood (Knot + Boar Hide)
+			\n• Kolobok (Heart + Dog heart)
+			\n• Sandstone (Bracelet + Flesh eye)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_chemi_text">
+		<text>
+			%c[pda_white]Advanced Chemical Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nFurther artefact experimenting, lead to the possibility of fusing artefacts of similar properties to expand their capabilities.\n
+			\nThe familiarity of said artefacts is important to be capable to reach a smooth fusion between them, using artefacts of different elements can result on a completely different one or the destruction of everything around it.\n
+			\nThe infrastructure in the scientific laboratories are safe enough to be able to perform these experiements, but we recommend against any other enviroment for your own sake.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Stone Flower (Claw + Controller hand + Burer hand)
+			\n• Sourpuss (Sandstone + Flesh Hide + Flesh eye)
+			\n• Meat Chunk (Stone Blood + Chimera Hide + Boar Hide)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_chemi_text">
+		<text>
+			%c[pda_white]Expert Chemical Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nThe last scientific experiments lead ot the discovery of a dormant core found sinde the artefact's nucleus, this core upon activation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
+			\nThe process which we define as "Transmutation" is highly recommended to be performed on a safe carefully isolated enviroment, forcing this evolution on the artefacts is highly dangerous.\n
+			\nSome scientist confirm to have performed this procedure on enviroments with elements that are familiar to the artefact, this a theory yet to be confirmed.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Bubble (Thistle + Flesh Hide (Transmutated) + Flesh meat + Flesh eye)
+			\n• Goldfish (Fountain + Pseudogiant eye + Boar Hide + Boar chop)
+			\n• Lobster Eyes (Sourpuss + Flesh meat + Flesh Hide + Flesh eye)
+			\n• Sponge (Meat Chunk + Pseudogiant Hide + Chimera Hide + Boar Hide)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_basic_gravi_text">
+		<text>
+			%c[pda_white]Basic Gravitational Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nEarly scientific investigations on artefact properties, brought to light the possibility of forcing artefacts into reaching higher levels of efficiency while exposing them to a similar element to their natural states.\n
+			\nThe exposure to high gravity pressure can potentially mutate artefacts into a much stronger, enhanced variation of it.\n
+			\nAfter many attemps and recalibrations, what we consider "low tier" artefacts are now easier to handle, with a very low change of catastrophic desaster.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Black Spray (Spike + Flesh Hide)
+			\n• Gravi (Generator + Boar Hide)
+			\n• Claw (Grapes + Burer hand)
+			\n• Beacon (Chain + Boar chop)
+			\n• Moon (Scar + Burer hand)
+			\n• Wrenched (Signet + Psysucker hand)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_advanced_gravi_text">
+		<text>
+			%c[pda_white]Advanced Gravitational Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nFurther artefact experimenting, lead to the possibility of fusing artefacts of similar properties to expand their capabilities.\n
+			\nThe familiarity of said artefacts is important to be capable to reach a smooth fusion between them, using artefacts of different elements can result on a completely different one or the destruction of everything around it.\n
+			\nThe infrastructure in the scientific laboratories are safe enough to be able to perform these experiements, but we recommend against any other enviroment for your own sake.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Atom (Cell + Boar Hide + Flesh Hide)
+			\n• Fountain (Beacon + Boar Hide + Boar chop)
+			\n• Nightstar (Black Spray + Boar Hide + Flesh Hide)
+			\n• Thistle (Jellyfish + Flesh meat + Flesh eye)
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_expert_gravi_text">
+		<text>
+			%c[pda_white]Expert Gravitational Transmutation
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nThe last scientific experiments lead ot the discovery of a dormant core found sinde the artefact's nucleus, this core upon activation emits huge amount of radiation, with the chance of destabilizing and destroying the artefact.\n
+			\nThe process which we define as "Transmutation" is highly recommended to be performed on a safe carefully isolated enviroment, forcing this evolution on the artefacts is highly dangerous.\n
+			\nSome scientist confirm to have performed this procedure on enviroments with elements that are familiar to the artefact, this a theory yet to be confirmed.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Black Angel (Battery + Pseudogiant hand + Bloodsucker meat + Psysucker hand)
+			\n• Shell (Atom + Pseudogiant hand + Boar Hide + Flesh Hide)
+			\n• Miser's skull (Moonlight + Burer brain + Burer Skin + Burer hand)
+			\n• Phantom star (Nightstar + Pseudogiant hand + Boar Hide + Flesh Hide)
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_compass_guide_text">
+		<text>
+			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
+			\nJudging by the materials used by the recipe it could yield a powerful artefact.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Volat Emerald + Chimera heart
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_hope_heart_text">
+		<text>
+			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
+			\nJudging by the materials used by the recipe it could yield a powerful artefact.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Heart + Grapes + Dog heart + Medal
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_pain_train_text">
+		<text>
+			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
+			\nJudging by the materials used by the recipe it could yield a powerful artefact.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Pseudogiant Hide + Burer Skin + Psysucker Skin + Nightstar
+			\n• Pseudogiant Hide + Burer Skin + Empty + Phantom star
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_transmutation_death_bound_text">
+		<text>
+			A transmutation recipe of unknown procedure, has no much explanation nor the end result.\n
+			\nJudging by the materials used by the recipe it could yield a powerful artefact.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Empty + Pseudogiant Hide + Burer Skin + Psysucker Skin
+			\n• Bloodsucker Heart + Heart of the Oasis
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_transmutation_hides_all_text">
+		<text>
+			The many different tests by what you assume different stalkers have been grouped and slapped together in no particular order.\n
+			\nYou're able to separate the important recipes from all the content between the notes.\n
+			\n%c[pda_blue]Potential Transmutations%c[ui_gray_1]\n
+			\n• Bloodsucker Skin (Transmutated) - (Bloodsucker Skin + Signet)
+			\n• Boar Hide (Transmutated) - (Boar Hide + Crystal + Generator)
+			\n• Burer Skin (Transmutated) - (Burer Skin + Scar)
+			\n• Chimera Hide (Transmutated) - (Chimera Hide + Medal + Tapeworm)
+			\n• Controller Scalp (Transmutated) - (Controller Scalp + Scar + Grapes)
+			\n• Flesh Hide (Transmutated) - (Flesh Hide + Tapeworm)
+			\n• Lurker Hide (Transmutated) - (Lurker Hide + Signet)
+			\n• Pseudodog Fur (Transmutated) - (Pseudodog Fur + Mama's Beads)
+			\n• Pseudogiant Hide (Transmutated) - (Pseudogiant Hide + Spike, Signet)
+			\n• Psy-dog Fur (Transmutated) - (Psy-dog Fur + Spike)
+			\n• Psysucker Skin (Transmutated) - (Psysucker Skin, Signet)
+		</text>
+	</string>
+
+    <string id="ui_mcm_menu_transmutation">
+        <text>Artefact Transmutation</text>
+    </string>
+    <string id="ui_mcm_transmutation_keybind_transmute">
+        <text>Artefact transmutation key</text>
+    </string>
+    <string id="ui_mcm_transmutation_keybind_scan">
+        <text>Artefact scanning key</text>
+    </string>
+
+    <string id="encyclopedia__notes_transmutator">
+        <text>Artefact Transmutation</text>
+    </string>
+    <string id="encyclopedia__notes_transmutator_text">
+        <text>
+			%c[pda_white]Transmutation user guide\n
+			\n%c[pda_green]Information%c[ui_gray_1]
+			\nThe Artefact Transmutator a result of many experiments with artefacts, created to facilitate the alteration of their properties through exposure to particles of similar elements.\n
+			\nThe technological advacements during the experimentation with artefact properties and internal structure allowed to create this compact protorype which can be attached to your regular artefact detectors.\n
+			\n%c[pda_blue]Functionality%c[ui_gray_1]\n
+			\nThe transmutator device database can be updated to cover more transmutations with the recipes you acquire, it can be attached and removed to your detector for such reason.\n
+			\n• Scanning - analyzes and displays the artefacts an anomaly can potentially create.
+			\n• Transmutating - allows your detector to emit a pulse of particles that activates the artefacts internal properties, to mutate and enhance it's capabilities.\n
+			\nKeep in mind that these functionalities depend on the artefacts discovered and the detector's capabilities.
+			\nIn most cases for a succesful transmutation you need to first scan an anomaly, then the list of artefacts will be displayed, those would be artefacts that you can transmute in that anomaly if you have the recipe. Some recipes are special and require different conditions.
+		</text>
+    </string>
+</string_table>

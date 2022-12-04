@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+	<string id="st_hide_flesh2_name">
+		<text>Flesh Hide (Transmutated)</text>
+	</string>
+	<string id="st_hide_flesh2_descr">
+		<text>Flesh hide imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar2_name">
+		<text>Boar Hide (Transmutated)</text>
+	</string>
+	<string id="st_hide_boar2_descr">
+		<text>Boar hide imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_chimera2_name">
+		<text>Chimera Hide (Transmutated)</text>
+	</string>
+	<string id="st_hide_chimera2_descr">
+		<text>Chimera hide imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_pseudogiant2_name">
+		<text>Pseudogiant Hide (Transmutated)</text>
+	</string>
+	<string id="st_hide_pseudogiant2_descr">
+		<text>Pseudogiant hide imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_psy_dog2_name">
+		<text>Psy-dog Fur (Transmutated)</text>
+	</string>
+	<string id="st_hide_psy_dog2_descr">
+		<text>Psy-dog fur imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_pseudodog2_name">
+		<text>Pseudodog Fur (Transmutated)</text>
+	</string>
+	<string id="st_hide_pseudodog2_descr">
+		<text>Pseudodog fur imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_burer2_name">
+		<text>Burer Skin (Transmutated)</text>
+	</string>
+	<string id="st_hide_burer2_descr">
+		<text>Burer skin imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_controller2_name">
+		<text>Controller Scalp (Transmutated)</text>
+	</string>
+	<string id="st_hide_controller2_descr">
+		<text>Controller scalp imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_bloodsucker2_name">
+		<text>Bloodsucker Skin (Transmutated)</text>
+	</string>
+	<string id="st_hide_bloodsucker2_descr">
+		<text>Bloodsucker skin imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_psysucker2_name">
+		<text>Psysucker Skin (Transmutated)</text>
+	</string>
+	<string id="st_hide_psysucker2_descr">
+		<text>Psysucker skin imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+	<string id="st_hide_lurker2_name">
+		<text>Lurker Hide (Transmutated)</text>
+	</string>
+	<string id="st_hide_lurker2_descr">
+		<text>Lurker hide imbued with artefacts through the process of transmutation to further enhance their protective properties and increase it's durability.\n \n
+		%c[ui_gray_2]PROPERTIES:\n
+		%c[d_cyan] • %c[0,255,0,0] Transmutated\n
+		%c[d_cyan] • %c[ui_gray_2] Upgraded mutant hide\n
+		%c[d_cyan] • %c[ui_gray_2] Enhanced properties\n
+		%c[d_cyan] • %c[ui_gray_2] Additive effects\n
+		</text>
+	</string>
+
+</string_table>
